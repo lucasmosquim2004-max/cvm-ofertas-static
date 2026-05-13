@@ -693,7 +693,6 @@ def export_mercado_pipeline(con, out_dir: pathlib.Path):
         WHERE data_inicio IS NOT NULL
           AND YEAR(data_inicio) >= YEAR(CURRENT_DATE) - 5
           AND YEAR(data_inicio) < YEAR(CURRENT_DATE)
-          AND tipo_fundo IN ('FIDC', 'FII', 'FIP', 'FIDC NP')
         GROUP BY mes_num
         ORDER BY mes_num
     """))
