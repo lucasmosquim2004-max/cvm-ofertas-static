@@ -37,11 +37,9 @@ const fmtBi = (v: number) => {
 };
 const fmtPct = (v: number) => `${v.toFixed(1)}%`;
 
-type Metrica = "quantidade" | "volume";
 type Tab = "captacao" | "registradas";
 
 export function SecuritizacaoSection({ data }: Props) {
-  const [metrica, setMetrica] = useState<Metrica>("volume");
   const [tab, setTab] = useState<Tab>("captacao");
 
   if (!data.disponivel) {
@@ -66,11 +64,11 @@ export function SecuritizacaoSection({ data }: Props) {
     () =>
       data.consolidado_ano.map((r) => ({
         ano: String(r.ano),
-        Ofertadas: metrica === "quantidade" ? r.n_ofertadas : +(r.vol_ofertado / 1e9).toFixed(1),
-        Encerradas: metrica === "quantidade" ? r.n_encerradas : +(r.vol_encerrado / 1e9).toFixed(1),
+        Ofertadas: r.n_ofertadas,
+        Encerradas: r.n_encerradas,
         taxa: r.taxa_encerramento,
       })),
-    [data.consolidado_ano, metrica]
+    [data.consolidado_ano]
   );
 
   const chartByTipo = useMemo(
@@ -82,13 +80,13 @@ export function SecuritizacaoSection({ data }: Props) {
             .filter((r) => r.tipo_ativo === tipo)
             .map((r) => ({
               ano: String(r.ano),
-              Ofertadas: metrica === "quantidade" ? r.n_ofertadas : +(r.vol_ofertado / 1e9).toFixed(1),
-              Encerradas: metrica === "quantidade" ? r.n_encerradas : +(r.vol_encerrado / 1e9).toFixed(1),
+              Ofertadas: r.n_ofertadas,
+              Encerradas: r.n_encerradas,
               taxa: r.taxa_encerramento,
             })),
         })
       ),
-    [data.por_tipo_ano, metrica]
+    [data.por_tipo_ano]
   );
 
   // ── Aba 2: Captação Efetiva (mesmo coorte: YEAR(data_encerramento)) ───────
@@ -128,7 +126,7 @@ export function SecuritizacaoSection({ data }: Props) {
   }, [data.captacao_tipo_ano]);
 
   const anosCaptacao = data.anos_captacao ?? data.anos;
-  const yLabel = metrica === "quantidade" ? "operações" : "R$ bi";
+  const yLabel = "operações";
 
   const anbimaBase = data.anbima_data_base ?? null;
   const cvmBase = data.cvm_data_base ?? null;
@@ -522,33 +520,8 @@ export function SecuritizacaoSection({ data }: Props) {
       {/* ── TAB: Registradas × Encerradas (CVM) ───────────────────────────── */}
       {tab === "registradas" && (
         <>
-          <div className="flex justify-end">
-            <div className="flex overflow-hidden rounded-lg border border-gray-200 text-xs font-medium">
-              <button
-                onClick={() => setMetrica("quantidade")}
-                className={`px-3 py-1.5 transition-colors ${
-                  metrica === "quantidade"
-                    ? "bg-[#0F3443] text-white"
-                    : "bg-white text-gray-600 hover:bg-gray-50"
-                }`}
-              >
-                Quantidade
-              </button>
-              <button
-                onClick={() => setMetrica("volume")}
-                className={`border-l border-gray-200 px-3 py-1.5 transition-colors ${
-                  metrica === "volume"
-                    ? "bg-[#0F3443] text-white"
-                    : "bg-white text-gray-600 hover:bg-gray-50"
-                }`}
-              >
-                Volume (R$)
-              </button>
-            </div>
-          </div>
-
-          <p className="-mt-2 text-xs text-gray-500">
-            Taxa de encerramento = {metrica === "quantidade" ? "operações encerradas / registradas" : "volume (registrado) das encerradas / total registrado"}.
+          <p className="text-xs text-gray-500">
+            Taxa de encerramento = operações encerradas / registradas.
             Agrupado por <strong>ano de início</strong> da oferta. Inclui ICVM/400, ICVM/476 e RCVM/160. Fonte: CVM.
             {dataBaseCvm && (
               <span className="ml-1 font-medium text-gray-600">· Data base: {dataBaseCvm}</span>
@@ -559,7 +532,7 @@ export function SecuritizacaoSection({ data }: Props) {
           <div className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
             <div className="mb-1 flex items-center justify-between">
               <h3 className="text-sm font-semibold text-gray-800">
-                Consolidado — {metrica === "quantidade" ? "Nº de operações" : "Volume (R$ bi)"}
+                Consolidado — Nº de operações
               </h3>
               <span
                 className="rounded-full px-2.5 py-0.5 text-[11px] font-bold"
@@ -583,14 +556,12 @@ export function SecuritizacaoSection({ data }: Props) {
                   tick={{ fontSize: 11, fill: "#9ca3af" }}
                   axisLine={false}
                   tickLine={false}
-                  tickFormatter={(v: number) => metrica === "volume" ? `${v}B` : String(v)}
+                  tickFormatter={(v: number) => String(v)}
                 />
                 <Tooltip
                   contentStyle={{ fontSize: 12, borderRadius: 8, border: "1px solid #e5e7eb" }}
                   formatter={(v: unknown, name: unknown) => [
-                    metrica === "volume"
-                      ? `R$ ${(v as number).toFixed(1)} bi`
-                      : `${(v as number).toLocaleString("pt-BR")} ${yLabel}`,
+                    `${(v as number).toLocaleString("pt-BR")} ${yLabel}`,
                     name as string,
                   ]}
                 />
@@ -600,9 +571,7 @@ export function SecuritizacaoSection({ data }: Props) {
                     dataKey="Ofertadas"
                     position="top"
                     style={{ fontSize: 11, fill: "#6b7280" }}
-                    formatter={(v: unknown) =>
-                      metrica === "volume" ? `${(v as number).toFixed(1)}` : String(v as number)
-                    }
+                    formatter={(v: unknown) => String(v as number)}
                   />
                 </Bar>
                 <Bar dataKey="Encerradas" fill={PALETTE.amber} radius={[4, 4, 0, 0]}>
@@ -610,9 +579,7 @@ export function SecuritizacaoSection({ data }: Props) {
                     dataKey="Encerradas"
                     position="top"
                     style={{ fontSize: 11, fill: PALETTE.amber }}
-                    formatter={(v: unknown) =>
-                      metrica === "volume" ? `${(v as number).toFixed(1)}` : String(v as number)
-                    }
+                    formatter={(v: unknown) => String(v as number)}
                   />
                 </Bar>
               </BarChart>
@@ -665,9 +632,7 @@ export function SecuritizacaoSection({ data }: Props) {
                       <Tooltip
                         contentStyle={{ fontSize: 11, borderRadius: 8, border: "1px solid #e5e7eb" }}
                         formatter={(v: unknown, name: unknown) => [
-                          metrica === "volume"
-                            ? `R$ ${(v as number).toFixed(1)} bi`
-                            : `${(v as number).toLocaleString("pt-BR")} ${yLabel}`,
+                          `${(v as number).toLocaleString("pt-BR")} ${yLabel}`,
                           name as string,
                         ]}
                       />
@@ -748,15 +713,9 @@ export function SecuritizacaoSection({ data }: Props) {
                         const r = data.por_tipo_ano.find(
                           (x) => x.ano === ano && x.tipo_ativo === tipo
                         );
-                        const val = r
-                          ? metrica === "quantidade"
-                            ? fmtBR(r.n_ofertadas)
-                            : fmtBi(r.vol_ofertado)
-                          : "—";
+                        const val = r ? fmtBR(r.n_ofertadas) : "—";
                         const enc = r
-                          ? metrica === "quantidade"
-                            ? `${fmtBR(r.n_encerradas)} (${fmtPct(r.taxa_encerramento)})`
-                            : `${fmtBi(r.vol_encerrado)} (${fmtPct(r.taxa_encerramento)})`
+                          ? `${fmtBR(r.n_encerradas)} (${fmtPct(r.taxa_encerramento)})`
                           : "—";
                         return [
                           <td key={`${ano}-of`} className="px-3 py-2 text-right tabular-nums text-gray-600">
@@ -786,15 +745,9 @@ export function SecuritizacaoSection({ data }: Props) {
                   <td className="px-4 py-2.5 text-sm font-semibold text-gray-800">Consolidado</td>
                   {data.anos.flatMap((ano) => {
                     const r = data.consolidado_ano.find((x) => x.ano === ano);
-                    const val = r
-                      ? metrica === "quantidade"
-                        ? fmtBR(r.n_ofertadas)
-                        : fmtBi(r.vol_ofertado)
-                      : "—";
+                    const val = r ? fmtBR(r.n_ofertadas) : "—";
                     const enc = r
-                      ? metrica === "quantidade"
-                        ? `${fmtBR(r.n_encerradas)} (${fmtPct(r.taxa_encerramento)})`
-                        : `${fmtBi(r.vol_encerrado)} (${fmtPct(r.taxa_encerramento)})`
+                      ? `${fmtBR(r.n_encerradas)} (${fmtPct(r.taxa_encerramento)})`
                       : "—";
                     return [
                       <td key={`${ano}-of`} className="px-3 py-2.5 text-right tabular-nums text-gray-700">
