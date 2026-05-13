@@ -4,7 +4,6 @@ import { MercadoOverview } from "@/components/mercado/MercadoOverview";
 import { VolumeMensalSection } from "@/components/mercado/VolumeMensalSection";
 import { TendenciaSection } from "@/components/mercado/TendenciaSection";
 import { EficienciaSection } from "@/components/mercado/EficienciaSection";
-import { CaptacaoRealSection } from "@/components/mercado/CaptacaoRealSection";
 import { SegmentacaoSection } from "@/components/mercado/SegmentacaoSection";
 import { PipelineSection } from "@/components/mercado/PipelineSection";
 import { SecuritizacaoSection } from "@/components/mercado/SecuritizacaoSection";
@@ -15,7 +14,6 @@ import type {
   SegmentacaoData,
   PipelineData,
   VolumeMensalData,
-  CaptacaoRealData,
   SecuritizacaoData,
 } from "@/types/mercado";
 
@@ -24,7 +22,6 @@ import overviewRaw from "@/public/data/mercado_overview.json";
 import volumeMensalRaw from "@/public/data/mercado_volume_mensal.json";
 import tendenciaRaw from "@/public/data/mercado_tendencia.json";
 import eficienciaRaw from "@/public/data/mercado_eficiencia.json";
-import captacaoRaw from "@/public/data/mercado_captacao_real.json";
 import segmentacaoRaw from "@/public/data/mercado_segmentacao.json";
 import pipelineRaw from "@/public/data/mercado_pipeline.json";
 import securitizacaoRaw from "@/public/data/mercado_securitizacao.json";
@@ -33,7 +30,6 @@ const overview = overviewRaw as OverviewData;
 const volumeMensal = volumeMensalRaw as VolumeMensalData;
 const tendencia = tendenciaRaw as TendenciaData;
 const eficiencia = eficienciaRaw as EficienciaData;
-const captacao = captacaoRaw as CaptacaoRealData;
 const segmentacao = segmentacaoRaw as SegmentacaoData;
 const pipeline = pipelineRaw as PipelineData;
 const securitizacao = securitizacaoRaw as SecuritizacaoData;
@@ -82,8 +78,7 @@ export default function MercadoPage() {
           <div id="volume-mensal"><VolumeMensalSection data={volumeMensal} dataBase={dataBase} /></div>
           <div id="historico-volume"><TendenciaSection data={tendencia} dataBase={dataBase} /></div>
           <div id="metricas-captacao"><EficienciaSection data={eficiencia} dataBase={dataBase} /></div>
-          <div id="taxa-sucesso"><CaptacaoRealSection data={captacao} dataBase={dataBase} /></div>
-          <div id="mercado-capitais"><SecuritizacaoSection data={securitizacao} /></div>
+<div id="mercado-capitais"><SecuritizacaoSection data={securitizacao} /></div>
           <div id="segmentacao"><SegmentacaoSection data={segmentacao} dataBase={dataBase} /></div>
           <div id="sazonalidade"><PipelineSection data={pipeline} dataBase={dataBase} /></div>
         </main>

@@ -7,8 +7,7 @@ const SECTIONS = [
   { id: "volume-mensal", label: "Volume Mensal" },
   { id: "historico-volume", label: "Histórico de Volume" },
   { id: "metricas-captacao", label: "Métricas de Captação" },
-  { id: "taxa-sucesso", label: "Taxa de Sucesso" },
-  { id: "mercado-capitais", label: "Mercado de Capitais" },
+{ id: "mercado-capitais", label: "Mercado de Capitais" },
   { id: "segmentacao", label: "Segmentação" },
   { id: "sazonalidade", label: "Sazonalidade" },
 ];
