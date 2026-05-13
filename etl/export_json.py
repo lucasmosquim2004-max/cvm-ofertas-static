@@ -693,7 +693,7 @@ def export_mercado_pipeline(con, out_dir: pathlib.Path):
         WHERE data_inicio IS NOT NULL
           AND YEAR(data_inicio) >= YEAR(CURRENT_DATE) - 5
           AND YEAR(data_inicio) < YEAR(CURRENT_DATE)
-          AND tipo_fundo IN ('Cotas de FIDC', 'Cotas de FII', 'Cotas de FIP')
+          AND tipo_fundo IN ('FIDC', 'FII', 'FIP', 'FIDC NP')
         GROUP BY mes_num
         ORDER BY mes_num
     """))
@@ -953,18 +953,29 @@ def export_mercado_securitizacao(con, out_dir: pathlib.Path):
         cvm_data_base = None
 
     # Quando ANBIMA tem data_base, limitar CVM ao mesmo período para comparação justa
+    # anbima_data_base pode ser "Mar/26" (Excel) ou "03/2026" (numérico)
     cvm_captacao_cutoff = ""
     if has_anbima and anbima_data_base:
         try:
             import calendar as _cal
-            m_str, y_str = anbima_data_base.split("/")
-            m_int, y_int = int(m_str), int(y_str)
-            _, last_day = _cal.monthrange(y_int, m_int)
-            cutoff = f"{y_int}-{m_int:02d}-{last_day:02d}"
-            cvm_captacao_cutoff = f"AND data_encerramento <= '{cutoff}'"
-            cvm_data_base = anbima_data_base  # exibir mesma data base
-        except Exception:
-            pass
+            _MON = {
+                'jan': 1, 'fev': 2, 'mar': 3, 'abr': 4, 'mai': 5, 'jun': 6,
+                'jul': 7, 'ago': 8, 'set': 9, 'out': 10, 'nov': 11, 'dez': 12,
+                'feb': 2, 'apr': 4, 'may': 5, 'aug': 8, 'sep': 9, 'oct': 10,
+            }
+            parts = str(anbima_data_base).split("/")
+            m_raw, y_raw = parts[0].strip(), parts[1].strip()
+            m_int = int(m_raw) if m_raw.isdigit() else _MON.get(m_raw.lower()[:3])
+            y_int = int(y_raw)
+            if y_int < 100:
+                y_int += 2000
+            if m_int:
+                _, last_day = _cal.monthrange(y_int, m_int)
+                cutoff = f"{y_int}-{m_int:02d}-{last_day:02d}"
+                cvm_captacao_cutoff = f"AND data_encerramento <= '{cutoff}'"
+                cvm_data_base = anbima_data_base  # exibir mesma data base
+        except Exception as e:
+            print(f"Warning: nao foi possivel parsear anbima_data_base='{anbima_data_base}': {e}")
 
     # Aba Registradas × Encerradas
     por_tipo_ano = rows_to_dicts(con.execute("""
