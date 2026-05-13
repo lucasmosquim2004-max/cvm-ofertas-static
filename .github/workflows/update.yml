@@ -19,39 +19,33 @@ jobs:
           python-version: '3.11'
 
       - name: Install Python deps
-        run: |
-          cd cvm-ofertas
-          pip install -r requirements.txt
+        run: pip install -r etl/requirements.txt
 
       - name: Run ETL (download + load CVM data)
         run: |
-          cd cvm-ofertas
+          cd etl
           python ofertas_monitor.py
 
       - name: Export JSONs
         run: |
-          cd cvm-ofertas
-          python export_json.py --out ../cvm-ofertas-static/public/data
+          cd etl
+          python export_json.py --out ../public/data
 
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-          cache-dependency-path: cvm-ofertas-static/package-lock.json
+          cache-dependency-path: package-lock.json
 
       - name: Install Node deps
-        run: |
-          cd cvm-ofertas-static
-          npm ci
+        run: npm ci
 
       - name: Build static site
-        run: |
-          cd cvm-ofertas-static
-          npm run build
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./cvm-ofertas-static/out
+          publish_dir: ./out
