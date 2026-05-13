@@ -153,7 +153,7 @@
       "n_ofertadas": 2716,
       "n_encerradas": 2679,
       "vol_ofertado": 727855453569.54,
-      "vol_encerrado": 721306889977.9601,
+      "vol_encerrado": 721306889977.96,
       "taxa_encerramento": 98.6,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -162,7 +162,7 @@
       "ano": 2025,
       "n_ofertadas": 3048,
       "n_encerradas": 2627,
-      "vol_ofertado": 743591458309.5597,
+      "vol_ofertado": 743591458309.5598,
       "vol_encerrado": 711754002826.0,
       "taxa_encerramento": 86.2,
       "vol_distribuido_anbima": null,
@@ -280,21 +280,21 @@
   "captacao_consolidado": [
     {
       "ano": 2024,
-      "vol_ofertado_cvm": 749785601977.0298,
+      "vol_ofertado_cvm": 749785601977.0299,
       "n_encerradas_cvm": 3179,
       "vol_encerrado_anbima": null,
       "n_encerradas_anbima": null
     },
     {
       "ano": 2025,
-      "vol_ofertado_cvm": 728688308725.9897,
+      "vol_ofertado_cvm": 728688308725.9899,
       "n_encerradas_cvm": 2823,
       "vol_encerrado_anbima": null,
       "n_encerradas_anbima": null
     },
     {
       "ano": 2026,
-      "vol_ofertado_cvm": 226755901284.39,
+      "vol_ofertado_cvm": 226755901284.38998,
       "n_encerradas_cvm": 923,
       "vol_encerrado_anbima": null,
       "n_encerradas_anbima": null
