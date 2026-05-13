@@ -2,7 +2,7 @@
   "disponivel": true,
   "anbima_disponivel": true,
   "anbima_data_base": "Mar/26",
-  "cvm_data_base": "05/2026",
+  "cvm_data_base": "Mar/26",
   "anos": [
     2024,
     2025,
@@ -215,7 +215,7 @@
     {
       "ano": 2025,
       "tipo_ativo": "FIDC",
-      "vol_ofertado_cvm": 126065104239.9001,
+      "vol_ofertado_cvm": 126065104239.90007,
       "n_encerradas_cvm": 1508,
       "vol_encerrado_anbima": 90985106092.70312,
       "n_encerradas_anbima": 0
@@ -247,32 +247,32 @@
     {
       "ano": 2026,
       "tipo_ativo": "FIDC",
-      "vol_ofertado_cvm": 50017891667.490005,
-      "n_encerradas_cvm": 496,
+      "vol_ofertado_cvm": 30026887836.570015,
+      "n_encerradas_cvm": 344,
       "vol_encerrado_anbima": 21390340555.28416,
       "n_encerradas_anbima": 0
     },
     {
       "ano": 2026,
       "tipo_ativo": "FII",
-      "vol_ofertado_cvm": 41383716185.40999,
-      "n_encerradas_cvm": 137,
+      "vol_ofertado_cvm": 27455356924.47,
+      "n_encerradas_cvm": 93,
       "vol_encerrado_anbima": 20031935945.038948,
       "n_encerradas_anbima": 0
     },
     {
       "ano": 2026,
       "tipo_ativo": "FIP",
-      "vol_ofertado_cvm": 15532234214.49,
-      "n_encerradas_cvm": 106,
+      "vol_ofertado_cvm": 11428011104.759998,
+      "n_encerradas_cvm": 70,
       "vol_encerrado_anbima": null,
       "n_encerradas_anbima": null
     },
     {
       "ano": 2026,
       "tipo_ativo": "Debêntures",
-      "vol_ofertado_cvm": 119822059217.0,
-      "n_encerradas_cvm": 184,
+      "vol_ofertado_cvm": 91891436217.0,
+      "n_encerradas_cvm": 132,
       "vol_encerrado_anbima": 99323664108.0112,
       "n_encerradas_anbima": 0
     }
@@ -294,8 +294,8 @@
     },
     {
       "ano": 2026,
-      "vol_ofertado_cvm": 226755901284.38998,
-      "n_encerradas_cvm": 923,
+      "vol_ofertado_cvm": 160801692082.80002,
+      "n_encerradas_cvm": 639,
       "vol_encerrado_anbima": 140745940608.33432,
       "n_encerradas_anbima": 0
     }
