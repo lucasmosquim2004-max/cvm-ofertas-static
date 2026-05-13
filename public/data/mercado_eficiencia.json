@@ -1,0 +1,421 @@
+{
+  "dias": [
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "Automático",
+      "ano": 2023,
+      "total": 783,
+      "encerradas": 762,
+      "dias_medio_captacao": 152.9
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "Automático",
+      "ano": 2024,
+      "total": 1400,
+      "encerradas": 1378,
+      "dias_medio_captacao": 135.0
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "Automático",
+      "ano": 2025,
+      "total": 1713,
+      "encerradas": 1343,
+      "dias_medio_captacao": 132.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "Automático",
+      "ano": 2026,
+      "total": 488,
+      "encerradas": 53,
+      "dias_medio_captacao": 32.8
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2009,
+      "total": 1,
+      "encerradas": 1,
+      "dias_medio_captacao": 2320.0
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2010,
+      "total": 4,
+      "encerradas": 4,
+      "dias_medio_captacao": 2455.5
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2011,
+      "total": 3,
+      "encerradas": 3,
+      "dias_medio_captacao": 891.3
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2012,
+      "total": 7,
+      "encerradas": 7,
+      "dias_medio_captacao": 1474.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2013,
+      "total": 8,
+      "encerradas": 8,
+      "dias_medio_captacao": 1141.0
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2014,
+      "total": 37,
+      "encerradas": 37,
+      "dias_medio_captacao": 905.8
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2015,
+      "total": 76,
+      "encerradas": 76,
+      "dias_medio_captacao": 639.9
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2016,
+      "total": 120,
+      "encerradas": 120,
+      "dias_medio_captacao": 457.3
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2017,
+      "total": 239,
+      "encerradas": 239,
+      "dias_medio_captacao": 396.5
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2018,
+      "total": 353,
+      "encerradas": 353,
+      "dias_medio_captacao": 329.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2019,
+      "total": 445,
+      "encerradas": 445,
+      "dias_medio_captacao": 366.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2020,
+      "total": 621,
+      "encerradas": 621,
+      "dias_medio_captacao": 343.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2021,
+      "total": 989,
+      "encerradas": 989,
+      "dias_medio_captacao": 297.9
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "rito": "ICVM 476",
+      "ano": 2022,
+      "total": 1193,
+      "encerradas": 1193,
+      "dias_medio_captacao": 419.1
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "Automático",
+      "ano": 2023,
+      "total": 247,
+      "encerradas": 228,
+      "dias_medio_captacao": 108.8
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "Automático",
+      "ano": 2024,
+      "total": 358,
+      "encerradas": 355,
+      "dias_medio_captacao": 108.0
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "Automático",
+      "ano": 2025,
+      "total": 425,
+      "encerradas": 372,
+      "dias_medio_captacao": 84.7
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "Automático",
+      "ano": 2026,
+      "total": 135,
+      "encerradas": 48,
+      "dias_medio_captacao": 32.6
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2013,
+      "total": 6,
+      "encerradas": 6,
+      "dias_medio_captacao": 823.8
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2014,
+      "total": 5,
+      "encerradas": 5,
+      "dias_medio_captacao": 1368.6
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2015,
+      "total": 28,
+      "encerradas": 28,
+      "dias_medio_captacao": 170.6
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2016,
+      "total": 65,
+      "encerradas": 65,
+      "dias_medio_captacao": 139.8
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2017,
+      "total": 78,
+      "encerradas": 78,
+      "dias_medio_captacao": 272.2
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2018,
+      "total": 109,
+      "encerradas": 109,
+      "dias_medio_captacao": 303.2
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2019,
+      "total": 180,
+      "encerradas": 180,
+      "dias_medio_captacao": 236.4
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2020,
+      "total": 249,
+      "encerradas": 249,
+      "dias_medio_captacao": 171.6
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2021,
+      "total": 319,
+      "encerradas": 319,
+      "dias_medio_captacao": 203.2
+    },
+    {
+      "tipo_fundo": "Cotas de FII",
+      "rito": "ICVM 476",
+      "ano": 2022,
+      "total": 325,
+      "encerradas": 325,
+      "dias_medio_captacao": 286.4
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "Automático",
+      "ano": 2023,
+      "total": 275,
+      "encerradas": 257,
+      "dias_medio_captacao": 168.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "Automático",
+      "ano": 2024,
+      "total": 311,
+      "encerradas": 301,
+      "dias_medio_captacao": 134.4
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "Automático",
+      "ano": 2025,
+      "total": 303,
+      "encerradas": 242,
+      "dias_medio_captacao": 123.5
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "Automático",
+      "ano": 2026,
+      "total": 78,
+      "encerradas": 21,
+      "dias_medio_captacao": 36.5
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2008,
+      "total": 2,
+      "encerradas": 2,
+      "dias_medio_captacao": 4900.0
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2010,
+      "total": 9,
+      "encerradas": 9,
+      "dias_medio_captacao": 2719.8
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2011,
+      "total": 15,
+      "encerradas": 15,
+      "dias_medio_captacao": 3022.3
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2012,
+      "total": 36,
+      "encerradas": 36,
+      "dias_medio_captacao": 2342.4
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2013,
+      "total": 42,
+      "encerradas": 42,
+      "dias_medio_captacao": 1604.3
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2014,
+      "total": 58,
+      "encerradas": 58,
+      "dias_medio_captacao": 1085.5
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2015,
+      "total": 122,
+      "encerradas": 122,
+      "dias_medio_captacao": 709.1
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2016,
+      "total": 158,
+      "encerradas": 158,
+      "dias_medio_captacao": 487.2
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2017,
+      "total": 201,
+      "encerradas": 201,
+      "dias_medio_captacao": 416.3
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2018,
+      "total": 267,
+      "encerradas": 267,
+      "dias_medio_captacao": 387.0
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2019,
+      "total": 314,
+      "encerradas": 314,
+      "dias_medio_captacao": 403.0
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2020,
+      "total": 342,
+      "encerradas": 342,
+      "dias_medio_captacao": 325.2
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2021,
+      "total": 538,
+      "encerradas": 538,
+      "dias_medio_captacao": 254.4
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "rito": "ICVM 476",
+      "ano": 2022,
+      "total": 614,
+      "encerradas": 614,
+      "dias_medio_captacao": 450.9
+    }
+  ],
+  "ticket_atual": [
+    {
+      "tipo_fundo": "Cotas de FII",
+      "ticket_medio": 252.02,
+      "n": 133
+    },
+    {
+      "tipo_fundo": "Cotas de FIP",
+      "ticket_medio": 209.47,
+      "n": 78
+    },
+    {
+      "tipo_fundo": "Cotas de FIDC",
+      "ticket_medio": 89.76,
+      "n": 483
+    }
+  ]
+}

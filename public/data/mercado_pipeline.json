@@ -1,0 +1,52 @@
+{
+  "sazonalidade": [
+    {
+      "mes_num": 1,
+      "media_por_ano": 58.6
+    },
+    {
+      "mes_num": 2,
+      "media_por_ano": 66.8
+    },
+    {
+      "mes_num": 3,
+      "media_por_ano": 76.2
+    },
+    {
+      "mes_num": 4,
+      "media_por_ano": 69.5
+    },
+    {
+      "mes_num": 5,
+      "media_por_ano": 78.2
+    },
+    {
+      "mes_num": 6,
+      "media_por_ano": 71.2
+    },
+    {
+      "mes_num": 7,
+      "media_por_ano": 68.0
+    },
+    {
+      "mes_num": 8,
+      "media_por_ano": 80.7
+    },
+    {
+      "mes_num": 9,
+      "media_por_ano": 80.2
+    },
+    {
+      "mes_num": 10,
+      "media_por_ano": 88.4
+    },
+    {
+      "mes_num": 11,
+      "media_por_ano": 75.9
+    },
+    {
+      "mes_num": 12,
+      "media_por_ano": 108.0
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+name: Update Dashboard
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # 6h horário de Brasília (UTC-3)
+  workflow_dispatch:       # permite rodar manualmente
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python deps
+        run: |
+          cd cvm-ofertas
+          pip install -r requirements.txt
+
+      - name: Run ETL (download + load CVM data)
+        run: |
+          cd cvm-ofertas
+          python ofertas_monitor.py
+
+      - name: Export JSONs
+        run: |
+          cd cvm-ofertas
+          python export_json.py --out ../cvm-ofertas-static/public/data
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: cvm-ofertas-static/package-lock.json
+
+      - name: Install Node deps
+        run: |
+          cd cvm-ofertas-static
+          npm ci
+
+      - name: Build static site
+        run: |
+          cd cvm-ofertas-static
+          npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./cvm-ofertas-static/out

@@ -1,0 +1,272 @@
+{
+  "novas_30d": 97,
+  "volume_30d": 9179250127.77,
+  "ativas_12m": 1034,
+  "total_ano": 701,
+  "por_tipo": [
+    {
+      "tipo_fundo": "FIDC",
+      "n": 1416,
+      "volume": 126932471950.60997
+    },
+    {
+      "tipo_fundo": "FII",
+      "n": 452,
+      "volume": 131560310803.04001
+    },
+    {
+      "tipo_fundo": "FIP",
+      "n": 286,
+      "volume": 43430206831.71
+    },
+    {
+      "tipo_fundo": "FIDC NP",
+      "n": 227,
+      "volume": 8543620796.440001
+    }
+  ],
+  "por_mes": [
+    {
+      "mes": "2025-05",
+      "n": 124,
+      "volume": 8995919497.320002
+    },
+    {
+      "mes": "2025-06",
+      "n": 237,
+      "volume": 27555301156.149998
+    },
+    {
+      "mes": "2025-07",
+      "n": 184,
+      "volume": 22786401376.820004
+    },
+    {
+      "mes": "2025-08",
+      "n": 175,
+      "volume": 17691157134.02
+    },
+    {
+      "mes": "2025-09",
+      "n": 215,
+      "volume": 36035944452.459984
+    },
+    {
+      "mes": "2025-10",
+      "n": 210,
+      "volume": 34141747370.52
+    },
+    {
+      "mes": "2025-11",
+      "n": 216,
+      "volume": 25230498802.300003
+    },
+    {
+      "mes": "2025-12",
+      "n": 319,
+      "volume": 44818368772.950005
+    },
+    {
+      "mes": "2026-01",
+      "n": 143,
+      "volume": 18693168270.660004
+    },
+    {
+      "mes": "2026-02",
+      "n": 180,
+      "volume": 27247910654.600006
+    },
+    {
+      "mes": "2026-03",
+      "n": 217,
+      "volume": 26196632032.77
+    },
+    {
+      "mes": "2026-04",
+      "n": 161,
+      "volume": 21073560861.23
+    }
+  ],
+  "por_tipo_60d": [
+    {
+      "tipo_ativo": "Debêntures",
+      "volume": 18193663000.0,
+      "n": 52
+    },
+    {
+      "tipo_ativo": "Cotas de FIDC",
+      "volume": 17005926162.530003,
+      "n": 197
+    },
+    {
+      "tipo_ativo": "Cotas de FII",
+      "volume": 11347167921.89,
+      "n": 52
+    },
+    {
+      "tipo_ativo": "Cotas de FIP",
+      "volume": 10105638946.229998,
+      "n": 36
+    },
+    {
+      "tipo_ativo": "Notas Comerciais",
+      "volume": 5016563000.0,
+      "n": 35
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 4279445381.5400004,
+      "n": 67
+    },
+    {
+      "tipo_ativo": "Outros títulos de securitização",
+      "volume": 3499246435.0,
+      "n": 11
+    },
+    {
+      "tipo_ativo": "Cotas de FIF",
+      "volume": 3171633008.44,
+      "n": 30
+    },
+    {
+      "tipo_ativo": "Cotas de FIAGRO",
+      "volume": 2094400000.0,
+      "n": 17
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
+      "volume": 638709000.0,
+      "n": 11
+    }
+  ],
+  "por_status_12m": [
+    {
+      "status_cvm": "Oferta Encerrada",
+      "n": 2881
+    },
+    {
+      "status_cvm": "Registro Concedido",
+      "n": 1416
+    },
+    {
+      "status_cvm": "Registro Caducado",
+      "n": 41
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 38
+    },
+    {
+      "status_cvm": "Oferta Revogada",
+      "n": 33
+    },
+    {
+      "status_cvm": "Requerimento Expirado",
+      "n": 10
+    }
+  ],
+  "top_emissores": [
+    {
+      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+      "volume": 9700000000.0,
+      "n": 2
+    },
+    {
+      "emissor_nome": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "volume": 6356202564.4,
+      "n": 1
+    },
+    {
+      "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "volume": 5235000000.0,
+      "n": 1
+    },
+    {
+      "emissor_nome": "ITAÚBA FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES EM INFRAESTRUTURA RESPONSABILIDADE LIMITADA",
+      "volume": 4000000000.0,
+      "n": 1
+    },
+    {
+      "emissor_nome": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "volume": 3407075394.55,
+      "n": 3
+    },
+    {
+      "emissor_nome": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "volume": 3096160000.0,
+      "n": 1
+    },
+    {
+      "emissor_nome": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "volume": 3003892239.6,
+      "n": 1
+    },
+    {
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "volume": 3000000000.0,
+      "n": 1
+    },
+    {
+      "emissor_nome": "VTK FUNDO DE  INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE  LIMITADA",
+      "volume": 2850000000.0,
+      "n": 1
+    },
+    {
+      "emissor_nome": "JS RENDA ATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "volume": 2687500064.0,
+      "n": 2
+    }
+  ],
+  "top_coordenadores": [
+    {
+      "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
+      "volume": 59698252135.56001,
+      "n": 117
+    },
+    {
+      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "volume": 40405157409.89,
+      "n": 76
+    },
+    {
+      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "volume": 33748249047.429996,
+      "n": 179
+    },
+    {
+      "coordenador": "BANCO BRADESCO BBI S.A.",
+      "volume": 15236750000.0,
+      "n": 17
+    },
+    {
+      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 12727230688.3,
+      "n": 280
+    },
+    {
+      "coordenador": "BANCO DAYCOVAL S.A.",
+      "volume": 12267058565.5,
+      "n": 142
+    },
+    {
+      "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 10332856560.03,
+      "n": 78
+    },
+    {
+      "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 10264724152.56,
+      "n": 98
+    },
+    {
+      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+      "volume": 10037007283.05,
+      "n": 16
+    },
+    {
+      "coordenador": "BANCO SAFRA S/A",
+      "volume": 7825866700.570001,
+      "n": 14
+    }
+  ]
+}
