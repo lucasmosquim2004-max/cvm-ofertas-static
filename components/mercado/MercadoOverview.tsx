@@ -111,8 +111,7 @@ export function MercadoOverview({ data }: Props) {
           Ofertas por ano por tipo (2019–hoje)
         </h3>
         <p className="mb-4 text-xs text-gray-400">
-          YoY YTD volume: {yoyVol >= 0 ? "+" : ""}
-          {yoyVol.toFixed(1)}% — empilhado por tipo de fundo
+          Empilhado por tipo de fundo
           {data.data_base && (
             <span className="ml-2 font-medium text-gray-500">· Data base: {data.data_base}</span>
           )}
@@ -155,10 +154,6 @@ export function MercadoOverview({ data }: Props) {
             ))}
           </BarChart>
         </ResponsiveContainer>
-        <p className="mt-2 text-[11px] text-gray-400">
-          Classificação CVM (Valor Mobiliário): legacy FIDC NP / FICFIDC /
-          FICFIP consolidados em FIDC ou FIP
-        </p>
       </div>
     </section>
   );

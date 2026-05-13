@@ -203,17 +203,6 @@ export function SecuritizacaoSection({ data }: Props) {
             </p>
           </div>
 
-          {!data.anbima_disponivel && (
-            <div className="rounded-xl border border-amber-200 bg-amber-50 p-4 text-xs text-amber-800">
-              <p className="font-medium">Dados ANBIMA não carregados.</p>
-              <p className="mt-1">
-                Execute:{" "}
-                <code className="rounded bg-amber-100 px-1">
-                  python ofertas_monitor.py --load-anbima Boletim_MK_Anexo_5.xlsx
-                </code>
-              </p>
-            </div>
-          )}
 
           {/* Gráfico consolidado captação */}
           <div className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">

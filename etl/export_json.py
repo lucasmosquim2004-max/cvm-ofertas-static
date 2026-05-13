@@ -688,6 +688,7 @@ def export_mercado_pipeline(con, out_dir: pathlib.Path):
             ROUND(COUNT(*) * 1.0 / COUNT(DISTINCT YEAR(data_inicio)), 1) AS media_por_ano
         FROM ofertas_fundos
         WHERE data_inicio IS NOT NULL
+          AND YEAR(data_inicio) < YEAR(CURRENT_DATE)
         GROUP BY mes_num
         ORDER BY mes_num
     """))
@@ -942,6 +943,20 @@ def export_mercado_securitizacao(con, out_dir: pathlib.Path):
     except Exception:
         cvm_data_base = None
 
+    # Quando ANBIMA tem data_base, limitar CVM ao mesmo período para comparação justa
+    cvm_captacao_cutoff = ""
+    if has_anbima and anbima_data_base:
+        try:
+            import calendar as _cal
+            m_str, y_str = anbima_data_base.split("/")
+            m_int, y_int = int(m_str), int(y_str)
+            _, last_day = _cal.monthrange(y_int, m_int)
+            cutoff = f"{y_int}-{m_int:02d}-{last_day:02d}"
+            cvm_captacao_cutoff = f"AND data_encerramento <= '{cutoff}'"
+            cvm_data_base = anbima_data_base  # exibir mesma data base
+        except Exception:
+            pass
+
     # Aba Registradas × Encerradas
     por_tipo_ano = rows_to_dicts(con.execute("""
         SELECT
@@ -978,7 +993,7 @@ def export_mercado_securitizacao(con, out_dir: pathlib.Path):
     """))
 
     # Aba Captação Efetiva
-    captacao_tipo = rows_to_dicts(con.execute("""
+    captacao_tipo = rows_to_dicts(con.execute(f"""
         SELECT
             YEAR(data_encerramento)  AS ano,
             tipo_ativo,
@@ -990,11 +1005,12 @@ def export_mercado_securitizacao(con, out_dir: pathlib.Path):
             AND YEAR(data_encerramento) >= YEAR(CURRENT_DATE) - 2
             AND tipo_ativo IN ('FIDC', 'FII', 'FIP', 'Debêntures')
             AND volume IS NOT NULL
+            {cvm_captacao_cutoff}
         GROUP BY ano, tipo_ativo
         ORDER BY ano, tipo_ativo
     """))
 
-    captacao_consolidado_rows = rows_to_dicts(con.execute("""
+    captacao_consolidado_rows = rows_to_dicts(con.execute(f"""
         SELECT
             YEAR(data_encerramento)  AS ano,
             COALESCE(SUM(volume), 0) AS vol_ofertado_cvm,
@@ -1004,6 +1020,7 @@ def export_mercado_securitizacao(con, out_dir: pathlib.Path):
             AND data_encerramento IS NOT NULL
             AND YEAR(data_encerramento) >= YEAR(CURRENT_DATE) - 2
             AND tipo_ativo IN ('FIDC', 'FII', 'FIP', 'Debêntures')
+            {cvm_captacao_cutoff}
         GROUP BY ano
         ORDER BY ano
     """))

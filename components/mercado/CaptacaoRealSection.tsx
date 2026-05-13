@@ -415,15 +415,6 @@ export function CaptacaoRealSection({ data, dataBase }: Props) {
         </div>
       )}
 
-      {!temAnbima && (
-        <div className="rounded-xl border border-amber-100 bg-amber-50 px-4 py-3 text-xs text-amber-800">
-          <strong>Proxy de captação ANBIMA indisponível.</strong> Configure{" "}
-          <code className="rounded bg-amber-100 px-1">ANBIMA_CLIENT_ID</code> /{" "}
-          <code className="rounded bg-amber-100 px-1">ANBIMA_CLIENT_SECRET</code> no{" "}
-          <code className="rounded bg-amber-100 px-1">cvm-ofertas/.env</code> e rode:{" "}
-          <code>python anbima_pl_fetcher.py</code>
-        </div>
-      )}
     </section>
   );
 }

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { MercadoSidebar } from "@/components/mercado/MercadoSidebar";
 import { MercadoOverview } from "@/components/mercado/MercadoOverview";
 import { VolumeMensalSection } from "@/components/mercado/VolumeMensalSection";
 import { TendenciaSection } from "@/components/mercado/TendenciaSection";
@@ -74,16 +75,19 @@ export default function MercadoPage() {
         </div>
       </header>
 
-      <main className="mx-auto max-w-screen-2xl space-y-8 px-4 py-6 sm:px-6 lg:px-8">
-        <MercadoOverview data={overview} />
-        <VolumeMensalSection data={volumeMensal} dataBase={dataBase} />
-        <TendenciaSection data={tendencia} dataBase={dataBase} />
-        <EficienciaSection data={eficiencia} dataBase={dataBase} />
-        <CaptacaoRealSection data={captacao} dataBase={dataBase} />
-        <SecuritizacaoSection data={securitizacao} />
-        <SegmentacaoSection data={segmentacao} dataBase={dataBase} />
-        <PipelineSection data={pipeline} dataBase={dataBase} />
-      </main>
+      <div className="mx-auto flex max-w-screen-2xl gap-6 px-4 py-6 sm:px-6 lg:px-8">
+        <MercadoSidebar />
+        <main className="min-w-0 flex-1 space-y-8">
+          <div id="visao-geral"><MercadoOverview data={overview} /></div>
+          <div id="volume-mensal"><VolumeMensalSection data={volumeMensal} dataBase={dataBase} /></div>
+          <div id="historico-volume"><TendenciaSection data={tendencia} dataBase={dataBase} /></div>
+          <div id="metricas-captacao"><EficienciaSection data={eficiencia} dataBase={dataBase} /></div>
+          <div id="taxa-sucesso"><CaptacaoRealSection data={captacao} dataBase={dataBase} /></div>
+          <div id="mercado-capitais"><SecuritizacaoSection data={securitizacao} /></div>
+          <div id="segmentacao"><SegmentacaoSection data={segmentacao} dataBase={dataBase} /></div>
+          <div id="sazonalidade"><PipelineSection data={pipeline} dataBase={dataBase} /></div>
+        </main>
+      </div>
     </div>
   );
 }
