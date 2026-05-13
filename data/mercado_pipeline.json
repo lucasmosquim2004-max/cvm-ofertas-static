@@ -2,51 +2,51 @@
   "sazonalidade": [
     {
       "mes_num": 1,
-      "media_por_ano": 116.0
+      "media_por_ano": 117.8
     },
     {
       "mes_num": 2,
-      "media_por_ano": 123.0
+      "media_por_ano": 123.8
     },
     {
       "mes_num": 3,
-      "media_por_ano": 150.4
+      "media_por_ano": 153.0
     },
     {
       "mes_num": 4,
-      "media_por_ano": 148.6
+      "media_por_ano": 150.4
     },
     {
       "mes_num": 5,
-      "media_por_ano": 161.4
+      "media_por_ano": 163.0
     },
     {
       "mes_num": 6,
-      "media_por_ano": 162.0
+      "media_por_ano": 163.4
     },
     {
       "mes_num": 7,
-      "media_por_ano": 146.0
+      "media_por_ano": 147.4
     },
     {
       "mes_num": 8,
-      "media_por_ano": 167.6
+      "media_por_ano": 170.8
     },
     {
       "mes_num": 9,
-      "media_por_ano": 193.0
+      "media_por_ano": 194.0
     },
     {
       "mes_num": 10,
-      "media_por_ano": 166.0
+      "media_por_ano": 168.6
     },
     {
       "mes_num": 11,
-      "media_por_ano": 170.0
+      "media_por_ano": 172.4
     },
     {
       "mes_num": 12,
-      "media_por_ano": 231.2
+      "media_por_ano": 234.0
     }
   ],
   "ano_min": 2021,
