@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { MercadoOverview } from "@/components/mercado/MercadoOverview";
 import { VolumeMensalSection } from "@/components/mercado/VolumeMensalSection";
 import { TendenciaSection } from "@/components/mercado/TendenciaSection";
@@ -63,12 +64,12 @@ export default function MercadoPage() {
                 <span className="ml-2 font-medium text-gray-500">· Data base CVM: {dataBase}</span>
               )}
             </span>
-            <a
+            <Link
               href="/"
               className="rounded-lg border border-[#0F3443] px-3 py-1.5 text-xs font-medium text-[#0F3443] transition-colors hover:bg-[#0F3443] hover:text-white"
             >
               ← Ofertas CVM 160
-            </a>
+            </Link>
           </div>
         </div>
       </header>

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { KPICards } from "@/components/KPICards";
 import { FundTypeChart } from "@/components/FundTypeChart";
 import { VolumeChart } from "@/components/VolumeChart";
@@ -32,12 +33,12 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-4">
             <span className="text-xs text-gray-400">Atualizado: {today}</span>
-            <a
+            <Link
               href="/mercado/"
               className="rounded-lg border border-[#1e3a5f] px-3 py-1.5 text-xs text-[#1e3a5f] font-medium hover:bg-[#1e3a5f] hover:text-white transition-colors"
             >
               Análise de Mercado
-            </a>
+            </Link>
           </div>
         </div>
       </header>
