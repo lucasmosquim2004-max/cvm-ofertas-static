@@ -682,21 +682,30 @@ def export_mercado_segmentacao(con, out_dir: pathlib.Path):
 
 def export_mercado_pipeline(con, out_dir: pathlib.Path):
     print("Exportando mercado_pipeline.json...")
+    # Usa os 5 anos completos mais recentes para refletir o mercado atual
     rows = rows_to_dicts(con.execute("""
         SELECT
             MONTH(data_inicio) AS mes_num,
-            ROUND(COUNT(*) * 1.0 / COUNT(DISTINCT YEAR(data_inicio)), 1) AS media_por_ano
+            ROUND(COUNT(*) * 1.0 / COUNT(DISTINCT YEAR(data_inicio)), 1) AS media_por_ano,
+            MIN(YEAR(data_inicio)) AS ano_min,
+            MAX(YEAR(data_inicio)) AS ano_max
         FROM ofertas_fundos
         WHERE data_inicio IS NOT NULL
+          AND YEAR(data_inicio) >= YEAR(CURRENT_DATE) - 5
           AND YEAR(data_inicio) < YEAR(CURRENT_DATE)
+          AND tipo_fundo IN ('Cotas de FIDC', 'Cotas de FII', 'Cotas de FIP')
         GROUP BY mes_num
         ORDER BY mes_num
     """))
+    ano_min = int(rows[0]["ano_min"]) if rows else None
+    ano_max = int(rows[0]["ano_max"]) if rows else None
     data = {
         "sazonalidade": [
             {"mes_num": int(r["mes_num"]), "media_por_ano": float(r["media_por_ano"] or 0)}
             for r in rows
-        ]
+        ],
+        "ano_min": ano_min,
+        "ano_max": ano_max,
     }
     save(out_dir / "mercado_pipeline.json", data)
 

@@ -48,7 +48,7 @@ export default function MercadoPage() {
 
   return (
     <div className="min-h-screen bg-[#f8f9fb]">
-      <header className="sticky top-0 z-10 border-b border-gray-200 bg-white/90 backdrop-blur-sm">
+      <header className="sticky top-0 z-20 border-b border-gray-200 bg-white/90 backdrop-blur-sm">
         <div className="mx-auto flex max-w-screen-2xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
           <div>
             <h1 className="text-lg font-bold text-[#0F3443]">
@@ -75,9 +75,9 @@ export default function MercadoPage() {
         </div>
       </header>
 
-      <div className="mx-auto flex max-w-screen-2xl gap-6 px-4 py-6 sm:px-6 lg:px-8">
-        <MercadoSidebar />
-        <main className="min-w-0 flex-1 space-y-8">
+      <MercadoSidebar />
+      <div className="lg:pl-48">
+        <main className="mx-auto max-w-screen-2xl space-y-8 px-4 py-6 sm:px-6 lg:px-8">
           <div id="visao-geral"><MercadoOverview data={overview} /></div>
           <div id="volume-mensal"><VolumeMensalSection data={volumeMensal} dataBase={dataBase} /></div>
           <div id="historico-volume"><TendenciaSection data={tendencia} dataBase={dataBase} /></div>

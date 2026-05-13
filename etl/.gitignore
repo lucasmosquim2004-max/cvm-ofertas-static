@@ -1,4 +1,6 @@
 data/
+!data/anbima/
+!data/anbima/*.xlsx
 __pycache__/
 *.pyc
 .env

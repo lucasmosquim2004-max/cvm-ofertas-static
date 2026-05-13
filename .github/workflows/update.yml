@@ -26,6 +26,15 @@ jobs:
           cd etl
           python ofertas_monitor.py
 
+      - name: Load ANBIMA data (if file committed)
+        run: |
+          if ls etl/data/anbima/*.xlsx 2>/dev/null | head -1 | grep -q .; then
+            cd etl
+            python ofertas_monitor.py --load-anbima $(ls data/anbima/*.xlsx | head -1)
+          else
+            echo "Nenhum arquivo ANBIMA encontrado em etl/data/anbima/ — pulando"
+          fi
+
       - name: Export JSONs
         run: |
           cd etl

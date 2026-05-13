@@ -59,8 +59,10 @@ export function PipelineSection({ data, dataBase }: Props) {
           Média histórica de ofertas por mês
         </h3>
         <p className="mb-4 text-xs text-gray-400">
-          Média de ofertas registradas em cada mês ao longo do histórico
-          completo
+          Média de ofertas FIDC · FII · FIP registradas por mês
+          {data.ano_min && data.ano_max
+            ? ` · baseado em ${data.ano_min}–${data.ano_max} (anos completos)`
+            : " · anos completos"}
           {dataBase && (
             <span className="ml-2 font-medium text-gray-500">· Data base: {dataBase}</span>
           )}

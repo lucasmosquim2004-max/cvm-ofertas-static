@@ -46,8 +46,8 @@ export function MercadoSidebar() {
   }
 
   return (
-    <nav className="hidden lg:block sticky top-[72px] h-fit w-52 shrink-0">
-      <p className="mb-3 px-3 text-[10px] font-semibold uppercase tracking-widest text-gray-400">
+    <nav className="hidden lg:block fixed left-0 top-[57px] h-[calc(100vh-57px)] w-48 overflow-y-auto border-r border-gray-100 bg-white px-2 py-4 z-10">
+      <p className="mb-3 px-2 text-[10px] font-semibold uppercase tracking-widest text-gray-400">
         Navegação
       </p>
       <ul className="space-y-0.5">

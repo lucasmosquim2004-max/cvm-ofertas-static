@@ -72,6 +72,8 @@ export interface SegmentacaoData {
 
 export interface PipelineData {
   sazonalidade: { mes_num: number; media_por_ano: number }[];
+  ano_min?: number | null;
+  ano_max?: number | null;
 }
 
 export interface VolumeMensalRow {
