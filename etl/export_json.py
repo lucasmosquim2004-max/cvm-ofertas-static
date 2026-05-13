@@ -783,10 +783,11 @@ def export_mercado_captacao_real(con, out_dir: pathlib.Path):
     else:
         top_sub = []
 
+    com_dados_sql = "(SELECT COUNT(*) FROM anbima_captacao_ofertas WHERE fetch_status = 'ok') AS com_dados" if anbima_existe else "0 AS com_dados"
     cobertura = con.execute(f"""
         SELECT
             (SELECT COUNT(*) FROM ofertas_fundos WHERE status = 'Encerrada') AS total_cvm,
-            {'(SELECT COUNT(*) FROM anbima_captacao_ofertas WHERE fetch_status = \'ok\') AS com_dados' if anbima_existe else '0 AS com_dados'}
+            {com_dados_sql}
     """).fetchone()
 
     if anbima_existe:
