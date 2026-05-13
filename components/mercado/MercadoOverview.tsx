@@ -102,7 +102,7 @@ export function MercadoOverview({ data }: Props) {
         <KPICard
           label="Ofertas Ativas"
           value={data.kpis.ativas_total.toLocaleString("pt-BR")}
-          sub="FIDC · FII · FIP · em distribuição"
+          sub="FIDC · FII · FIP · em distribuição · todos os anos"
         />
       </div>
 
