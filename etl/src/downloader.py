@@ -99,15 +99,18 @@ def download_cadastro(force: bool = False, dry_run: bool = False) -> dict[str, P
 
     paths["cad_fi"] = _download_file(CAD_FI_URL, RAW_DIR / "cad_fi.csv", force=force, dry_run=dry_run)
 
-    zip_path = _download_file(
-        REGISTRO_FUNDO_CLASSE_URL,
-        RAW_DIR / "registro_fundo_classe.zip",
-        force=force,
-        dry_run=dry_run,
-    )
-    paths["registro_fundo_classe"] = zip_path
+    try:
+        zip_path = _download_file(
+            REGISTRO_FUNDO_CLASSE_URL,
+            RAW_DIR / "registro_fundo_classe.zip",
+            force=force,
+            dry_run=dry_run,
+        )
+        paths["registro_fundo_classe"] = zip_path
 
-    if zip_path.exists() and not dry_run:
-        _extract_zip(zip_path, RAW_DIR)
+        if zip_path.exists() and not dry_run:
+            _extract_zip(zip_path, RAW_DIR)
+    except Exception as exc:
+        log.warning("registro_fundo_classe.zip indisponível (CVM pode ter removido): %s", exc)
 
     return paths

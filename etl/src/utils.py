@@ -42,6 +42,8 @@ def http_get_with_retry(url: str, stream: bool = False, **kwargs) -> requests.Re
             return resp
         except requests.RequestException as exc:
             last_exc = exc
+            if hasattr(exc, "response") and exc.response is not None and exc.response.status_code == 404:
+                raise
             wait = HTTP_BACKOFF_BASE ** attempt
             log.warning("Erro HTTP em %s: %s. Retry em %.1fs...", url, exc, wait)
             time.sleep(wait)
