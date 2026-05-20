@@ -1689,7 +1689,7 @@
     {
       "mes": "2026-04",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 3294932798.59,
+      "volume": 3319932798.59,
       "n": 26
     },
     {
@@ -1731,44 +1731,44 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 1010177288.16,
-      "n": 23
+      "volume": 1084527288.1599998,
+      "n": 25
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 206500000.0,
-      "n": 5
+      "volume": 241500000.0,
+      "n": 6
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 239070600.0,
+      "volume": 710320600.0,
       "n": 6
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 5676695165.220001,
-      "n": 69
+      "volume": 6099695165.220001,
+      "n": 82
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 3157137521.4,
-      "n": 16
-    },
-    {
-      "mes": "2026-05",
-      "valor_mobiliario": "Cotas de FII",
-      "volume": 4859511520.62,
+      "volume": 3171387521.4,
       "n": 18
     },
     {
       "mes": "2026-05",
+      "valor_mobiliario": "Cotas de FII",
+      "volume": 4989908429.07,
+      "n": 21
+    },
+    {
+      "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 4988400000.84,
-      "n": 10
+      "volume": 5099716991.139999,
+      "n": 13
     },
     {
       "mes": "2026-05",
@@ -1779,20 +1779,20 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Debêntures",
-      "volume": 3401000000.0,
-      "n": 14
+      "volume": 3066000000.0,
+      "n": 15
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 483799000.0,
-      "n": 10
+      "volume": 584799000.0,
+      "n": 12
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Outros títulos de securitização",
-      "volume": 300000000.0,
-      "n": 2
+      "volume": 1325300000.0,
+      "n": 6
     }
   ]
 }
