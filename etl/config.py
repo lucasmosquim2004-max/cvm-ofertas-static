@@ -52,6 +52,6 @@ TIPOS_FUNDO_PREFIXOS = ("FIDC", "FII", "FIP", "FICFIDC", "FICFIP")
 # ---------------------------------------------------------------------------
 
 HTTP_TIMEOUT = 60
-HTTP_MAX_RETRIES = 5
+HTTP_MAX_RETRIES = 8
 HTTP_BACKOFF_BASE = 2.0
 CHUNK_SIZE = 1024 * 256  # 256 KB
