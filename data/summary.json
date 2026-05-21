@@ -1,35 +1,35 @@
 {
-  "novas_30d": 184,
-  "volume_30d": 23490449747.129997,
-  "ativas_12m": 1018,
-  "total_ano": 841,
+  "novas_30d": 189,
+  "volume_30d": 23323649765.989998,
+  "ativas_12m": 1020,
+  "total_ano": 851,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1465,
-      "volume": 134244187526.53995
+      "n": 1470,
+      "volume": 134372387535.27997
     },
     {
       "tipo_fundo": "FII",
-      "n": 470,
-      "volume": 136274794832.11003
+      "n": 468,
+      "volume": 135724794832.11003
     },
     {
       "tipo_fundo": "FIP",
       "n": 300,
-      "volume": 49088023822.85
+      "volume": 49069023822.90999
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 237,
-      "volume": 8729320797.14
+      "n": 236,
+      "volume": 8720228677.51
     }
   ],
   "por_mes": [
     {
       "mes": "2025-05",
-      "n": 75,
-      "volume": 6466170224.32
+      "n": 67,
+      "volume": 5806078104.629999
     },
     {
       "mes": "2025-06",
@@ -69,7 +69,7 @@
     {
       "mes": "2026-01",
       "n": 143,
-      "volume": 18693168270.660004
+      "volume": 18693168270.660007
     },
     {
       "mes": "2026-02",
@@ -88,20 +88,20 @@
     },
     {
       "mes": "2026-05",
-      "n": 116,
-      "volume": 16189320585.43
+      "n": 126,
+      "volume": 16399520594.29
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 27199624000.0,
-      "n": 60
+      "volume": 29483624000.0,
+      "n": 63
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 21020840880.11,
-      "n": 259
+      "volume": 21216040888.91,
+      "n": 267
     },
     {
       "tipo_ativo": "Cotas de FII",
@@ -110,22 +110,22 @@
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 15724736046.949997,
-      "n": 48
+      "volume": 15739736047.009996,
+      "n": 50
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 8564522000.0,
-      "n": 47
+      "volume": 8580222000.0,
+      "n": 48
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 6773020319.990001,
-      "n": 51
+      "volume": 6956020320.070001,
+      "n": 52
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 4911957669.700001,
+      "volume": 5358438669.700001,
       "n": 87
     },
     {
@@ -140,34 +140,34 @@
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 3132570600.01,
-      "n": 22
+      "volume": 3307070600.0800004,
+      "n": 26
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3063
+      "n": 3064
     },
     {
       "status_cvm": "Registro Concedido",
       "n": 1402
     },
     {
-      "status_cvm": "Registro Caducado",
-      "n": 36
-    },
-    {
       "status_cvm": "Oferta Revogada",
       "n": 36
     },
     {
+      "status_cvm": "Registro Caducado",
+      "n": 34
+    },
+    {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 24
+      "n": 25
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 12
+      "n": 16
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -229,8 +229,8 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 62143479902.810005,
-      "n": 123
+      "volume": 61643479902.810005,
+      "n": 122
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -249,7 +249,7 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 13496934165.599997,
+      "volume": 13456934165.559996,
       "n": 150
     },
     {
@@ -258,14 +258,14 @@
       "n": 272
     },
     {
+      "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 10790499161.359999,
+      "n": 104
+    },
+    {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "volume": 10751856540.77,
       "n": 86
-    },
-    {
-      "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 10690499152.56,
-      "n": 102
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
