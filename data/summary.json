@@ -1,13 +1,13 @@
 {
-  "novas_30d": 199,
-  "volume_30d": 24686283866.009995,
+  "novas_30d": 185,
+  "volume_30d": 23185787138.099995,
   "ativas_12m": 1027,
   "total_ano": 861,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1469,
-      "volume": 134434887534.39996
+      "n": 1466,
+      "volume": 134422247533.83997
     },
     {
       "tipo_fundo": "FII",
@@ -16,20 +16,20 @@
     },
     {
       "tipo_fundo": "FIP",
-      "n": 302,
-      "volume": 49869023822.909996
+      "n": 301,
+      "volume": 49798023822.909996
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 237,
-      "volume": 8810728673.53
+      "n": 236,
+      "volume": 8805728673.53
     }
   ],
   "por_mes": [
     {
       "mes": "2025-05",
-      "n": 60,
-      "volume": 5672114098.65
+      "n": 55,
+      "volume": 5583474098.09
     },
     {
       "mes": "2025-06",
@@ -95,28 +95,28 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 29483624000.0,
-      "n": 67
+      "volume": 29258624000.0,
+      "n": 66
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 21469040888.93,
-      "n": 272
+      "volume": 21451040880.83,
+      "n": 267
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 16554736047.009996,
-      "n": 53
+      "volume": 16154736047.009996,
+      "n": 52
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 16181747890.0,
-      "n": 71
+      "volume": 16143247889.900002,
+      "n": 68
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 9078422000.0,
-      "n": 48
+      "volume": 8711352000.0,
+      "n": 44
     },
     {
       "tipo_ativo": "Cotas de FIF",
@@ -125,8 +125,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6125222025.700001,
-      "n": 89
+      "volume": 5811350025.700001,
+      "n": 84
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -140,14 +140,14 @@
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 3307070600.0800004,
-      "n": 26
+      "volume": 3081170600.0800004,
+      "n": 24
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3060
+      "n": 3044
     },
     {
       "status_cvm": "Registro Concedido",
@@ -254,8 +254,8 @@
     },
     {
       "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 12286380683.300001,
-      "n": 272
+      "volume": 12276380682.740002,
+      "n": 271
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
