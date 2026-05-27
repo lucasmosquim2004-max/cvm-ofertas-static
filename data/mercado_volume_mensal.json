@@ -1737,74 +1737,74 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 2018410644.16,
-      "n": 29
+      "volume": 2522860644.16,
+      "n": 35
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 247500000.0,
-      "n": 9
+      "volume": 376500000.0,
+      "n": 8
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 884820600.07,
-      "n": 10
+      "volume": 1005115175.12,
+      "n": 11
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 6622695174.180002,
-      "n": 97
+      "volume": 7337365158.770002,
+      "n": 114
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 3358387521.48,
-      "n": 20
+      "volume": 3908697521.47,
+      "n": 23
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 7698463467.61,
-      "n": 28
+      "volume": 9368545307.61,
+      "n": 32
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 5929716991.2,
-      "n": 18
+      "volume": 7169716991.7,
+      "n": 19
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de Fundos de Infra",
-      "volume": 0.0,
+      "volume": 220000000.0,
       "n": 1
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cédula de Produto Rural Financeira",
-      "volume": 128500000.0,
+      "volume": 270607000.0,
       "n": 3
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Debêntures",
-      "volume": 5350000000.0,
-      "n": 22
+      "volume": 8496000000.0,
+      "n": 24
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 1098699000.0,
-      "n": 14
+      "volume": 1398699000.0,
+      "n": 15
     },
     {
       "mes": "2026-05",
       "valor_mobiliario": "Outros títulos de securitização",
-      "volume": 2367265000.0,
-      "n": 6
+      "volume": 7401265000.0,
+      "n": 9
     }
   ]
 }
