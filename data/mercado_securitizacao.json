@@ -74,7 +74,7 @@
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1713,
       "n_encerradas": 1441,
-      "vol_ofertado": 133131675136.61006,
+      "vol_ofertado": 133131675136.61005,
       "vol_encerrado": 118951093815.39008,
       "taxa_encerramento": 84.1,
       "vol_distribuido_anbima": null,
@@ -215,7 +215,7 @@
     {
       "ano": 2025,
       "tipo_ativo": "FIDC",
-      "vol_ofertado_cvm": 126065104239.9001,
+      "vol_ofertado_cvm": 126065104239.90009,
       "n_encerradas_cvm": 1508,
       "vol_encerrado_anbima": 90985106092.70312,
       "n_encerradas_anbima": 0

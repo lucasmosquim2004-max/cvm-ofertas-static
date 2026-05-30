@@ -25,14 +25,14 @@
       "ano": 2020,
       "tipo_fundo": "Cotas de FIDC",
       "n": 621,
-      "volume": 47640156194.62001,
+      "volume": 47640156194.62002,
       "ativas": 0
     },
     {
       "ano": 2020,
       "tipo_fundo": "Cotas de FII",
       "n": 249,
-      "volume": 25378991778.650013,
+      "volume": 25378991778.65001,
       "ativas": 0
     },
     {
@@ -130,7 +130,7 @@
       "ano": 2025,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1713,
-      "volume": 133131675136.61006,
+      "volume": 133131675136.61005,
       "ativas": 272
     },
     {
@@ -174,11 +174,11 @@
     "total_ano": 920,
     "volume_ano": 122698338551.79,
     "ytd_atual_n": 920,
-    "ytd_anterior_n": 869,
+    "ytd_anterior_n": 885,
     "ytd_atual_vol": 122698338551.78998,
-    "ytd_anterior_vol": 84650682442.72005,
-    "ytd_yoy_n": 5.9,
-    "ytd_yoy_vol": 44.9,
+    "ytd_anterior_vol": 85594527534.75003,
+    "ytd_yoy_n": 4.0,
+    "ytd_yoy_vol": 43.3,
     "ativas_total": 1176
   }
 }
