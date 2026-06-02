@@ -1,23 +1,23 @@
 {
-  "novas_30d": 218,
-  "volume_30d": 28211650793.359997,
-  "ativas_12m": 1055,
-  "total_ano": 943,
+  "novas_30d": 230,
+  "volume_30d": 29178823369.48,
+  "ativas_12m": 1039,
+  "total_ano": 955,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1479,
-      "volume": 132031913963.01
+      "n": 1487,
+      "volume": 132178205048.57
     },
     {
       "tipo_fundo": "FII",
-      "n": 477,
-      "volume": 141892166502.43002
+      "n": 481,
+      "volume": 142713047992.99
     },
     {
       "tipo_fundo": "FIP",
       "n": 304,
-      "volume": 50941877823.409996
+      "volume": 50941877823.41
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -34,7 +34,7 @@
     {
       "mes": "2025-07",
       "n": 184,
-      "volume": 22786401376.820004
+      "volume": 22786401376.82
     },
     {
       "mes": "2025-08",
@@ -44,17 +44,17 @@
     {
       "mes": "2025-09",
       "n": 215,
-      "volume": 36035944452.459984
+      "volume": 36035944452.46
     },
     {
       "mes": "2025-10",
       "n": 210,
-      "volume": 34141747370.520004
+      "volume": 34141747370.52
     },
     {
       "mes": "2025-11",
       "n": 216,
-      "volume": 25230498802.300003
+      "volume": 25230498802.3
     },
     {
       "mes": "2025-12",
@@ -64,7 +64,7 @@
     {
       "mes": "2026-01",
       "n": 143,
-      "volume": 18693168270.660004
+      "volume": 18693168270.66
     },
     {
       "mes": "2026-02",
@@ -85,23 +85,28 @@
       "mes": "2026-05",
       "n": 218,
       "volume": 28211650793.359997
+    },
+    {
+      "mes": "2026-06",
+      "n": 12,
+      "volume": 967172576.1200001
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 26257350000.0,
+      "volume": 25107350000.0,
       "n": 55
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 21645645814.22,
-      "n": 81
+      "volume": 21150702111.33,
+      "n": 82
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 18878970877.19,
-      "n": 273
+      "volume": 18736781221.58,
+      "n": 277
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -115,13 +120,13 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7524352000.0,
-      "n": 39
+      "volume": 7337352000.0,
+      "n": 38
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 6623630320.21,
-      "n": 46
+      "volume": 6506983309.059999,
+      "n": 47
     },
     {
       "tipo_ativo": "Ações",
@@ -130,35 +135,35 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 4941070427.52,
-      "n": 78
+      "volume": 5095070427.52,
+      "n": 79
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 2718965175.1300006,
-      "n": 21
+      "volume": 2659965175.1300006,
+      "n": 22
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3040
+      "n": 3077
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1438
-    },
-    {
-      "status_cvm": "Oferta Revogada",
-      "n": 34
+      "n": 1420
     },
     {
       "status_cvm": "Registro Caducado",
       "n": 34
     },
     {
+      "status_cvm": "Oferta Revogada",
+      "n": 34
+    },
+    {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 22
+      "n": 25
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -171,11 +176,6 @@
   ],
   "top_emissores": [
     {
-      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
-      "volume": 9700000000.0,
-      "n": 2
-    },
-    {
       "emissor_nome": "ITAÚBA FUNDO DE INVESTIMENTO EM PARTICIPAÇÕES EM INFRAESTRUTURA RESPONSABILIDADE LIMITADA",
       "volume": 8000000000.0,
       "n": 2
@@ -186,8 +186,18 @@
       "n": 1
     },
     {
+      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+      "volume": 5500000000.0,
+      "n": 1
+    },
+    {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "volume": 5235000000.0,
+      "n": 1
+    },
+    {
+      "emissor_nome": "TOP 2025 A FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE LIMITADA",
+      "volume": 4200000000.0,
       "n": 1
     },
     {
@@ -211,31 +221,26 @@
       "n": 1
     },
     {
-      "emissor_nome": "VTK FUNDO DE  INVESTIMENTO EM DIREITOS CREDITÓRIOS RESPONSABILIDADE  LIMITADA",
+      "emissor_nome": "VTK FUNDO DE  INVESTIMENTO EM DIREITOS CREDITORIOS RESPONSABILIDADE  LIMITADA",
       "volume": 2850000000.0,
       "n": 1
-    },
-    {
-      "emissor_nome": "JS RENDA ATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-      "volume": 2687500064.0,
-      "n": 2
     }
   ],
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 62306186742.810005,
+      "volume": 62306186742.81,
       "n": 127
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 49699050424.46,
+      "volume": 49699050424.45999,
       "n": 82
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34653006939.77,
-      "n": 183
+      "volume": 34723006939.770004,
+      "n": 184
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -244,12 +249,12 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 13215225164.679996,
+      "volume": 13215225164.68,
       "n": 143
     },
     {
       "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 11942880681.399998,
+      "volume": 11942880681.400002,
       "n": 261
     },
     {
@@ -259,17 +264,17 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11245199156.509998,
+      "volume": 11245199156.51,
       "n": 115
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 10592856540.770002,
-      "n": 90
+      "volume": 10792856548.13,
+      "n": 91
     },
     {
       "coordenador": "BANCO SAFRA S/A",
-      "volume": 8100500800.570001,
+      "volume": 8100500800.57,
       "n": 15
     }
   ]
