@@ -1,35 +1,35 @@
 {
-  "novas_30d": 197,
-  "volume_30d": 24377261742.739998,
-  "ativas_12m": 1027,
-  "total_ano": 963,
+  "novas_30d": 231,
+  "volume_30d": 27753899655.41,
+  "ativas_12m": 1015,
+  "total_ano": 1009,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1460,
-      "volume": 130935784013.89998
+      "n": 1474,
+      "volume": 133011655184.61998
     },
     {
       "tipo_fundo": "FII",
-      "n": 478,
-      "volume": 142605940992.99002
+      "n": 481,
+      "volume": 142650685998.01004
     },
     {
       "tipo_fundo": "FIP",
-      "n": 301,
-      "volume": 50460877823.409996
+      "n": 305,
+      "volume": 50717060561.24
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 230,
-      "volume": 8808528673.4
+      "n": 236,
+      "volume": 9004225673.4
     }
   ],
   "por_mes": [
     {
       "mes": "2025-06",
-      "n": 187,
-      "volume": 24723669155.479996
+      "n": 168,
+      "volume": 22656027155.479992
     },
     {
       "mes": "2025-07",
@@ -54,7 +54,7 @@
     {
       "mes": "2025-11",
       "n": 216,
-      "volume": 25230498802.300003
+      "volume": 25230498802.3
     },
     {
       "mes": "2025-12",
@@ -63,8 +63,8 @@
     },
     {
       "mes": "2026-01",
-      "n": 143,
-      "volume": 18693168270.660004
+      "n": 142,
+      "volume": 18643168270.660004
     },
     {
       "mes": "2026-02",
@@ -73,101 +73,101 @@
     },
     {
       "mes": "2026-03",
-      "n": 216,
-      "volume": 28287432032.769997
+      "n": 215,
+      "volume": 28167432032.77
     },
     {
       "mes": "2026-04",
-      "n": 186,
-      "volume": 23192906145.639996
+      "n": 185,
+      "volume": 22982906145.639996
     },
     {
       "mes": "2026-05",
-      "n": 218,
-      "volume": 28477275793.359997
+      "n": 216,
+      "volume": 28992520793.359997
     },
     {
       "mes": "2026-06",
-      "n": 20,
-      "volume": 1384772576.12
+      "n": 71,
+      "volume": 5889665489.69
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 25607350000.0,
-      "n": 56
+      "volume": 28982964330.0,
+      "n": 60
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 18868771438.86,
+      "volume": 19260867437.290005,
       "n": 76
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 15431211201.400002,
-      "n": 271
-    },
-    {
-      "tipo_ativo": "Cotas de FIP",
-      "volume": 10737740247.510002,
-      "n": 45
-    },
-    {
-      "tipo_ativo": "Outros títulos de securitização",
-      "volume": 8857594529.0,
-      "n": 15
+      "volume": 17101424370.079998,
+      "n": 289
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 6997359000.0,
-      "n": 36
+      "volume": 14498359000.0,
+      "n": 39
     },
     {
-      "tipo_ativo": "Cotas de FIF",
-      "volume": 6083295809.059999,
-      "n": 44
+      "tipo_ativo": "Cotas de FIP",
+      "volume": 9637739887.86,
+      "n": 43
+    },
+    {
+      "tipo_ativo": "Outros títulos de securitização",
+      "volume": 7795586529.0,
+      "n": 14
     },
     {
       "tipo_ativo": "Ações",
-      "volume": 6074086300.0,
-      "n": 4
+      "volume": 5870546483.0,
+      "n": 3
+    },
+    {
+      "tipo_ativo": "Cotas de FIF",
+      "volume": 5827675809.059999,
+      "n": 48
+    },
+    {
+      "tipo_ativo": "Cédula de Produto Rural Financeira",
+      "volume": 5108967000.0,
+      "n": 5
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 5086238427.52,
-      "n": 77
-    },
-    {
-      "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 2659965175.1300006,
-      "n": 21
+      "volume": 5062669644.16,
+      "n": 78
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3031
+      "n": 3104
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1401
+      "n": 1366
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 34
+      "n": 35
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 33
+      "n": 34
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 25
+      "n": 26
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 16
+      "n": 12
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -229,48 +229,48 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 62551811742.810005,
-      "n": 127
+      "volume": 63871577886.03001,
+      "n": 129
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 49669050424.46,
-      "n": 81
+      "volume": 49769050424.46,
+      "n": 84
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 33881674939.77,
-      "n": 179
+      "volume": 33981674939.770004,
+      "n": 180
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 15549250000.0,
-      "n": 18
+      "volume": 15551250000.0,
+      "n": 19
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 13265225164.679996,
-      "n": 144
+      "volume": 13310225164.679996,
+      "n": 146
     },
     {
       "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 11935759646.499998,
-      "n": 256
+      "volume": 11916759646.5,
+      "n": 253
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "volume": 11673753221.59,
-      "n": 16
+      "volume": 11873753221.59,
+      "n": 17
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11215199156.509998,
+      "volume": 11215424156.509998,
       "n": 114
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 10792856548.130001,
-      "n": 91
+      "volume": 10802856548.130001,
+      "n": 92
     },
     {
       "coordenador": "BANCO SAFRA S/A",
