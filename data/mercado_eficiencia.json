@@ -21,16 +21,16 @@
       "rito": "Automático",
       "ano": 2025,
       "total": 1713,
-      "encerradas": 1506,
-      "dias_medio_captacao": 137.3
+      "encerradas": 1554,
+      "dias_medio_captacao": 138.8
     },
     {
       "tipo_fundo": "Cotas de FIDC",
       "rito": "Automático",
       "ano": 2026,
-      "total": 711,
-      "encerradas": 122,
-      "dias_medio_captacao": 40.2
+      "total": 742,
+      "encerradas": 137,
+      "dias_medio_captacao": 42.4
     },
     {
       "tipo_fundo": "Cotas de FIDC",
@@ -165,16 +165,16 @@
       "rito": "Automático",
       "ano": 2025,
       "total": 425,
-      "encerradas": 390,
-      "dias_medio_captacao": 88.5
+      "encerradas": 396,
+      "dias_medio_captacao": 89.9
     },
     {
       "tipo_fundo": "Cotas de FII",
       "rito": "Automático",
       "ano": 2026,
-      "total": 198,
-      "encerradas": 78,
-      "dias_medio_captacao": 40.1
+      "total": 204,
+      "encerradas": 82,
+      "dias_medio_captacao": 41.3
     },
     {
       "tipo_fundo": "Cotas de FII",
@@ -277,16 +277,16 @@
       "rito": "Automático",
       "ano": 2025,
       "total": 303,
-      "encerradas": 278,
-      "dias_medio_captacao": 130.7
+      "encerradas": 283,
+      "dias_medio_captacao": 131.5
     },
     {
       "tipo_fundo": "Cotas de FIP",
       "rito": "Automático",
       "ano": 2026,
-      "total": 110,
-      "encerradas": 35,
-      "dias_medio_captacao": 38.4
+      "total": 115,
+      "encerradas": 37,
+      "dias_medio_captacao": 42.2
     },
     {
       "tipo_fundo": "Cotas de FIP",
@@ -404,18 +404,18 @@
   "ticket_atual": [
     {
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 252.17,
-      "n": 195
+      "ticket_medio": 261.95,
+      "n": 202
     },
     {
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 225.69,
-      "n": 110
+      "ticket_medio": 222.43,
+      "n": 115
     },
     {
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 83.36,
-      "n": 707
+      "ticket_medio": 82.11,
+      "n": 738
     }
   ]
 }

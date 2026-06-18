@@ -1539,14 +1539,14 @@
     {
       "mes": "2026-03",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 2112799960.0,
+      "volume": 2138797960.0,
       "n": 12
     },
     {
       "mes": "2026-03",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 14588765028.039995,
-      "n": 156
+      "volume": 14453765028.039995,
+      "n": 155
     },
     {
       "mes": "2026-03",
@@ -1743,8 +1743,8 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 749668000.0,
-      "n": 11
+      "volume": 1329668000.0,
+      "n": 20
     },
     {
       "mes": "2026-06",
@@ -1755,38 +1755,38 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 264000000.0,
-      "n": 4
+      "volume": 349000000.0,
+      "n": 6
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 4043564256.2799997,
-      "n": 58
+      "volume": 5836092235.389999,
+      "n": 90
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 366880000.0,
+      "volume": 406880000.0,
       "n": 6
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 2603251499.5099998,
-      "n": 18
+      "volume": 6345007537.570001,
+      "n": 24
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 256999737.82999998,
-      "n": 5
+      "volume": 1009617193.6299999,
+      "n": 10
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de Fundos de Infra",
       "volume": 806480000.0,
-      "n": 1
+      "n": 2
     },
     {
       "mes": "2026-06",
@@ -1797,14 +1797,14 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Debêntures",
-      "volume": 6199375230.0,
-      "n": 11
+      "volume": 7350653441.0,
+      "n": 19
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 7501000000.0,
-      "n": 6
+      "volume": 5236114000.0,
+      "n": 8
     }
   ]
 }
