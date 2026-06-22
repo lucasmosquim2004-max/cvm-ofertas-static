@@ -1,35 +1,35 @@
 {
-  "novas_30d": 236,
-  "volume_30d": 25932939558.620003,
-  "ativas_12m": 971,
-  "total_ano": 1072,
+  "novas_30d": 220,
+  "volume_30d": 23547500723.900005,
+  "ativas_12m": 958,
+  "total_ano": 1084,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1440,
-      "volume": 127952544286.64
+      "n": 1442,
+      "volume": 128109791302.54001
     },
     {
       "tipo_fundo": "FII",
-      "n": 481,
-      "volume": 141221357816.1
+      "n": 482,
+      "volume": 142542252012.94
     },
     {
       "tipo_fundo": "FIP",
-      "n": 307,
-      "volume": 51094888017.04
+      "n": 305,
+      "volume": 51133888017.04
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 230,
-      "volume": 8282184773.160001
+      "n": 233,
+      "volume": 8329184773.160001
     }
   ],
   "por_mes": [
     {
       "mes": "2025-06",
-      "n": 67,
-      "volume": 8094075770.150002
+      "n": 59,
+      "volume": 7469275770.050001
     },
     {
       "mes": "2025-07",
@@ -49,7 +49,7 @@
     {
       "mes": "2025-10",
       "n": 210,
-      "volume": 34141747370.520004
+      "volume": 34141747370.52
     },
     {
       "mes": "2025-11",
@@ -63,8 +63,8 @@
     },
     {
       "mes": "2026-01",
-      "n": 142,
-      "volume": 18643168270.660007
+      "n": 143,
+      "volume": 18828168270.660007
     },
     {
       "mes": "2026-02",
@@ -73,8 +73,8 @@
     },
     {
       "mes": "2026-03",
-      "n": 214,
-      "volume": 28032432032.77
+      "n": 215,
+      "volume": 28362432032.77
     },
     {
       "mes": "2026-04",
@@ -83,30 +83,30 @@
     },
     {
       "mes": "2026-05",
-      "n": 215,
-      "volume": 28990345793.359997
+      "n": 217,
+      "volume": 29082220793.359997
     },
     {
       "mes": "2026-06",
-      "n": 136,
-      "volume": 13756139350.689999
+      "n": 144,
+      "volume": 15338205563.53
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 29141472441.0,
-      "n": 62
+      "volume": 26100972441.0,
+      "n": 59
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 22816865708.77,
-      "n": 82
+      "volume": 23529818743.760002,
+      "n": 77
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 17828274228.29,
-      "n": 294
+      "volume": 16754265688.230003,
+      "n": 291
     },
     {
       "tipo_ativo": "Ações",
@@ -115,13 +115,13 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 10807973000.0,
-      "n": 35
+      "volume": 11037973000.0,
+      "n": 34
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 9402474368.689999,
-      "n": 43
+      "volume": 9559974368.689999,
+      "n": 42
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -130,8 +130,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 5495175809.059999,
-      "n": 44
+      "volume": 5288927420.46,
+      "n": 40
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -140,30 +140,30 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 5009026384.16,
-      "n": 83
+      "volume": 5072526384.16,
+      "n": 82
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3116
+      "n": 3129
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1287
-    },
-    {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 36
+      "n": 1276
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 34
     },
     {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 34
+    },
+    {
       "status_cvm": "Registro Caducado",
-      "n": 31
+      "n": 30
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -221,16 +221,16 @@
       "n": 2
     },
     {
-      "emissor_nome": "XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA - FII",
-      "volume": 2529289457.21,
+      "emissor_nome": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
+      "volume": 2554440236.2799997,
       "n": 2
     }
   ],
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 63184077817.240005,
-      "n": 125
+      "volume": 64501972014.08,
+      "n": 126
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -249,7 +249,7 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 12942125164.72,
+      "volume": 12890125164.72,
       "n": 142
     },
     {
@@ -259,18 +259,18 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11467424156.509998,
-      "n": 121
+      "volume": 11732424156.509998,
+      "n": 123
     },
     {
       "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 11254078385.039999,
-      "n": 233
+      "volume": 10833078384.939997,
+      "n": 229
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 9238418778.880003,
-      "n": 178
+      "volume": 9438418778.880003,
+      "n": 179
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",

@@ -21,16 +21,16 @@
       "rito": "Automático",
       "ano": 2025,
       "total": 1713,
-      "encerradas": 1555,
-      "dias_medio_captacao": 138.9
+      "encerradas": 1567,
+      "dias_medio_captacao": 139.2
     },
     {
       "tipo_fundo": "Cotas de FIDC",
       "rito": "Automático",
       "ano": 2026,
-      "total": 750,
-      "encerradas": 143,
-      "dias_medio_captacao": 42.6
+      "total": 760,
+      "encerradas": 148,
+      "dias_medio_captacao": 42.9
     },
     {
       "tipo_fundo": "Cotas de FIDC",
@@ -165,16 +165,16 @@
       "rito": "Automático",
       "ano": 2025,
       "total": 425,
-      "encerradas": 396,
-      "dias_medio_captacao": 89.9
+      "encerradas": 399,
+      "dias_medio_captacao": 90.6
     },
     {
       "tipo_fundo": "Cotas de FII",
       "rito": "Automático",
       "ano": 2026,
-      "total": 206,
+      "total": 207,
       "encerradas": 82,
-      "dias_medio_captacao": 41.3
+      "dias_medio_captacao": 41.4
     },
     {
       "tipo_fundo": "Cotas de FII",
@@ -277,16 +277,16 @@
       "rito": "Automático",
       "ano": 2025,
       "total": 303,
-      "encerradas": 284,
-      "dias_medio_captacao": 131.7
+      "encerradas": 288,
+      "dias_medio_captacao": 132.4
     },
     {
       "tipo_fundo": "Cotas de FIP",
       "rito": "Automático",
       "ano": 2026,
-      "total": 116,
-      "encerradas": 38,
-      "dias_medio_captacao": 41.2
+      "total": 117,
+      "encerradas": 39,
+      "dias_medio_captacao": 40.9
     },
     {
       "tipo_fundo": "Cotas de FIP",
@@ -404,18 +404,18 @@
   "ticket_atual": [
     {
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 260.48,
-      "n": 204
+      "ticket_medio": 264.36,
+      "n": 206
     },
     {
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 220.85,
-      "n": 116
+      "ticket_medio": 221.02,
+      "n": 117
     },
     {
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 81.63,
-      "n": 746
+      "ticket_medio": 81.38,
+      "n": 756
     }
   ]
 }
