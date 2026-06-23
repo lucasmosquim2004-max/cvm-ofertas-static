@@ -1,23 +1,23 @@
 {
-  "novas_30d": 220,
-  "volume_30d": 23547500723.900005,
-  "ativas_12m": 958,
-  "total_ano": 1084,
+  "novas_30d": 227,
+  "volume_30d": 27337501169.380005,
+  "ativas_12m": 945,
+  "total_ano": 1090,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1442,
-      "volume": 128109791302.54001
+      "n": 1445,
+      "volume": 129099791302.54001
     },
     {
       "tipo_fundo": "FII",
-      "n": 482,
-      "volume": 142542252012.94
+      "n": 485,
+      "volume": 144842252458.41998
     },
     {
       "tipo_fundo": "FIP",
-      "n": 305,
-      "volume": 51133888017.04
+      "n": 304,
+      "volume": 51033888017.04
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -38,8 +38,8 @@
     },
     {
       "mes": "2025-08",
-      "n": 175,
-      "volume": 17691157134.02
+      "n": 174,
+      "volume": 17591157134.02
     },
     {
       "mes": "2025-09",
@@ -83,40 +83,40 @@
     },
     {
       "mes": "2026-05",
-      "n": 217,
-      "volume": 29082220793.359997
+      "n": 216,
+      "volume": 29332220793.359997
     },
     {
       "mes": "2026-06",
-      "n": 144,
-      "volume": 15338205563.53
+      "n": 151,
+      "volume": 18378206009.010002
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 26100972441.0,
-      "n": 59
+      "volume": 26685153441.0,
+      "n": 61
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 23529818743.760002,
-      "n": 77
+      "volume": 23829623977.28,
+      "n": 79
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 16754265688.230003,
-      "n": 291
+      "volume": 17363065688.230003,
+      "n": 288
     },
     {
       "tipo_ativo": "Ações",
       "volume": 14260260068.43,
-      "n": 3
+      "n": 4
     },
     {
       "tipo_ativo": "Notas Comerciais",
       "volume": 11037973000.0,
-      "n": 34
+      "n": 38
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -126,48 +126,48 @@
     {
       "tipo_ativo": "Outros títulos de securitização",
       "volume": 7795586529.0,
-      "n": 14
+      "n": 15
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 5822926384.16,
+      "n": 83
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 5288927420.46,
-      "n": 40
+      "volume": 5388927420.46,
+      "n": 41
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
       "volume": 5108967000.0,
       "n": 5
-    },
-    {
-      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 5072526384.16,
-      "n": 82
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3129
+      "n": 3153
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1276
+      "n": 1266
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 42
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 34
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 34
-    },
-    {
       "status_cvm": "Registro Caducado",
-      "n": 30
+      "n": 29
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 13
+      "n": 12
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -229,12 +229,12 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 64501972014.08,
-      "n": 126
+      "volume": 65751972014.08,
+      "n": 127
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 49976550424.46,
+      "volume": 50726550424.46,
       "n": 81
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 12890125164.72,
+      "volume": 12440125164.72,
       "n": 142
     },
     {

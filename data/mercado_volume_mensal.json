@@ -1047,8 +1047,8 @@
     {
       "mes": "2025-08",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 3402306931.45,
-      "n": 24
+      "volume": 3302306931.45,
+      "n": 23
     },
     {
       "mes": "2025-08",
@@ -1671,7 +1671,7 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 2876285644.16,
+      "volume": 3411285644.16,
       "n": 42
     },
     {
@@ -1689,7 +1689,7 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 8860442604.270002,
+      "volume": 9610442604.270002,
       "n": 151
     },
     {
@@ -1701,8 +1701,8 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 12651207197.390001,
-      "n": 42
+      "volume": 12151207197.390001,
+      "n": 41
     },
     {
       "mes": "2026-05",
@@ -1743,8 +1743,8 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 1569600740.0,
-      "n": 27
+      "volume": 1815600740.0,
+      "n": 29
     },
     {
       "mes": "2026-06",
@@ -1761,20 +1761,20 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 6190311635.49,
-      "n": 104
+      "volume": 6430311635.49,
+      "n": 107
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 426880000.0,
-      "n": 7
+      "volume": 526880000.0,
+      "n": 8
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 7858276734.410001,
-      "n": 28
+      "volume": 10658277179.890001,
+      "n": 32
     },
     {
       "mes": "2026-06",
@@ -1797,14 +1797,20 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Debêntures",
-      "volume": 8350653441.0,
-      "n": 22
+      "volume": 9850653441.0,
+      "n": 28
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Notas Comerciais",
       "volume": 5786114000.0,
-      "n": 11
+      "n": 15
+    },
+    {
+      "mes": "2026-06",
+      "valor_mobiliario": "Outros títulos de securitização",
+      "volume": 0.0,
+      "n": 1
     }
   ]
 }
