@@ -1,35 +1,35 @@
 {
-  "novas_30d": 227,
-  "volume_30d": 27337501169.380005,
-  "ativas_12m": 945,
-  "total_ano": 1090,
+  "novas_30d": 237,
+  "volume_30d": 30905754169.38,
+  "ativas_12m": 948,
+  "total_ano": 1100,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1445,
-      "volume": 129099791302.54001
+      "n": 1441,
+      "volume": 128035516002.94
     },
     {
       "tipo_fundo": "FII",
       "n": 485,
-      "volume": 144842252458.41998
+      "volume": 147570252458.41
     },
     {
       "tipo_fundo": "FIP",
-      "n": 304,
-      "volume": 51033888017.04
+      "n": 306,
+      "volume": 50997141017.04
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 233,
-      "volume": 8329184773.160001
+      "n": 232,
+      "volume": 8229184773.160001
     }
   ],
   "por_mes": [
     {
       "mes": "2025-06",
-      "n": 59,
-      "volume": 7469275770.050001
+      "n": 46,
+      "volume": 5428000470.440001
     },
     {
       "mes": "2025-07",
@@ -88,25 +88,25 @@
     },
     {
       "mes": "2026-06",
-      "n": 151,
-      "volume": 18378206009.010002
+      "n": 161,
+      "volume": 21946459009.010006
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 26685153441.0,
-      "n": 61
+      "volume": 26338153441.0,
+      "n": 60
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 23829623977.28,
-      "n": 79
+      "volume": 26292559977.280003,
+      "n": 77
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 17363065688.230003,
-      "n": 288
+      "volume": 16887973924.170004,
+      "n": 282
     },
     {
       "tipo_ativo": "Ações",
@@ -114,29 +114,29 @@
       "n": 4
     },
     {
-      "tipo_ativo": "Notas Comerciais",
-      "volume": 11037973000.0,
-      "n": 38
+      "tipo_ativo": "Cotas de FIP",
+      "volume": 9560541185.329998,
+      "n": 43
     },
     {
-      "tipo_ativo": "Cotas de FIP",
-      "volume": 9559974368.689999,
-      "n": 42
+      "tipo_ativo": "Notas Comerciais",
+      "volume": 8986813000.0,
+      "n": 35
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
       "volume": 7795586529.0,
-      "n": 15
+      "n": 16
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 5822926384.16,
+      "volume": 6293226384.16,
       "n": 83
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 5388927420.46,
-      "n": 41
+      "volume": 5173577420.459999,
+      "n": 39
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -147,15 +147,15 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3153
+      "n": 3150
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1266
+      "n": 1263
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 42
+      "n": 46
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -206,6 +206,11 @@
       "n": 1
     },
     {
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "volume": 3000000000.0,
+      "n": 1
+    },
+    {
       "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
@@ -219,18 +224,13 @@
       "emissor_nome": "JS RENDA ATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
       "volume": 2687500064.0,
       "n": 2
-    },
-    {
-      "emissor_nome": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
-      "volume": 2554440236.2799997,
-      "n": 2
     }
   ],
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 65751972014.08,
-      "n": 127
+      "volume": 66179972014.08,
+      "n": 128
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -239,18 +239,18 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 32533285059.770004,
+      "volume": 32458435059.770004,
       "n": 177
+    },
+    {
+      "coordenador": "BANCO DAYCOVAL S.A.",
+      "volume": 15440125164.719997,
+      "n": 143
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
       "volume": 15101250000.0,
       "n": 18
-    },
-    {
-      "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 12440125164.72,
-      "n": 142
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -264,18 +264,18 @@
     },
     {
       "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 10833078384.939997,
-      "n": 229
+      "volume": 10733078384.939997,
+      "n": 228
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 9438418778.880003,
-      "n": 179
+      "volume": 9488418778.880003,
+      "n": 180
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 9102747273.02,
-      "n": 92
+      "volume": 9142747273.02,
+      "n": 94
     }
   ]
 }

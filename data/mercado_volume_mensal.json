@@ -1743,44 +1743,44 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 1815600740.0,
-      "n": 29
-    },
-    {
-      "mes": "2026-06",
-      "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 340000000.0,
-      "n": 3
-    },
-    {
-      "mes": "2026-06",
-      "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 349000000.0,
-      "n": 6
-    },
-    {
-      "mes": "2026-06",
-      "valor_mobiliario": "Cotas de FIDC",
-      "volume": 6430311635.49,
-      "n": 107
-    },
-    {
-      "mes": "2026-06",
-      "valor_mobiliario": "Cotas de FIF",
-      "volume": 526880000.0,
-      "n": 8
-    },
-    {
-      "mes": "2026-06",
-      "valor_mobiliario": "Cotas de FII",
-      "volume": 10658277179.890001,
+      "volume": 2395900740.0,
       "n": 32
     },
     {
       "mes": "2026-06",
+      "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
+      "volume": 523000000.0,
+      "n": 5
+    },
+    {
+      "mes": "2026-06",
+      "valor_mobiliario": "Cotas de FIAGRO",
+      "volume": 396000857.24,
+      "n": 7
+    },
+    {
+      "mes": "2026-06",
+      "valor_mobiliario": "Cotas de FIDC",
+      "volume": 6530311635.49,
+      "n": 111
+    },
+    {
+      "mes": "2026-06",
+      "valor_mobiliario": "Cotas de FIF",
+      "volume": 726880000.0,
+      "n": 9
+    },
+    {
+      "mes": "2026-06",
+      "valor_mobiliario": "Cotas de FII",
+      "volume": 14086277179.890001,
+      "n": 34
+    },
+    {
+      "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 1289617193.6299999,
-      "n": 12
+      "volume": 1329870193.6299999,
+      "n": 16
     },
     {
       "mes": "2026-06",
@@ -1797,20 +1797,20 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Debêntures",
-      "volume": 9850653441.0,
-      "n": 28
+      "volume": 11250653441.0,
+      "n": 30
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Notas Comerciais",
       "volume": 5786114000.0,
-      "n": 15
+      "n": 16
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Outros títulos de securitização",
       "volume": 0.0,
-      "n": 1
+      "n": 2
     }
   ]
 }
