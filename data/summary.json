@@ -1,6 +1,6 @@
 {
-  "novas_30d": 217,
-  "volume_30d": 31042009055.390003,
+  "novas_30d": 202,
+  "volume_30d": 30067969055.150005,
   "ativas_12m": 941,
   "total_ano": 1118,
   "por_tipo": [
@@ -100,13 +100,13 @@
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 26398637658.410004,
-      "n": 79
+      "volume": 26373637658.410004,
+      "n": 78
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 20364793621.44,
-      "n": 289
+      "volume": 20292573937.7,
+      "n": 285
     },
     {
       "tipo_ativo": "Ações",
@@ -115,13 +115,13 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 10145813000.0,
-      "n": 42
+      "volume": 10144813000.0,
+      "n": 41
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 9946802188.289997,
-      "n": 46
+      "volume": 9439352188.289997,
+      "n": 45
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -130,13 +130,13 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6681723384.16,
-      "n": 88
+      "volume": 6309323384.16,
+      "n": 84
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 5258677420.459999,
-      "n": 40
+      "volume": 5135677521.62,
+      "n": 38
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3134
+      "n": 3131
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1269
+      "n": 1268
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
