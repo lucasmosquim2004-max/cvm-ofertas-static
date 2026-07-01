@@ -1,84 +1,6 @@
 {
   "rows": [
     {
-      "mes": "2024-06",
-      "valor_mobiliario": "Certificados de Recebíveis",
-      "volume": 206487500.0,
-      "n": 2
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 6235540352.34,
-      "n": 51
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 1789423000.0,
-      "n": 12
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FIAGRO - FIDC",
-      "volume": 524224800.0,
-      "n": 4
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FIAGRO - FII",
-      "volume": 692312500.0,
-      "n": 3
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FIAGRO - FIP",
-      "volume": 330000000.0,
-      "n": 2
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FIDC",
-      "volume": 6449163623.51,
-      "n": 107
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FIF",
-      "volume": 3443695600.4199996,
-      "n": 23
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FII",
-      "volume": 3449107629.3699994,
-      "n": 22
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de FIP",
-      "volume": 6991050000.0,
-      "n": 33
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Cotas de Fundos de Infra",
-      "volume": 743708460.54,
-      "n": 2
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Debêntures",
-      "volume": 62387482022.479996,
-      "n": 88
-    },
-    {
-      "mes": "2024-06",
-      "valor_mobiliario": "Notas Comerciais",
-      "volume": 5089000000.0,
-      "n": 19
-    },
-    {
       "mes": "2024-07",
       "valor_mobiliario": "Certificado de Direitos Creditórios do Agronegócio",
       "volume": 8500000000.0,
@@ -1677,7 +1599,7 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 813500000.0,
+      "volume": 1343995000.0,
       "n": 12
     },
     {
@@ -1743,26 +1665,26 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 2810397740.0,
-      "n": 39
+      "volume": 3834759740.0,
+      "n": 50
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 523000000.0,
-      "n": 6
+      "volume": 735500000.0,
+      "n": 7
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 441000857.24,
-      "n": 9
+      "volume": 578500857.24,
+      "n": 10
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 10525831333.43,
-      "n": 124
+      "volume": 11901986462.260002,
+      "n": 144
     },
     {
       "mes": "2026-06",
@@ -1773,20 +1695,20 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 14266277179.890001,
-      "n": 36
+      "volume": 15450783829.29,
+      "n": 44
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 1716131196.59,
-      "n": 19
+      "volume": 3296131196.59,
+      "n": 21
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de Fundos de Infra",
-      "volume": 806480000.0,
-      "n": 2
+      "volume": 1806480000.0,
+      "n": 4
     },
     {
       "mes": "2026-06",
@@ -1797,20 +1719,20 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Debêntures",
-      "volume": 13981053441.0,
-      "n": 33
+      "volume": 19374053441.0,
+      "n": 37
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 7021114000.0,
-      "n": 24
+      "volume": 10273499460.0,
+      "n": 25
     },
     {
       "mes": "2026-06",
       "valor_mobiliario": "Outros títulos de securitização",
-      "volume": 0.0,
-      "n": 2
+      "volume": 6038159000.0,
+      "n": 4
     }
   ]
 }
