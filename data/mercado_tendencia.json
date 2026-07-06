@@ -46,7 +46,7 @@
       "ano": 2021,
       "tipo_fundo": "Cotas de FIDC",
       "n": 989,
-      "volume": 78193868043.60004,
+      "volume": 78193868043.60005,
       "ativas": 0
     },
     {
@@ -67,7 +67,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1193,
-      "volume": 72751943967.06999,
+      "volume": 72751943967.07,
       "ativas": 0
     },
     {
@@ -150,15 +150,15 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 815,
-      "volume": 68833175506.12,
+      "n": 822,
+      "volume": 69352175506.12,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 224,
-      "volume": 62201423638.87,
+      "n": 226,
+      "volume": 63800857638.87,
       "ativas": 0
     },
     {
@@ -246,7 +246,7 @@
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FIDC",
       "n": 131,
-      "volume": 7081250830.900001
+      "volume": 7081250830.900002
     },
     {
       "mes": "2025-11",
@@ -342,7 +342,7 @@
       "mes": "2026-04",
       "tipo_fundo": "Cotas de FII",
       "n": 38,
-      "volume": 9739988616.83
+      "volume": 10149922616.830002
     },
     {
       "mes": "2026-04",
@@ -377,8 +377,8 @@
     {
       "mes": "2026-06",
       "tipo_fundo": "Cotas de FII",
-      "n": 44,
-      "volume": 15450783829.29
+      "n": 43,
+      "volume": 15888283829.29
     },
     {
       "mes": "2026-06",
@@ -389,14 +389,14 @@
     {
       "mes": "2026-07",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 16,
-      "volume": 946500000.11
+      "n": 23,
+      "volume": 1465500000.1100001
     },
     {
       "mes": "2026-07",
       "tipo_fundo": "Cotas de FII",
-      "n": 2,
-      "volume": 725000000.0
+      "n": 5,
+      "volume": 1477000000.0
     },
     {
       "mes": "2026-07",
@@ -535,14 +535,14 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 84.67,
-      "n": 813
+      "ticket_medio": 84.78,
+      "n": 818
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 284.02,
-      "n": 219
+      "ticket_medio": 286.1,
+      "n": 223
     },
     {
       "ano": 2026,
