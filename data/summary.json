@@ -1,28 +1,28 @@
 {
-  "novas_30d": 204,
-  "volume_30d": 31419129147.01,
-  "ativas_12m": 937,
-  "total_ano": 1175,
+  "novas_30d": 213,
+  "volume_30d": 33526629147.01,
+  "ativas_12m": 931,
+  "total_ano": 1184,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1450,
-      "volume": 129069690829.78
+      "n": 1456,
+      "volume": 129488190829.78
     },
     {
       "tipo_fundo": "FII",
-      "n": 487,
-      "volume": 148904169623.25003
+      "n": 488,
+      "volume": 150587169623.25003
     },
     {
       "tipo_fundo": "FIP",
-      "n": 298,
-      "volume": 51210401519.81
+      "n": 299,
+      "volume": 51211401519.81
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 227,
-      "volume": 7974184766.150001
+      "n": 228,
+      "volume": 7979184766.150001
     }
   ],
   "por_mes": [
@@ -88,25 +88,25 @@
     },
     {
       "mes": "2026-07",
-      "n": 29,
-      "volume": 2948500000.1099997
+      "n": 38,
+      "volume": 5056000000.110001
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 31136553441.0,
-      "n": 65
+      "volume": 31015553441.0,
+      "n": 68
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 26814507040.56,
-      "n": 82
+      "volume": 28497507040.56,
+      "n": 83
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 20876391318.46,
-      "n": 296
+      "volume": 21202741307.96,
+      "n": 297
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -115,23 +115,23 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 12153398460.0,
+      "volume": 12003399460.0,
       "n": 38
     },
     {
       "tipo_ativo": "Ações",
       "volume": 11098731385.53,
-      "n": 3
+      "n": 4
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 10184402187.48,
-      "n": 39
+      "volume": 10185402187.48,
+      "n": 40
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7150545384.16,
-      "n": 91
+      "volume": 7114045384.16,
+      "n": 89
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -140,30 +140,30 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3229677521.62,
+      "volume": 3075138297.47,
       "n": 31
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3177
+      "n": 3196
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1248
+      "n": 1244
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 35
     },
     {
-      "status_cvm": "Registro Caducado",
-      "n": 24
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 30
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 23
+      "status_cvm": "Registro Caducado",
+      "n": 24
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -229,18 +229,18 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 66079094814.740005,
-      "n": 130
+      "volume": 67762094814.740005,
+      "n": 131
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 51338550424.46,
+      "volume": 51438550424.46,
       "n": 82
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 32937727419.980003,
-      "n": 176
+      "volume": 32938727419.980003,
+      "n": 177
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
@@ -250,7 +250,7 @@
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
       "volume": 15031512800.0,
-      "n": 18
+      "n": 19
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -264,13 +264,13 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 10303418779.02,
-      "n": 192
+      "volume": 10503418779.02,
+      "n": 193
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 9552681273.02,
-      "n": 95
+      "volume": 9554181273.02,
+      "n": 96
     },
     {
       "coordenador": "BANCO SAFRA S/A",
