@@ -1,28 +1,28 @@
 {
-  "novas_30d": 184,
-  "volume_30d": 27592865666.05,
+  "novas_30d": 194,
+  "volume_30d": 28672503166.239998,
   "ativas_12m": 928,
-  "total_ano": 1213,
+  "total_ano": 1223,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1463,
-      "volume": 131452506582.50998
+      "n": 1469,
+      "volume": 132020506582.69998
     },
     {
       "tipo_fundo": "FII",
-      "n": 487,
-      "volume": 150220640551.48
+      "n": 490,
+      "volume": 150682278051.48004
     },
     {
       "tipo_fundo": "FIP",
-      "n": 291,
-      "volume": 50946088719.81
+      "n": 292,
+      "volume": 50996088719.80999
     },
     {
       "tipo_fundo": "FIDC NP",
       "n": 226,
-      "volume": 7990384766.15
+      "volume": 7990384766.150001
     }
   ],
   "por_mes": [
@@ -88,34 +88,34 @@
     },
     {
       "mes": "2026-07",
-      "n": 66,
-      "volume": 8383397211.64
+      "n": 76,
+      "volume": 9463034711.83
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 29724953441.0,
-      "n": 69
+      "volume": 29815953441.0,
+      "n": 67
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 28263794392.3,
-      "n": 79
+      "volume": 28575431892.3,
+      "n": 81
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 21014957094.74001,
-      "n": 292
+      "volume": 21368249655.340004,
+      "n": 291
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 12470486111.6,
+      "volume": 12537525232.6,
       "n": 15
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 11931399460.0,
+      "volume": 11783199460.0,
       "n": 39
     },
     {
@@ -125,18 +125,18 @@
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 9888099387.48,
-      "n": 40
+      "volume": 9938099387.48,
+      "n": 41
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6236103740.0,
-      "n": 81
+      "volume": 6313049740.0,
+      "n": 78
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
-      "volume": 4980467000.0,
-      "n": 3
+      "volume": 4838360000.0,
+      "n": 2
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3179
+      "n": 3192
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1241
+      "n": 1247
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -159,7 +159,7 @@
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 33
+      "n": 31
     },
     {
       "status_cvm": "Registro Caducado",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
@@ -234,18 +234,18 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 50591242883.08,
-      "n": 81
+      "volume": 50971380383.08,
+      "n": 82
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 33077922231.480003,
-      "n": 178
+      "volume": 33137922231.480003,
+      "n": 179
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 15993125164.719997,
-      "n": 148
+      "volume": 16093125164.719997,
+      "n": 149
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -253,18 +253,18 @@
       "n": 19
     },
     {
+      "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 11569924156.509998,
+      "n": 125
+    },
+    {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
       "volume": 11498753221.59,
       "n": 16
     },
     {
-      "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11319924156.509998,
-      "n": 124
-    },
-    {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 11158418785.44,
+      "volume": 11158418785.440002,
       "n": 199
     },
     {
