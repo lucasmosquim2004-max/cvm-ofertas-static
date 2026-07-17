@@ -1617,7 +1617,7 @@
     {
       "mes": "2026-05",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 3895343088.29,
+      "volume": 3912465521.62,
       "n": 23
     },
     {
@@ -1707,7 +1707,7 @@
     {
       "mes": "2026-06",
       "valor_mobiliario": "Cotas de Fundos de Infra",
-      "volume": 1806480000.0,
+      "volume": 2056480000.0,
       "n": 4
     },
     {
@@ -1737,32 +1737,32 @@
     {
       "mes": "2026-07",
       "valor_mobiliario": "Certificados de Recebíveis",
-      "volume": 0.0,
+      "volume": 102108000.0,
       "n": 1
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 1212360000.0,
-      "n": 16
+      "volume": 1214360000.0,
+      "n": 17
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 50000000.0,
-      "n": 2
+      "volume": 75000000.0,
+      "n": 3
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 1043320000.04,
-      "n": 9
+      "volume": 1946070000.04,
+      "n": 12
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 6144716006.780001,
-      "n": 72
+      "volume": 6532716446.54,
+      "n": 81
     },
     {
       "mes": "2026-07",
@@ -1773,25 +1773,25 @@
     {
       "mes": "2026-07",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 4483457505.110001,
+      "volume": 4733457505.110001,
       "n": 14
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 349697200.0,
-      "n": 5
+      "volume": 479697200.0,
+      "n": 8
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Debêntures",
-      "volume": 3116000000.0,
-      "n": 14
+      "volume": 3816000000.0,
+      "n": 17
     },
     {
       "mes": "2026-07",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 1159000000.0,
+      "volume": 1273000000.0,
       "n": 9
     },
     {
