@@ -1,18 +1,18 @@
 {
-  "novas_30d": 206,
-  "volume_30d": 28054326385.15,
-  "ativas_12m": 936,
+  "novas_30d": 191,
+  "volume_30d": 27495555669.35,
+  "ativas_12m": 935,
   "total_ano": 1250,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1474,
-      "volume": 130995712577.01997
+      "n": 1471,
+      "volume": 130913712577.01999
     },
     {
       "tipo_fundo": "FII",
-      "n": 488,
-      "volume": 150720388639.95004
+      "n": 487,
+      "volume": 150710273665.57004
     },
     {
       "tipo_fundo": "FIP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-07",
-      "n": 96,
-      "volume": 11851802286.279997
+      "n": 92,
+      "volume": 11759687311.899998
     },
     {
       "mes": "2025-08",
@@ -95,18 +95,18 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 38664731441.0,
-      "n": 68
+      "volume": 38464731441.0,
+      "n": 67
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 29016251888.45,
-      "n": 82
+      "volume": 28395879980.000004,
+      "n": 80
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 22562766094.850006,
-      "n": 306
+      "volume": 22459766094.850006,
+      "n": 300
     },
     {
       "tipo_ativo": "Ações",
@@ -115,13 +115,13 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 12762199460.0,
-      "n": 39
+      "volume": 12412199460.0,
+      "n": 38
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
       "volume": 11545560232.6,
-      "n": 14
+      "n": 13
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
@@ -130,8 +130,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 6357999387.450001,
-      "n": 43
+      "volume": 6247649387.450001,
+      "n": 41
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -147,23 +147,23 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3192
+      "n": 3181
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1259
+      "n": 1258
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 33
     },
     {
-      "status_cvm": "Registro Caducado",
+      "status_cvm": "Aguardando Bookbuilding",
       "n": 24
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 24
+      "status_cvm": "Registro Caducado",
+      "n": 23
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -274,8 +274,8 @@
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 8779342069.2,
-      "n": 94
+      "volume": 8769227094.820002,
+      "n": 93
     }
   ]
 }

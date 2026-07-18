@@ -30,8 +30,8 @@
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1400,
       "n_encerradas": 1378,
-      "vol_ofertado": 109531670124.23003,
-      "vol_encerrado": 108234470129.71002,
+      "vol_ofertado": 109531670124.23001,
+      "vol_encerrado": 108234470129.71,
       "taxa_encerramento": 98.4,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -42,7 +42,7 @@
       "n_ofertadas": 358,
       "n_encerradas": 355,
       "vol_ofertado": 71377092337.33,
-      "vol_encerrado": 68524832775.57001,
+      "vol_encerrado": 68524832775.57,
       "taxa_encerramento": 99.2,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -74,7 +74,7 @@
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1713,
       "n_encerradas": 1604,
-      "vol_ofertado": 133231554102.61005,
+      "vol_ofertado": 133231554102.61008,
       "vol_encerrado": 128834388953.38007,
       "taxa_encerramento": 93.6,
       "vol_distribuido_anbima": null,
@@ -280,7 +280,7 @@
   "captacao_consolidado": [
     {
       "ano": 2024,
-      "vol_ofertado_cvm": 749785601977.0297,
+      "vol_ofertado_cvm": 749785601977.0298,
       "n_encerradas_cvm": 3179,
       "vol_encerrado_anbima": 601284794402.6056,
       "n_encerradas_anbima": 0
