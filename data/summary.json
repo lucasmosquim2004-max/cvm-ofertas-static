@@ -1,35 +1,35 @@
 {
-  "novas_30d": 191,
-  "volume_30d": 27495555669.35,
+  "novas_30d": 179,
+  "volume_30d": 26930133285.25,
   "ativas_12m": 935,
   "total_ano": 1250,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1471,
-      "volume": 130913712577.01999
+      "n": 1468,
+      "volume": 130778712577.01999
     },
     {
       "tipo_fundo": "FII",
-      "n": 487,
-      "volume": 150710273665.57004
+      "n": 482,
+      "volume": 148901152845.55002
     },
     {
       "tipo_fundo": "FIP",
-      "n": 292,
-      "volume": 50987311550.689995
+      "n": 291,
+      "volume": 50642311550.69
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 226,
-      "volume": 8038222977.97
+      "n": 224,
+      "volume": 7958222968.030001
     }
   ],
   "por_mes": [
     {
       "mes": "2025-07",
-      "n": 92,
-      "volume": 11759687311.899998
+      "n": 81,
+      "volume": 9390566481.939999
     },
     {
       "mes": "2025-08",
@@ -95,18 +95,18 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 38464731441.0,
-      "n": 67
+      "volume": 38313731441.0,
+      "n": 66
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 28395879980.000004,
-      "n": 80
+      "volume": 28385629980.000004,
+      "n": 79
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 22459766094.850006,
-      "n": 300
+      "volume": 22139766094.850006,
+      "n": 293
     },
     {
       "tipo_ativo": "Ações",
@@ -115,23 +115,23 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 12412199460.0,
-      "n": 38
+      "volume": 12112199460.0,
+      "n": 37
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 11545560232.6,
-      "n": 13
+      "volume": 11385260232.6,
+      "n": 11
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6744444740.0,
-      "n": 87
+      "volume": 6670094740.0,
+      "n": 85
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 6247649387.450001,
-      "n": 41
+      "volume": 6246682397.15,
+      "n": 40
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -140,14 +140,14 @@
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 3290615432.3999996,
-      "n": 27
+      "volume": 2819365432.4,
+      "n": 26
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3181
+      "n": 3161
     },
     {
       "status_cvm": "Registro Concedido",
@@ -244,8 +244,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 16143125164.719997,
-      "n": 150
+      "volume": 16103125164.719997,
+      "n": 149
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -274,8 +274,8 @@
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 8769227094.820002,
-      "n": 93
+      "volume": 8601954546.720001,
+      "n": 92
     }
   ]
 }
