@@ -1,18 +1,18 @@
 {
-  "novas_30d": 185,
-  "volume_30d": 26244020251.95001,
-  "ativas_12m": 943,
-  "total_ano": 1320,
+  "novas_30d": 188,
+  "volume_30d": 29478937990.680004,
+  "ativas_12m": 947,
+  "total_ano": 1328,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1485,
-      "volume": 133696646558.51997
+      "n": 1480,
+      "volume": 133504995600.72998
     },
     {
       "tipo_fundo": "FII",
-      "n": 491,
-      "volume": 152021312056.74005
+      "n": 494,
+      "volume": 154903875605.06006
     },
     {
       "tipo_fundo": "FIP",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 230,
-      "volume": 8262205958.57
+      "n": 229,
+      "volume": 8257705958.57
     }
   ],
   "por_mes": [
     {
       "mes": "2025-07",
-      "n": 38,
-      "volume": 3264997764.0099998
+      "n": 27,
+      "volume": 2141492615.78
     },
     {
       "mes": "2025-08",
@@ -88,8 +88,8 @@
     },
     {
       "mes": "2026-07",
-      "n": 173,
-      "volume": 21653020251.920006
+      "n": 181,
+      "volume": 25462937990.68001
     }
   ],
   "por_tipo_60d": [
@@ -100,17 +100,17 @@
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 28477749220.42,
-      "n": 75
+      "volume": 32280166959.14,
+      "n": 81
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 23551155667.09,
-      "n": 275
+      "volume": 23558655667.13,
+      "n": 277
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 13150528860.0,
+      "volume": 13240528860.0,
       "n": 46
     },
     {
@@ -125,8 +125,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6956667740.0,
-      "n": 88
+      "volume": 7098262740.0,
+      "n": 91
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -140,26 +140,26 @@
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 2590475540.57,
+      "volume": 2609225540.57,
       "n": 28
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3186
+      "n": 3179
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1277
-    },
-    {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 31
+      "n": 1282
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 31
+      "n": 29
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 27
     },
     {
       "status_cvm": "Registro Caducado",
@@ -167,7 +167,7 @@
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 14
+      "n": 15
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
@@ -229,8 +229,8 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 70449645635.09,
-      "n": 134
+      "volume": 69680895635.09,
+      "n": 132
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -244,7 +244,7 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 16718109363.769999,
+      "volume": 16883639463.769999,
       "n": 153
     },
     {
@@ -259,8 +259,8 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 12046419786.529999,
-      "n": 211
+      "volume": 12151419793.25,
+      "n": 212
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
@@ -269,8 +269,8 @@
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 9558754546.720001,
-      "n": 96
+      "volume": 9467603546.720001,
+      "n": 95
     },
     {
       "coordenador": "BANCO SAFRA S/A",
