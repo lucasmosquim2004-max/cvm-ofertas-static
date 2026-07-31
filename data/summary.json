@@ -1,18 +1,18 @@
 {
-  "novas_30d": 188,
-  "volume_30d": 29478937990.680004,
-  "ativas_12m": 947,
-  "total_ano": 1328,
+  "novas_30d": 192,
+  "volume_30d": 26557238428.640007,
+  "ativas_12m": 953,
+  "total_ano": 1339,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1480,
-      "volume": 133504995600.72998
+      "n": 1482,
+      "volume": 133620896491.44998
     },
     {
       "tipo_fundo": "FII",
-      "n": 494,
-      "volume": 154903875605.06006
+      "n": 499,
+      "volume": 155702275152.30008
     },
     {
       "tipo_fundo": "FIP",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 229,
-      "volume": 8257705958.57
+      "n": 228,
+      "volume": 8255005958.57
     }
   ],
   "por_mes": [
     {
       "mes": "2025-07",
-      "n": 27,
-      "volume": 2141492615.78
+      "n": 22,
+      "volume": 1958792615.78
     },
     {
       "mes": "2025-08",
@@ -88,30 +88,30 @@
     },
     {
       "mes": "2026-07",
-      "n": 181,
-      "volume": 25462937990.68001
+      "n": 192,
+      "volume": 26557238428.640007
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 43065731441.0,
+      "volume": 43165731441.0,
       "n": 63
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 32280166959.14,
-      "n": 81
+      "volume": 33198566506.38,
+      "n": 87
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 23558655667.13,
-      "n": 277
+      "volume": 23734556557.850002,
+      "n": 282
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 13240528860.0,
-      "n": 46
+      "volume": 13290528860.0,
+      "n": 47
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -125,8 +125,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7098262740.0,
-      "n": 91
+      "volume": 7520710740.0,
+      "n": 93
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -135,12 +135,12 @@
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
-      "volume": 3538360000.0,
+      "volume": 3583360000.0,
       "n": 2
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 2609225540.57,
+      "volume": 2909225540.57,
       "n": 28
     }
   ],
@@ -151,19 +151,19 @@
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1282
+      "n": 1294
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 29
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 27
-    },
-    {
       "status_cvm": "Registro Caducado",
       "n": 24
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 21
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
@@ -229,8 +229,8 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 69680895635.09,
-      "n": 132
+      "volume": 70580895635.09,
+      "n": 136
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -249,7 +249,7 @@
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 15791512800.0,
+      "volume": 15896512800.0,
       "n": 21
     },
     {
@@ -264,8 +264,8 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11601440156.509998,
-      "n": 125
+      "volume": 11576440156.509998,
+      "n": 124
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
