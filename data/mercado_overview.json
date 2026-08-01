@@ -67,7 +67,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1193,
-      "volume": 72751943967.06998,
+      "volume": 72751943967.06999,
       "ativas": 0
     },
     {
@@ -109,7 +109,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
-      "volume": 109531670124.23003,
+      "volume": 109531670124.23001,
       "ativas": 22
     },
     {
@@ -174,11 +174,11 @@
     "total_ano": 1339,
     "volume_ano": 188525105238.09,
     "ytd_atual_n": 1339,
-    "ytd_anterior_n": 1306,
-    "ytd_atual_vol": 188525105238.08997,
-    "ytd_anterior_vol": 135936230067.72012,
-    "ytd_yoy_n": 2.5,
-    "ytd_yoy_vol": 38.7,
+    "ytd_anterior_n": 1319,
+    "ytd_atual_vol": 188525105238.09,
+    "ytd_anterior_vol": 138045579697.72012,
+    "ytd_yoy_n": 1.5,
+    "ytd_yoy_vol": 36.6,
     "ativas_total": 1107
   }
 }
