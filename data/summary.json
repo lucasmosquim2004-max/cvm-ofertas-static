@@ -1,23 +1,23 @@
 {
-  "novas_30d": 174,
-  "volume_30d": 24743743428.910007,
-  "ativas_12m": 954,
-  "total_ano": 1349,
+  "novas_30d": 185,
+  "volume_30d": 26434243429.050007,
+  "ativas_12m": 949,
+  "total_ano": 1360,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1466,
-      "volume": 132616900129.93
+      "n": 1471,
+      "volume": 132896900130.06999
     },
     {
       "tipo_fundo": "FII",
-      "n": 494,
-      "volume": 154587733892.42004
+      "n": 498,
+      "volume": 155633233892.42004
     },
     {
       "tipo_fundo": "FIP",
-      "n": 285,
-      "volume": 50317416125.799995
+      "n": 287,
+      "volume": 50682416125.799995
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -85,23 +85,28 @@
       "mes": "2026-07",
       "n": 202,
       "volume": 27857243429.020008
+    },
+    {
+      "mes": "2026-08",
+      "n": 11,
+      "volume": 1690500000.14
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 40735731441.0,
-      "n": 63
+      "volume": 42235731441.0,
+      "n": 68
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 32787085015.819996,
-      "n": 80
+      "volume": 33832585015.819996,
+      "n": 84
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 23123270472.380005,
-      "n": 269
+      "volume": 23403270472.520004,
+      "n": 274
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -120,18 +125,18 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7041667740.0,
-      "n": 89
+      "volume": 7050167740.0,
+      "n": 92
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 4432832857.870001,
-      "n": 30
+      "volume": 4797832857.870001,
+      "n": 32
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 2749225540.57,
-      "n": 27
+      "volume": 2794202040.57,
+      "n": 29
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -142,23 +147,23 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3148
+      "n": 3172
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1289
+      "n": 1283
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 29
     },
     {
-      "status_cvm": "Registro Caducado",
-      "n": 24
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 27
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 23
+      "status_cvm": "Registro Caducado",
+      "n": 24
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -224,8 +229,8 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 69337145635.09,
-      "n": 132
+      "volume": 69382645635.09,
+      "n": 133
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -234,13 +239,13 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 33831106852.280003,
-      "n": 182
+      "volume": 34196106852.280003,
+      "n": 184
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 16843639463.72,
-      "n": 152
+      "volume": 17143639463.72,
+      "n": 153
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -249,8 +254,8 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 12231424793.63,
-      "n": 215
+      "volume": 12301424793.769999,
+      "n": 216
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -259,13 +264,13 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11527940156.509998,
-      "n": 122
+      "volume": 11627940156.509998,
+      "n": 124
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 9246103546.720001,
-      "n": 93
+      "volume": 9446103546.720001,
+      "n": 94
     },
     {
       "coordenador": "BANCO SAFRA S/A",
