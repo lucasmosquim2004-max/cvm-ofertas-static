@@ -1,18 +1,18 @@
 {
-  "novas_30d": 185,
-  "volume_30d": 26434243429.050007,
-  "ativas_12m": 949,
-  "total_ano": 1360,
+  "novas_30d": 192,
+  "volume_30d": 27498521352.620003,
+  "ativas_12m": 944,
+  "total_ano": 1367,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1471,
-      "volume": 132896900130.06999
+      "n": 1470,
+      "volume": 132838400130.06998
     },
     {
       "tipo_fundo": "FII",
-      "n": 498,
-      "volume": 155633233892.42004
+      "n": 499,
+      "volume": 156421261816.30005
     },
     {
       "tipo_fundo": "FIP",
@@ -22,14 +22,14 @@
     {
       "tipo_fundo": "FIDC NP",
       "n": 225,
-      "volume": 8111305958.57
+      "volume": 8051305958.259998
     }
   ],
   "por_mes": [
     {
       "mes": "2025-08",
-      "n": 161,
-      "volume": 15481807504.02
+      "n": 154,
+      "volume": 15087057504.02
     },
     {
       "mes": "2025-09",
@@ -84,39 +84,39 @@
     {
       "mes": "2026-07",
       "n": 202,
-      "volume": 27857243429.020008
+      "volume": 28437243428.710007
     },
     {
       "mes": "2026-08",
-      "n": 11,
-      "volume": 1690500000.14
+      "n": 18,
+      "volume": 2174777924.0200005
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
       "volume": 42235731441.0,
-      "n": 68
+      "n": 70
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 33832585015.819996,
-      "n": 84
+      "volume": 34772862939.69999,
+      "n": 86
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 23403270472.520004,
-      "n": 274
+      "volume": 23427270445.210003,
+      "n": 278
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
       "volume": 17465198121.0,
-      "n": 9
+      "n": 10
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 13090528860.0,
-      "n": 44
+      "volume": 13254225165.0,
+      "n": 45
     },
     {
       "tipo_ativo": "Ações",
@@ -124,19 +124,19 @@
       "n": 3
     },
     {
+      "tipo_ativo": "Cotas de FIAGRO",
+      "volume": 7644202040.57,
+      "n": 29
+    },
+    {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7050167740.0,
-      "n": 92
+      "volume": 7078167740.0,
+      "n": 94
     },
     {
       "tipo_ativo": "Cotas de FIP",
       "volume": 4797832857.870001,
       "n": 32
-    },
-    {
-      "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 2794202040.57,
-      "n": 29
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3172
+      "n": 3181
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1283
+      "n": 1277
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -167,7 +167,7 @@
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 15
+      "n": 14
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -235,11 +235,11 @@
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
       "volume": 51858618245.17999,
-      "n": 86
+      "n": 87
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34196106852.280003,
+      "volume": 34103857757.28,
       "n": 184
     },
     {
@@ -249,13 +249,13 @@
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 15896512800.0,
+      "volume": 16476512800.0,
       "n": 22
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 12301424793.769999,
-      "n": 216
+      "volume": 12310424793.769999,
+      "n": 217
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -264,8 +264,8 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 11627940156.509998,
-      "n": 124
+      "volume": 11928217175.39,
+      "n": 125
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
