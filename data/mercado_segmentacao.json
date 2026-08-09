@@ -2,13 +2,13 @@
   "publico_alvo": [
     {
       "ano": 2023,
-      "publico_alvo": "Público Geral",
-      "n": 29
+      "publico_alvo": "Profissional",
+      "n": 1135
     },
     {
       "ano": 2023,
-      "publico_alvo": "Profissional",
-      "n": 1135
+      "publico_alvo": "Público Geral",
+      "n": 29
     },
     {
       "ano": 2023,
@@ -32,13 +32,13 @@
     },
     {
       "ano": 2025,
-      "publico_alvo": "Profissional",
-      "n": 2155
+      "publico_alvo": "Público Geral",
+      "n": 44
     },
     {
       "ano": 2025,
-      "publico_alvo": "Público Geral",
-      "n": 44
+      "publico_alvo": "Profissional",
+      "n": 2155
     },
     {
       "ano": 2025,
@@ -47,13 +47,13 @@
     },
     {
       "ano": 2026,
-      "publico_alvo": "Profissional",
-      "n": 1203
+      "publico_alvo": "Público Geral",
+      "n": 45
     },
     {
       "ano": 2026,
-      "publico_alvo": "Público Geral",
-      "n": 45
+      "publico_alvo": "Profissional",
+      "n": 1203
     },
     {
       "ano": 2026,
@@ -62,6 +62,596 @@
     }
   ],
   "coordenadores_3y": [
+    {
+      "ano": 2024,
+      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "volume": 37031640798.700005
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "volume": 38972057859.26999
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "volume": 11533306310.300001
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO DAYCOVAL S.A.",
+      "volume": 8766818506.789999
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO DAYCOVAL S.A.",
+      "volume": 11717725800.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO DAYCOVAL S.A.",
+      "volume": 11967329590.81
+    },
+    {
+      "ano": 2024,
+      "coordenador": "TMF BRASIL SERVICOS DE ADMINISTRACAO DE FUNDOS LTDA",
+      "volume": 2377484313.9899993
+    },
+    {
+      "ano": 2025,
+      "coordenador": "TMF BRASIL SERVICOS DE ADMINISTRACAO DE FUNDOS LTDA",
+      "volume": 2353041327.49
+    },
+    {
+      "ano": 2026,
+      "coordenador": "TMF BRASIL SERVICOS DE ADMINISTRACAO DE FUNDOS LTDA",
+      "volume": 2066847974.97
+    },
+    {
+      "ano": 2025,
+      "coordenador": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "volume": 132000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "volume": 1464000.03
+    },
+    {
+      "ano": 2024,
+      "coordenador": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "volume": 61204000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO GENIAL S.A.",
+      "volume": 5493092290.58
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO GENIAL S.A.",
+      "volume": 1172816989.55
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO GENIAL S.A.",
+      "volume": 4310805172.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "LIONS TRUST ADMINISTRADORA DE RECURSOS LTDA",
+      "volume": 879631613.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "LIONS TRUST ADMINISTRADORA DE RECURSOS LTDA",
+      "volume": 205499997.56
+    },
+    {
+      "ano": 2025,
+      "coordenador": "LIONS TRUST ADMINISTRADORA DE RECURSOS LTDA",
+      "volume": 1144565000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "XMS S/A",
+      "volume": 59999919.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
+      "volume": 346000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
+      "volume": 327000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "MF PEPPER SERVIÇOS FINANCEIROS LTDA.",
+      "volume": 119302800.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "MF PEPPER SERVIÇOS FINANCEIROS LTDA.",
+      "volume": 41500000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "MF PEPPER SERVIÇOS FINANCEIROS LTDA.",
+      "volume": 111997200.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "volume": 29087174326.55
+    },
+    {
+      "ano": 2025,
+      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "volume": 35535720660.6
+    },
+    {
+      "ano": 2024,
+      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
+      "volume": 13885240000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+      "volume": 248412000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+      "volume": 55000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
+      "volume": 108100000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "RISE INVESTMENT MANAGEMENT LTDA.",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "RISE INVESTMENT MANAGEMENT LTDA.",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "RISE INVESTMENT MANAGEMENT LTDA.",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "4UM GESTÃO DE RECURSOS LTDA.",
+      "volume": 800000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "volume": 1383043935.56
+    },
+    {
+      "ano": 2026,
+      "coordenador": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "volume": 383485860.8
+    },
+    {
+      "ano": 2024,
+      "coordenador": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "volume": 1066628623.6800001
+    },
+    {
+      "ano": 2024,
+      "coordenador": "MASTER S/A CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS",
+      "volume": 686300000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "MASTER S/A CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS",
+      "volume": 557472200.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 18791854210.569992
+    },
+    {
+      "ano": 2026,
+      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 207000000.81
+    },
+    {
+      "ano": 2024,
+      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 18906484220.070004
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO SAFRA S/A",
+      "volume": 4882478696.21
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO SAFRA S/A",
+      "volume": 5415972732.55
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO SAFRA S/A",
+      "volume": 1164109608.6799998
+    },
+    {
+      "ano": 2026,
+      "coordenador": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 1281500000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 1899368000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 924906775.42
+    },
+    {
+      "ano": 2024,
+      "coordenador": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "volume": 4394190738.33
+    },
+    {
+      "ano": 2025,
+      "coordenador": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "volume": 5866325757.79
+    },
+    {
+      "ano": 2026,
+      "coordenador": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+      "volume": 3266637427.859999
+    },
+    {
+      "ano": 2025,
+      "coordenador": "REAG TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 2237000000.01
+    },
+    {
+      "ano": 2024,
+      "coordenador": "REAG TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "volume": 480500000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+      "volume": 10601864743.42
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+      "volume": 16309744410.21
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
+      "volume": 6788127596.7699995
+    },
+    {
+      "ano": 2026,
+      "coordenador": "CONFRAPAR REP S.A",
+      "volume": 4999915.8
+    },
+    {
+      "ano": 2025,
+      "coordenador": "CONFRAPAR REP S.A",
+      "volume": 60000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 546896281.16
+    },
+    {
+      "ano": 2025,
+      "coordenador": "ARENA CAPITAL GESTORA DE RECURSOS LTDA",
+      "volume": 0.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO BRADESCO BBI S.A.",
+      "volume": 13314762800.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO BRADESCO BBI S.A.",
+      "volume": 3611750000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO BRADESCO BBI S.A.",
+      "volume": 5403250000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO BRADESCO S.A.",
+      "volume": 1005000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+      "volume": 6074550225.89
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+      "volume": 2799249165.5699997
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
+      "volume": 4625553234.360001
+    },
+    {
+      "ano": 2025,
+      "coordenador": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 312500000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 6000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+      "volume": 1286268299.7199998
+    },
+    {
+      "ano": 2025,
+      "coordenador": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+      "volume": 1465764707.73
+    },
+    {
+      "ano": 2026,
+      "coordenador": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
+      "volume": 830690868.8000001
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO ITAU BBA  S.A.",
+      "volume": 11516286735.34
+    },
+    {
+      "ano": 2025,
+      "coordenador": "PINE INVESTIMENTOS DTVM LTDA",
+      "volume": 250000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA",
+      "volume": 269000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA",
+      "volume": 126871428.35
+    },
+    {
+      "ano": 2024,
+      "coordenador": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 166200000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 189010000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 256700004.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "VOX CAPITAL GESTÃO DE RECURSOS SA",
+      "volume": 12568500.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO BS2 S.A.",
+      "volume": 130000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO FATOR S/A",
+      "volume": 1000000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO FATOR S/A",
+      "volume": 382998428.86
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO FATOR S/A",
+      "volume": 1373176610.5
+    },
+    {
+      "ano": 2026,
+      "coordenador": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+      "volume": 1342000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+      "volume": 731000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
+      "volume": 902664825.1
+    },
+    {
+      "ano": 2025,
+      "coordenador": "ARCHX CAPITAL",
+      "volume": 162800000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BAMBOO SECURITIZADORA S.A.",
+      "volume": 295000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BAMBOO SECURITIZADORA S.A.",
+      "volume": 45000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BAMBOO SECURITIZADORA S.A.",
+      "volume": 34000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO MASTER DE INVESTIMENTO S.A.",
+      "volume": 153734832.35
+    },
+    {
+      "ano": 2024,
+      "coordenador": "INVESTCOOP ASSET MANAGEMENT LTDA.",
+      "volume": 142647094.89
+    },
+    {
+      "ano": 2025,
+      "coordenador": "INVESTCOOP ASSET MANAGEMENT LTDA.",
+      "volume": 101976233.72
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO MODAL S.A.",
+      "volume": 1786000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO MODAL S.A.",
+      "volume": 727000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO RABOBANK INTERNATIONAL BRASIL S.A.",
+      "volume": 552999999.96
+    },
+    {
+      "ano": 2026,
+      "coordenador": "GENIAL INSTITUCIONAL CCTVM S.A.",
+      "volume": 129991700.4
+    },
+    {
+      "ano": 2025,
+      "coordenador": "GENIAL INSTITUCIONAL CCTVM S.A.",
+      "volume": 160000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 55000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "CATÁLISE INVESTIMENTOS LTDA.",
+      "volume": 117000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "CATÁLISE INVESTIMENTOS LTDA.",
+      "volume": 10000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 210487200.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 16000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "REAG GESTÃO DE CRÉDITO LTDA",
+      "volume": 102500000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "SRM Empírica Gestão de Crédito LTDA",
+      "volume": 40000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 70000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 998265556.01
+    },
+    {
+      "ano": 2025,
+      "coordenador": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 3685625999.96
+    },
+    {
+      "ano": 2026,
+      "coordenador": "GCB CAPITAL GESTÃO DE RECURSOS DE VALORES MOBILIÁRIOS LTDA.",
+      "volume": 20000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "GCB CAPITAL GESTÃO DE RECURSOS DE VALORES MOBILIÁRIOS LTDA.",
+      "volume": 61250000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "GCB CAPITAL GESTÃO DE RECURSOS DE VALORES MOBILIÁRIOS LTDA.",
+      "volume": 30000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
+      "volume": 9601084000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
+      "volume": 2768500000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
+      "volume": 9146579427.529999
+    },
+    {
+      "ano": 2025,
+      "coordenador": "QI DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 1613800770.11
+    },
+    {
+      "ano": 2024,
+      "coordenador": "QI DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "volume": 662000000.01
+    },
+    {
+      "ano": 2026,
+      "coordenador": "GROW REAL ASSETS CAPITAL LTDA",
+      "volume": 150000000.0
+    },
     {
       "ano": 2024,
       "coordenador": "AZUMI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
@@ -286,16 +876,6 @@
       "ano": 2024,
       "coordenador": "GLPG DTVM",
       "volume": 672000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 126871428.35
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANVOX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 269000000.0
     },
     {
       "ano": 2025,
@@ -734,68 +1314,8 @@
     },
     {
       "ano": 2026,
-      "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
-      "volume": 2768500000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
-      "volume": 9146579427.529999
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
-      "volume": 9601084000.0
-    },
-    {
-      "ano": 2026,
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "volume": 12414424793.98
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 38972057859.26999
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 11533306310.300001
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 37031640798.700005
-    },
-    {
-      "ano": 2025,
-      "coordenador": "TMF BRASIL SERVICOS DE ADMINISTRACAO DE FUNDOS LTDA",
-      "volume": 2353041327.49
-    },
-    {
-      "ano": 2026,
-      "coordenador": "TMF BRASIL SERVICOS DE ADMINISTRACAO DE FUNDOS LTDA",
-      "volume": 2066847974.97
-    },
-    {
-      "ano": 2024,
-      "coordenador": "TMF BRASIL SERVICOS DE ADMINISTRACAO DE FUNDOS LTDA",
-      "volume": 2377484313.9899993
-    },
-    {
-      "ano": 2024,
-      "coordenador": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "volume": 61204000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "volume": 132000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "volume": 1464000.03
     },
     {
       "ano": 2024,
@@ -804,93 +1324,8 @@
     },
     {
       "ano": 2024,
-      "coordenador": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 1066628623.6800001
-    },
-    {
-      "ano": 2025,
-      "coordenador": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 1383043935.56
-    },
-    {
-      "ano": 2026,
-      "coordenador": "TERRA INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 383485860.8
-    },
-    {
-      "ano": 2024,
       "coordenador": "SINGULARE ADMINISTRAÇÃO FIDUCIÁRIA LTDA.",
       "volume": 362740988.73
-    },
-    {
-      "ano": 2024,
-      "coordenador": "MF PEPPER SERVIÇOS FINANCEIROS LTDA.",
-      "volume": 111997200.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "MF PEPPER SERVIÇOS FINANCEIROS LTDA.",
-      "volume": 119302800.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "MF PEPPER SERVIÇOS FINANCEIROS LTDA.",
-      "volume": 41500000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 18906484220.070004
-    },
-    {
-      "ano": 2025,
-      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 18791854210.569992
-    },
-    {
-      "ano": 2026,
-      "coordenador": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 207000000.81
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO GENIAL S.A.",
-      "volume": 1172816989.55
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO GENIAL S.A.",
-      "volume": 4310805172.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO GENIAL S.A.",
-      "volume": 5493092290.58
-    },
-    {
-      "ano": 2024,
-      "coordenador": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
-      "volume": 327000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
-      "volume": 346000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 11717725800.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 11967329590.81
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 8766818506.789999
     },
     {
       "ano": 2025,
@@ -904,108 +1339,8 @@
     },
     {
       "ano": 2024,
-      "coordenador": "BANCO SAFRA S/A",
-      "volume": 1164109608.6799998
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO SAFRA S/A",
-      "volume": 4882478696.21
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO SAFRA S/A",
-      "volume": 5415972732.55
-    },
-    {
-      "ano": 2025,
-      "coordenador": "MASTER S/A CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS",
-      "volume": 557472200.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "MASTER S/A CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS",
-      "volume": 686300000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "LIONS TRUST ADMINISTRADORA DE RECURSOS LTDA",
-      "volume": 205499997.56
-    },
-    {
-      "ano": 2025,
-      "coordenador": "LIONS TRUST ADMINISTRADORA DE RECURSOS LTDA",
-      "volume": 1144565000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "LIONS TRUST ADMINISTRADORA DE RECURSOS LTDA",
-      "volume": 879631613.0
-    },
-    {
-      "ano": 2024,
       "coordenador": "FRAM CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "volume": 97600000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 13885240000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 29087174326.55
-    },
-    {
-      "ano": 2025,
-      "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 35535720660.6
-    },
-    {
-      "ano": 2024,
-      "coordenador": "RISE INVESTMENT MANAGEMENT LTDA.",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "RISE INVESTMENT MANAGEMENT LTDA.",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "RISE INVESTMENT MANAGEMENT LTDA.",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 5866325757.79
-    },
-    {
-      "ano": 2026,
-      "coordenador": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 3266637427.859999
-    },
-    {
-      "ano": 2024,
-      "coordenador": "HEMERA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
-      "volume": 4394190738.33
-    },
-    {
-      "ano": 2024,
-      "coordenador": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 924906775.42
-    },
-    {
-      "ano": 2026,
-      "coordenador": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 1281500000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "LIMINE TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 1899368000.0
     },
     {
       "ano": 2025,
@@ -1049,103 +1384,13 @@
     },
     {
       "ano": 2024,
-      "coordenador": "BANCO FATOR S/A",
-      "volume": 1373176610.5
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO FATOR S/A",
-      "volume": 1000000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO FATOR S/A",
-      "volume": 382998428.86
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-      "volume": 4625553234.360001
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-      "volume": 6074550225.89
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BR PARTNERS BANCO DE INVESTIMENTO S.A.",
-      "volume": 2799249165.5699997
-    },
-    {
-      "ano": 2024,
       "coordenador": "REAG DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "volume": 4309891319.73
-    },
-    {
-      "ano": 2025,
-      "coordenador": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
-      "volume": 1465764707.73
-    },
-    {
-      "ano": 2026,
-      "coordenador": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
-      "volume": 830690868.8000001
-    },
-    {
-      "ano": 2024,
-      "coordenador": "ORIZ ASSESSORIA FINANCEIRA LTDA.",
-      "volume": 1286268299.7199998
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "volume": 6788127596.7699995
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "volume": 10601864743.42
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "volume": 16309744410.21
-    },
-    {
-      "ano": 2024,
-      "coordenador": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
-      "volume": 108100000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
-      "volume": 248412000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA.",
-      "volume": 55000000.0
     },
     {
       "ano": 2024,
       "coordenador": "INTEGRAL ACCESS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
       "volume": 80944000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 189010000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 256700004.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 166200000.0
     },
     {
       "ano": 2024,
@@ -1164,58 +1409,8 @@
     },
     {
       "ano": 2024,
-      "coordenador": "REAG TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 480500000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "REAG TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 2237000000.01
-    },
-    {
-      "ano": 2024,
       "coordenador": "UBS BRASIL CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS S.A.",
       "volume": 1200000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 5403250000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 13314762800.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 3611750000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 998265556.01
-    },
-    {
-      "ano": 2025,
-      "coordenador": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 3685625999.96
-    },
-    {
-      "ano": 2024,
-      "coordenador": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 70000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "INVESTCOOP ASSET MANAGEMENT LTDA.",
-      "volume": 101976233.72
-    },
-    {
-      "ano": 2024,
-      "coordenador": "INVESTCOOP ASSET MANAGEMENT LTDA.",
-      "volume": 142647094.89
     },
     {
       "ano": 2025,
@@ -1231,26 +1426,6 @@
       "ano": 2025,
       "coordenador": "WNT CAPITAL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
       "volume": 76999999.99000001
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO MODAL S.A.",
-      "volume": 727000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO MODAL S.A.",
-      "volume": 1786000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "QI DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 662000000.01
-    },
-    {
-      "ano": 2025,
-      "coordenador": "QI DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 1613800770.11
     },
     {
       "ano": 2024,
@@ -1283,21 +1458,6 @@
       "volume": 15000000.0
     },
     {
-      "ano": 2024,
-      "coordenador": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-      "volume": 902664825.1
-    },
-    {
-      "ano": 2026,
-      "coordenador": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-      "volume": 1342000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S/A",
-      "volume": 731000000.0
-    },
-    {
       "ano": 2025,
       "coordenador": "BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL - BNDES",
       "volume": 180000000.18
@@ -1311,166 +1471,6 @@
       "ano": 2026,
       "coordenador": "QI CORRETORA DE T-TULOS E VALORES MOBILI-RIOS S.A.",
       "volume": 5000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "GCB CAPITAL GESTÃO DE RECURSOS DE VALORES MOBILIÁRIOS LTDA.",
-      "volume": 30000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "GCB CAPITAL GESTÃO DE RECURSOS DE VALORES MOBILIÁRIOS LTDA.",
-      "volume": 20000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "GCB CAPITAL GESTÃO DE RECURSOS DE VALORES MOBILIÁRIOS LTDA.",
-      "volume": 61250000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BAMBOO SECURITIZADORA S.A.",
-      "volume": 34000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BAMBOO SECURITIZADORA S.A.",
-      "volume": 295000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BAMBOO SECURITIZADORA S.A.",
-      "volume": 45000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "XMS S/A",
-      "volume": 59999919.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "4UM GESTÃO DE RECURSOS LTDA.",
-      "volume": 800000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "CONFRAPAR REP S.A",
-      "volume": 4999915.8
-    },
-    {
-      "ano": 2025,
-      "coordenador": "CONFRAPAR REP S.A",
-      "volume": 60000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 546896281.16
-    },
-    {
-      "ano": 2025,
-      "coordenador": "ARENA CAPITAL GESTORA DE RECURSOS LTDA",
-      "volume": 0.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO BRADESCO S.A.",
-      "volume": 1005000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 312500000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "RB INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 6000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO ITAU BBA  S.A.",
-      "volume": 11516286735.34
-    },
-    {
-      "ano": 2025,
-      "coordenador": "PINE INVESTIMENTOS DTVM LTDA",
-      "volume": 250000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "VOX CAPITAL GESTÃO DE RECURSOS SA",
-      "volume": 12568500.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO BS2 S.A.",
-      "volume": 130000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "ARCHX CAPITAL",
-      "volume": 162800000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO MASTER DE INVESTIMENTO S.A.",
-      "volume": 153734832.35
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BANCO RABOBANK INTERNATIONAL BRASIL S.A.",
-      "volume": 552999999.96
-    },
-    {
-      "ano": 2026,
-      "coordenador": "GENIAL INSTITUCIONAL CCTVM S.A.",
-      "volume": 129991700.4
-    },
-    {
-      "ano": 2025,
-      "coordenador": "GENIAL INSTITUCIONAL CCTVM S.A.",
-      "volume": 160000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 55000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "CATÁLISE INVESTIMENTOS LTDA.",
-      "volume": 117000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "CATÁLISE INVESTIMENTOS LTDA.",
-      "volume": 10000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 210487200.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 16000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "REAG GESTÃO DE CRÉDITO LTDA",
-      "volume": 102500000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "SRM Empírica Gestão de Crédito LTDA",
-      "volume": 40000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "GROW REAL ASSETS CAPITAL LTDA",
-      "volume": 150000000.0
     },
     {
       "ano": 2024,
