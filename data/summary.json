@@ -1,18 +1,18 @@
 {
-  "novas_30d": 174,
-  "volume_30d": 33273601332.620007,
+  "novas_30d": 182,
+  "volume_30d": 34303601332.620007,
   "ativas_12m": 932,
-  "total_ano": 1387,
+  "total_ano": 1395,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1463,
-      "volume": 132069399483.31996
+      "n": 1470,
+      "volume": 133019399483.31995
     },
     {
       "tipo_fundo": "FII",
-      "n": 500,
-      "volume": 165065264303.14005
+      "n": 501,
+      "volume": 165145264303.14005
     },
     {
       "tipo_fundo": "FIP",
@@ -22,7 +22,7 @@
     {
       "tipo_fundo": "FIDC NP",
       "n": 224,
-      "volume": 8043605958.319999
+      "volume": 8043605958.32
     }
   ],
   "por_mes": [
@@ -49,7 +49,7 @@
     {
       "mes": "2025-12",
       "n": 319,
-      "volume": 44918247738.95001
+      "volume": 44918247738.950005
     },
     {
       "mes": "2026-01",
@@ -84,29 +84,29 @@
     {
       "mes": "2026-07",
       "n": 202,
-      "volume": 28437243428.710003
+      "volume": 28437243428.710007
     },
     {
       "mes": "2026-08",
-      "n": 38,
-      "volume": 13469755115.55
+      "n": 46,
+      "volume": 14499755115.55
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 43522820125.99999,
-      "n": 87
+      "volume": 43269570122.06999,
+      "n": 84
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 39158411151.48,
-      "n": 64
+      "volume": 39738411151.48,
+      "n": 66
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 18047897301.99,
-      "n": 260
+      "volume": 18713997301.989998,
+      "n": 262
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -124,14 +124,14 @@
       "n": 42
     },
     {
-      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7992307740.0,
-      "n": 100
+      "tipo_ativo": "Cotas de FIAGRO",
+      "volume": 7843202040.57,
+      "n": 29
     },
     {
-      "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 7854202040.57,
-      "n": 30
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 7362307740.0,
+      "n": 97
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -139,31 +139,31 @@
       "n": 31
     },
     {
-      "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
-      "volume": 2428200000.0,
-      "n": 19
+      "tipo_ativo": "Cotas de FIF",
+      "volume": 2529521900.26,
+      "n": 30
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3170
+      "n": 3193
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1273
+      "n": 1261
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 28
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
+      "status_cvm": "Registro Caducado",
       "n": 24
     },
     {
-      "status_cvm": "Registro Caducado",
-      "n": 23
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 24
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
@@ -229,7 +229,7 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 68221695635.09,
+      "volume": 68221695635.090004,
       "n": 130
     },
     {
@@ -239,8 +239,8 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 33965858052.800003,
-      "n": 181
+      "volume": 34345858052.8,
+      "n": 183
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
