@@ -1,6 +1,6 @@
 {
   "disponivel": true,
-  "total_cvm": 14310,
+  "total_cvm": 14312,
   "total_processadas": 0,
   "cobertura_anbima": 0,
   "status_breakdown": [],
@@ -64,23 +64,23 @@
     {
       "ano": 2026,
       "tipo_fundo": "Consolidado",
-      "n_ofertadas": 1398,
-      "n_encerradas": 545,
-      "taxa_sucesso": 39.0
+      "n_ofertadas": 1405,
+      "n_encerradas": 547,
+      "taxa_sucesso": 38.9
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n_ofertadas": 976,
-      "n_encerradas": 332,
+      "n_ofertadas": 980,
+      "n_encerradas": 333,
       "taxa_sucesso": 34.0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n_ofertadas": 280,
-      "n_encerradas": 143,
-      "taxa_sucesso": 51.1
+      "n_ofertadas": 283,
+      "n_encerradas": 144,
+      "taxa_sucesso": 50.9
     },
     {
       "ano": 2026,
@@ -93,11 +93,11 @@
   "por_classe": [
     {
       "tipo_fundo": "Cotas de FIDC",
-      "n_ofertas": 8968,
-      "n_encerradas": 8173,
-      "n_ativas": 795,
+      "n_ofertas": 8972,
+      "n_encerradas": 8174,
+      "n_ativas": 798,
       "n_com_anbima": 0,
-      "total_ofertado": 700451882498.0496,
+      "total_ofertado": 701126282498.0494,
       "total_captado": 0.0,
       "taxa_media": 0.0,
       "taxa_mediana": 0.0
@@ -115,11 +115,11 @@
     },
     {
       "tipo_fundo": "Cotas de FII",
-      "n_ofertas": 2674,
-      "n_encerradas": 2498,
-      "n_ativas": 176,
+      "n_ofertas": 2677,
+      "n_encerradas": 2499,
+      "n_ativas": 178,
       "n_com_anbima": 0,
-      "total_ofertado": 457179788580.2298,
+      "total_ofertado": 458638370316.22986,
       "total_captado": 0.0,
       "taxa_media": 0.0,
       "taxa_mediana": 0.0
@@ -128,20 +128,26 @@
   "mensal": [
     {
       "mes": "2024-08",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 1587779701.5500002,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 2570101746.76,
       "captado": 0.0
     },
     {
       "mes": "2024-08",
       "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 6218421344.98,
+      "ofertado": 5411057431.24,
       "captado": 0.0
     },
     {
       "mes": "2024-08",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 2931415015.1099997,
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 1478952381.42,
+      "captado": 0.0
+    },
+    {
+      "mes": "2024-09",
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 6232051669.97,
       "captado": 0.0
     },
     {
@@ -157,15 +163,9 @@
       "captado": 0.0
     },
     {
-      "mes": "2024-09",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 6232051669.97,
-      "captado": 0.0
-    },
-    {
       "mes": "2024-10",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 8478743685.82,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 8240830724.000002,
       "captado": 0.0
     },
     {
@@ -176,8 +176,8 @@
     },
     {
       "mes": "2024-10",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 8240830724.000002,
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 8478743685.82,
       "captado": 0.0
     },
     {
@@ -188,14 +188,14 @@
     },
     {
       "mes": "2024-11",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 8826632840.3,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 14723249752.95,
       "captado": 0.0
     },
     {
       "mes": "2024-11",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 14723249752.95,
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 8826632840.3,
       "captado": 0.0
     },
     {
@@ -206,14 +206,14 @@
     },
     {
       "mes": "2024-12",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 17438349458.18,
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 6441857662.629999,
       "captado": 0.0
     },
     {
       "mes": "2024-12",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 6441857662.629999,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 17438349458.18,
       "captado": 0.0
     },
     {
@@ -236,14 +236,14 @@
     },
     {
       "mes": "2025-02",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 2600403358.01,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 8605724392.840002,
       "captado": 0.0
     },
     {
       "mes": "2025-02",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 8605724392.840002,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 2600403358.01,
       "captado": 0.0
     },
     {
@@ -254,14 +254,14 @@
     },
     {
       "mes": "2025-03",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 8680706172.939999,
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 2880142164.52,
       "captado": 0.0
     },
     {
       "mes": "2025-03",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 2880142164.52,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 8680706172.939999,
       "captado": 0.0
     },
     {
@@ -272,14 +272,14 @@
     },
     {
       "mes": "2025-04",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 14923269880.179998,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 8600298646.97,
       "captado": 0.0
     },
     {
       "mes": "2025-04",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 8600298646.97,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 14923269880.179998,
       "captado": 0.0
     },
     {
@@ -308,20 +308,26 @@
     },
     {
       "mes": "2025-06",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 8765169892.75,
-      "captado": 0.0
-    },
-    {
-      "mes": "2025-06",
       "tipo_fundo": "Cotas de FIDC",
       "ofertado": 12343119185.1,
       "captado": 0.0
     },
     {
       "mes": "2025-06",
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 8765169892.75,
+      "captado": 0.0
+    },
+    {
+      "mes": "2025-06",
       "tipo_fundo": "Cotas de FIP",
       "ofertado": 5063069197.82,
+      "captado": 0.0
+    },
+    {
+      "mes": "2025-07",
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 766722000.0,
       "captado": 0.0
     },
     {
@@ -337,12 +343,6 @@
       "captado": 0.0
     },
     {
-      "mes": "2025-07",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 766722000.0,
-      "captado": 0.0
-    },
-    {
       "mes": "2025-08",
       "tipo_fundo": "Cotas de FIP",
       "ofertado": 4624849731.9,
@@ -350,14 +350,14 @@
     },
     {
       "mes": "2025-08",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 7882182858.48,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 7760272747.920001,
       "captado": 0.0
     },
     {
       "mes": "2025-08",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 7760272747.920001,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 7882182858.48,
       "captado": 0.0
     },
     {
@@ -368,20 +368,20 @@
     },
     {
       "mes": "2025-09",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 5878295058.290001,
-      "captado": 0.0
-    },
-    {
-      "mes": "2025-09",
       "tipo_fundo": "Cotas de FIP",
       "ofertado": 3786876201.1299996,
       "captado": 0.0
     },
     {
-      "mes": "2025-10",
+      "mes": "2025-09",
       "tipo_fundo": "Cotas de FII",
-      "ofertado": 8813562629.17,
+      "ofertado": 5878295058.289999,
+      "captado": 0.0
+    },
+    {
+      "mes": "2025-10",
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 1728168128.48,
       "captado": 0.0
     },
     {
@@ -392,14 +392,8 @@
     },
     {
       "mes": "2025-10",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 1728168128.48,
-      "captado": 0.0
-    },
-    {
-      "mes": "2025-11",
-      "tipo_fundo": "Cotas de FIP",
-      "ofertado": 3857386800.0,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 8813562629.17,
       "captado": 0.0
     },
     {
@@ -410,14 +404,14 @@
     },
     {
       "mes": "2025-11",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 10933016061.53,
+      "tipo_fundo": "Cotas de FIP",
+      "ofertado": 3857386800.0,
       "captado": 0.0
     },
     {
-      "mes": "2025-12",
+      "mes": "2025-11",
       "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 15937793521.570002,
+      "ofertado": 10933016061.53,
       "captado": 0.0
     },
     {
@@ -428,14 +422,20 @@
     },
     {
       "mes": "2025-12",
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 15937793521.570002,
+      "captado": 0.0
+    },
+    {
+      "mes": "2025-12",
       "tipo_fundo": "Cotas de FII",
       "ofertado": 28879660497.73,
       "captado": 0.0
     },
     {
       "mes": "2026-01",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 9675647099.609999,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 6523260663.5,
       "captado": 0.0
     },
     {
@@ -446,8 +446,8 @@
     },
     {
       "mes": "2026-01",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 6523260663.5,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 9675647099.609999,
       "captado": 0.0
     },
     {
@@ -470,14 +470,14 @@
     },
     {
       "mes": "2026-03",
-      "tipo_fundo": "Cotas de FII",
-      "ofertado": 15397540563.759998,
+      "tipo_fundo": "Cotas de FIDC",
+      "ofertado": 12830042808.639997,
       "captado": 0.0
     },
     {
       "mes": "2026-03",
-      "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 12830042808.639997,
+      "tipo_fundo": "Cotas de FII",
+      "ofertado": 15397540563.759998,
       "captado": 0.0
     },
     {
@@ -567,13 +567,13 @@
     {
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 6254918747.76,
+      "ofertado": 6279918748.58,
       "captado": 0.0
     },
     {
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FII",
-      "ofertado": 4758187109.09,
+      "ofertado": 4878559017.54,
       "captado": 0.0
     }
   ],

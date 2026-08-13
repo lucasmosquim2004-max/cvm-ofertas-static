@@ -28,9 +28,9 @@
       "tipo_fundo": "Cotas de FIDC",
       "rito": "Automático",
       "ano": 2026,
-      "total": 976,
-      "encerradas": 332,
-      "dias_medio_captacao": 86.3
+      "total": 980,
+      "encerradas": 333,
+      "dias_medio_captacao": 86.6
     },
     {
       "tipo_fundo": "Cotas de FIDC",
@@ -172,9 +172,9 @@
       "tipo_fundo": "Cotas de FII",
       "rito": "Automático",
       "ano": 2026,
-      "total": 280,
-      "encerradas": 143,
-      "dias_medio_captacao": 54.3
+      "total": 283,
+      "encerradas": 144,
+      "dias_medio_captacao": 54.5
     },
     {
       "tipo_fundo": "Cotas de FII",
@@ -404,8 +404,8 @@
   "ticket_atual": [
     {
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 334.1,
-      "n": 280
+      "ticket_medio": 335.72,
+      "n": 283
     },
     {
       "tipo_fundo": "Cotas de FIP",
@@ -414,8 +414,8 @@
     },
     {
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 84.59,
-      "n": 972
+      "ticket_medio": 85.02,
+      "n": 975
     }
   ]
 }
