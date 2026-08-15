@@ -1,23 +1,23 @@
 {
-  "novas_30d": 193,
-  "volume_30d": 36371710754.70001,
-  "ativas_12m": 932,
+  "novas_30d": 180,
+  "volume_30d": 34926390754.64001,
+  "ativas_12m": 929,
   "total_ano": 1418,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1476,
-      "volume": 134131780669.59995
+      "n": 1471,
+      "volume": 133908183691.09995
     },
     {
       "tipo_fundo": "FII",
-      "n": 501,
-      "volume": 165485284539.14005
+      "n": 498,
+      "volume": 165412084539.14005
     },
     {
       "tipo_fundo": "FIP",
-      "n": 282,
-      "volume": 50638008818.24
+      "n": 281,
+      "volume": 50635508818.24
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-08",
-      "n": 105,
-      "volume": 9693113345.09
+      "n": 96,
+      "volume": 9393816366.589998
     },
     {
       "mes": "2025-09",
@@ -95,8 +95,8 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 45108151858.06999,
-      "n": 88
+      "volume": 44458151858.06999,
+      "n": 86
     },
     {
       "tipo_ativo": "Debêntures",
@@ -105,8 +105,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 19217362741.149998,
-      "n": 271
+      "volume": 19037362741.149998,
+      "n": 268
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -130,13 +130,13 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7305507740.0,
-      "n": 100
+      "volume": 6922507740.0,
+      "n": 98
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 4170215317.8700004,
-      "n": 30
+      "volume": 4020215317.8700004,
+      "n": 29
     },
     {
       "tipo_ativo": "Cotas de FIF",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3197
+      "n": 3188
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1248
+      "n": 1245
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
@@ -159,11 +159,11 @@
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 29
+      "n": 28
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 24
+      "n": 23
     },
     {
       "status_cvm": "Oferta Suspensa",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
@@ -244,7 +244,7 @@
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "volume": 22088607347.550003,
+      "volume": 22088607347.55,
       "n": 17
     },
     {
