@@ -1,23 +1,23 @@
 {
-  "novas_30d": 180,
-  "volume_30d": 34926390754.64001,
+  "novas_30d": 168,
+  "volume_30d": 32608390314.880005,
   "ativas_12m": 929,
   "total_ano": 1418,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1471,
-      "volume": 133908183691.09995
+      "n": 1468,
+      "volume": 133794433691.09995
     },
     {
       "tipo_fundo": "FII",
-      "n": 498,
-      "volume": 165412084539.14005
+      "n": 496,
+      "volume": 164906084527.40005
     },
     {
       "tipo_fundo": "FIP",
-      "n": 281,
-      "volume": 50635508818.24
+      "n": 280,
+      "volume": 50535508818.24
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-08",
-      "n": 96,
-      "volume": 9393816366.589998
+      "n": 90,
+      "volume": 8674066354.849998
     },
     {
       "mes": "2025-09",
@@ -95,18 +95,18 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 44458151858.06999,
-      "n": 86
+      "volume": 42538995620.009995,
+      "n": 83
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 36868411151.48,
-      "n": 63
+      "volume": 35151132940.48,
+      "n": 61
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 19037362741.149998,
-      "n": 268
+      "volume": 18785505762.149998,
+      "n": 262
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -120,18 +120,18 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 8653736165.0,
-      "n": 44
+      "volume": 8453736165.0,
+      "n": 43
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 7938202040.57,
-      "n": 31
+      "volume": 7853202040.57,
+      "n": 29
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6922507740.0,
-      "n": 98
+      "volume": 6412507740.0,
+      "n": 95
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -140,14 +140,14 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 2539521900.26,
-      "n": 31
+      "volume": 2489521900.26,
+      "n": 30
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3188
+      "n": 3181
     },
     {
       "status_cvm": "Registro Concedido",
@@ -159,7 +159,7 @@
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 28
+      "n": 27
     },
     {
       "status_cvm": "Registro Caducado",
@@ -211,12 +211,12 @@
       "n": 1
     },
     {
-      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
     {
-      "emissor_nome": "CF4 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "emissor_nome": "FIDC SANTANDER AUTO LOANS I SEGMENTO FINANCEIRO - RESPONSABILIDADE LIMITADA",
       "volume": 3000000000.0,
       "n": 1
     },
@@ -239,8 +239,8 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 35136483052.799995,
-      "n": 186
+      "volume": 34755483052.799995,
+      "n": 185
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -249,8 +249,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 17161839463.72,
-      "n": 153
+      "volume": 16973089463.72,
+      "n": 151
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
