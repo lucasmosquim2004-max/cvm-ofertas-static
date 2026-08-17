@@ -1,18 +1,18 @@
 {
-  "novas_30d": 168,
-  "volume_30d": 32608390314.880005,
-  "ativas_12m": 929,
-  "total_ano": 1418,
+  "novas_30d": 158,
+  "volume_30d": 34344595098.020004,
+  "ativas_12m": 933,
+  "total_ano": 1423,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1468,
-      "volume": 133794433691.09995
+      "n": 1470,
+      "volume": 134161433691.09995
     },
     {
       "tipo_fundo": "FII",
-      "n": 496,
-      "volume": 164906084527.40005
+      "n": 499,
+      "volume": 167830773310.54004
     },
     {
       "tipo_fundo": "FIP",
@@ -79,7 +79,7 @@
     {
       "mes": "2026-06",
       "n": 207,
-      "volume": 34801717231.29
+      "volume": 35101717231.29
     },
     {
       "mes": "2026-07",
@@ -88,25 +88,25 @@
     },
     {
       "mes": "2026-08",
-      "n": 69,
-      "volume": 17629018037.82
+      "n": 74,
+      "volume": 20620706820.960003
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 42538995620.009995,
-      "n": 83
+      "volume": 45453584603.149994,
+      "n": 85
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 35151132940.48,
-      "n": 61
+      "volume": 35649132940.48,
+      "n": 65
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 18785505762.149998,
-      "n": 262
+      "volume": 18610834762.149998,
+      "n": 252
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -120,23 +120,23 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 8453736165.0,
-      "n": 43
+      "volume": 8452736165.0,
+      "n": 42
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 7853202040.57,
-      "n": 29
+      "volume": 7890702040.57,
+      "n": 30
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6412507740.0,
-      "n": 95
+      "volume": 5932507740.0,
+      "n": 92
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 4020215317.8700004,
-      "n": 29
+      "volume": 4013215402.07,
+      "n": 27
     },
     {
       "tipo_ativo": "Cotas de FIF",
@@ -147,19 +147,19 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3181
+      "n": 3184
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1245
+      "n": 1249
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 32
+      "n": 36
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 27
+      "n": 28
     },
     {
       "status_cvm": "Registro Caducado",
@@ -264,7 +264,7 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 12434424793.98,
+      "volume": 12734424793.98,
       "n": 222
     },
     {
