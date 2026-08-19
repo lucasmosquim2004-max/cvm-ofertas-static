@@ -1731,14 +1731,14 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 1064521850.0,
-      "n": 21
+      "volume": 1154021850.0,
+      "n": 22
     },
     {
       "mes": "2026-08",
       "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
-      "volume": 150000000.0,
-      "n": 3
+      "volume": 230000000.0,
+      "n": 5
     },
     {
       "mes": "2026-08",
@@ -1749,8 +1749,8 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 3382681192.42,
-      "n": 52
+      "volume": 3680691192.54,
+      "n": 60
     },
     {
       "mes": "2026-08",
@@ -1761,14 +1761,14 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 18453878667.84,
-      "n": 23
+      "volume": 18520878667.84,
+      "n": 25
     },
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 435000000.0,
-      "n": 4
+      "volume": 460000000.0,
+      "n": 5
     },
     {
       "mes": "2026-08",
@@ -1780,12 +1780,12 @@
       "mes": "2026-08",
       "valor_mobiliario": "Debêntures",
       "volume": 4059054940.48,
-      "n": 21
+      "n": 22
     },
     {
       "mes": "2026-08",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 368321305.0,
+      "volume": 518321305.0,
       "n": 3
     },
     {
