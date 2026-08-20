@@ -25,7 +25,7 @@
       "ano": 2020,
       "tipo_fundo": "Cotas de FIDC",
       "n": 621,
-      "volume": 47640156194.62001,
+      "volume": 47640156194.62002,
       "ativas": 0
     },
     {
@@ -110,7 +110,7 @@
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
       "volume": 109531670124.23,
-      "ativas": 22
+      "ativas": 19
     },
     {
       "ano": 2024,
@@ -131,13 +131,13 @@
       "tipo_fundo": "Cotas de FIDC",
       "n": 1713,
       "volume": 133231554102.61006,
-      "ativas": 107
+      "ativas": 103
     },
     {
       "ano": 2025,
       "tipo_fundo": "Cotas de FII",
       "n": 425,
-      "volume": 119994915402.84999,
+      "volume": 119994915402.85,
       "ativas": 17
     },
     {
@@ -150,16 +150,16 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1005,
-      "volume": 84019441794.21004,
-      "ativas": 654
+      "n": 1011,
+      "volume": 84404441800.66,
+      "ativas": 655
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 291,
-      "volume": 99857821583.80002,
-      "ativas": 145
+      "n": 292,
+      "volume": 100057976197.30002,
+      "ativas": 140
     },
     {
       "ano": 2026,
@@ -171,14 +171,14 @@
   ],
   "data_base": "08/2026",
   "kpis": {
-    "total_ano": 1439,
-    "volume_ano": 213494482698.54007,
-    "ytd_atual_n": 1439,
-    "ytd_anterior_n": 1410,
-    "ytd_atual_vol": 213494482698.53995,
-    "ytd_anterior_vol": 146159075934.42017,
-    "ytd_yoy_n": 2.1,
-    "ytd_yoy_vol": 46.1,
-    "ativas_total": 1098
+    "total_ano": 1446,
+    "volume_ano": 214079637318.49002,
+    "ytd_atual_n": 1446,
+    "ytd_anterior_n": 1417,
+    "ytd_atual_vol": 214079637318.48993,
+    "ytd_anterior_vol": 146728076557.69012,
+    "ytd_yoy_n": 2.0,
+    "ytd_yoy_vol": 45.9,
+    "ativas_total": 1087
   }
 }

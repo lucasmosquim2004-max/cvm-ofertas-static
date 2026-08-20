@@ -1,18 +1,18 @@
 {
-  "novas_30d": 174,
-  "volume_30d": 36341359437.44001,
-  "ativas_12m": 936,
-  "total_ano": 1439,
+  "novas_30d": 176,
+  "volume_30d": 36211309848.000015,
+  "ativas_12m": 928,
+  "total_ano": 1446,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1466,
-      "volume": 133473109694.17993
+      "n": 1464,
+      "volume": 133747109690.64995
     },
     {
       "tipo_fundo": "FII",
       "n": 501,
-      "volume": 169294118944.04004
+      "volume": 169244152476.38004
     },
     {
       "tipo_fundo": "FIP",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 228,
-      "volume": 8182615958.32
+      "n": 230,
+      "volume": 8222615964.769999
     }
   ],
   "por_mes": [
     {
       "mes": "2025-08",
-      "n": 77,
-      "volume": 7689432352.009999
+      "n": 70,
+      "volume": 7368311267.32
     },
     {
       "mes": "2025-09",
@@ -79,7 +79,7 @@
     {
       "mes": "2026-06",
       "n": 207,
-      "volume": 35101717231.28999
+      "volume": 35101717231.29
     },
     {
       "mes": "2026-07",
@@ -88,20 +88,20 @@
     },
     {
       "mes": "2026-08",
-      "n": 90,
-      "volume": 22661569860.380005
+      "n": 97,
+      "volume": 23246724480.330006
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 45488971039.80999,
-      "n": 85
+      "volume": 45689125653.30999,
+      "n": 86
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 34877132940.479996,
-      "n": 65
+      "volume": 36702132940.479996,
+      "n": 67
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -110,8 +110,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 18099625367.97,
-      "n": 245
+      "volume": 18484625374.420002,
+      "n": 251
     },
     {
       "tipo_ativo": "Ações",
@@ -121,7 +121,7 @@
     {
       "tipo_ativo": "Notas Comerciais",
       "volume": 8082736165.0,
-      "n": 39
+      "n": 43
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
@@ -130,8 +130,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 5683156850.0,
-      "n": 89
+      "volume": 5695156850.0,
+      "n": 91
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -140,22 +140,22 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 2502021900.26,
-      "n": 31
+      "volume": 2512021900.26,
+      "n": 32
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3178
+      "n": 3176
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1264
+      "n": 1260
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 34
+      "n": 39
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -167,7 +167,7 @@
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 12
+      "n": 11
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -239,18 +239,18 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34755483052.799995,
-      "n": 185
+      "volume": 34955637666.299995,
+      "n": 186
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
-      "volume": 22088607347.550003,
+      "volume": 22088607347.55,
       "n": 17
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 17024089463.72,
-      "n": 151
+      "volume": 17189089463.72,
+      "n": 153
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -259,13 +259,13 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13029871953.419998,
-      "n": 126
+      "volume": 13039871953.469997,
+      "n": 127
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 12864424799.779999,
-      "n": 225
+      "volume": 12889424806.179998,
+      "n": 226
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
