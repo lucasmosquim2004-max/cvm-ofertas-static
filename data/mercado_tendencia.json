@@ -150,22 +150,22 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1014,
-      "volume": 88099764598.73999,
+      "n": 1026,
+      "volume": 90193864597.37,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 293,
-      "volume": 100067976197.30002,
+      "n": 296,
+      "volume": 101583968151.74,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 145,
-      "volume": 29712219321.53,
+      "n": 146,
+      "volume": 29757219321.53,
       "ativas": 0
     }
   ],
@@ -234,7 +234,7 @@
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FII",
       "n": 55,
-      "volume": 13973566024.640001
+      "volume": 13973566024.64
     },
     {
       "mes": "2025-11",
@@ -372,7 +372,7 @@
       "mes": "2026-07",
       "tipo_fundo": "Cotas de FIDC",
       "n": 146,
-      "volume": 11857259348.659998
+      "volume": 13357259348.659998
     },
     {
       "mes": "2026-07",
@@ -389,20 +389,20 @@
     {
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 69,
-      "volume": 7761013997.070002
+      "n": 81,
+      "volume": 8355113995.700001
     },
     {
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FII",
-      "n": 27,
-      "volume": 18731033281.34
+      "n": 30,
+      "volume": 20247025235.780003
     },
     {
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FIP",
-      "n": 7,
-      "volume": 555000001.0
+      "n": 8,
+      "volume": 600000001.0
     }
   ],
   "ticket": [
@@ -535,20 +535,20 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 87.23,
-      "n": 1010
+      "ticket_medio": 88.34,
+      "n": 1021
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 341.53,
-      "n": 293
+      "ticket_medio": 343.19,
+      "n": 296
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 204.91,
-      "n": 145
+      "ticket_medio": 203.82,
+      "n": 146
     }
   ]
 }
