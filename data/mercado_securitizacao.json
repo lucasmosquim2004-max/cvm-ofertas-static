@@ -31,7 +31,7 @@
       "n_ofertadas": 1400,
       "n_encerradas": 1381,
       "vol_ofertado": 109531670124.23,
-      "vol_encerrado": 108274470129.71,
+      "vol_encerrado": 108274470129.70999,
       "taxa_encerramento": 98.6,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -74,8 +74,8 @@
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1713,
       "n_encerradas": 1610,
-      "vol_ofertado": 133231554102.61009,
-      "vol_encerrado": 130249388953.3801,
+      "vol_ofertado": 133231554102.61008,
+      "vol_encerrado": 130249388953.38008,
       "taxa_encerramento": 94.0,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -199,7 +199,7 @@
     {
       "ano": 2024,
       "tipo_ativo": "FIP",
-      "vol_ofertado_cvm": 83234087296.07,
+      "vol_ofertado_cvm": 83234087296.06999,
       "n_encerradas_cvm": 594,
       "vol_encerrado_anbima": null,
       "n_encerradas_anbima": null
