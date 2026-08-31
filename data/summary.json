@@ -1,18 +1,18 @@
 {
-  "novas_30d": 169,
-  "volume_30d": 39911190082.96001,
-  "ativas_12m": 934,
-  "total_ano": 1506,
+  "novas_30d": 164,
+  "volume_30d": 37828519700.89001,
+  "ativas_12m": 928,
+  "total_ano": 1513,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
       "n": 1456,
-      "volume": 138207517284.20993
+      "volume": 138233017284.20993
     },
     {
       "tipo_fundo": "FII",
-      "n": 506,
-      "volume": 174511288946.50006
+      "n": 510,
+      "volume": 175365623564.81006
     },
     {
       "tipo_fundo": "FIP",
@@ -21,16 +21,11 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 232,
-      "volume": 8418115965.589998
+      "n": 234,
+      "volume": 8421115965.589998
     }
   ],
   "por_mes": [
-    {
-      "mes": "2025-08",
-      "n": 1,
-      "volume": 14500000.0
-    },
     {
       "mes": "2025-09",
       "n": 215,
@@ -88,29 +83,34 @@
     },
     {
       "mes": "2026-08",
-      "n": 157,
-      "volume": 36931185082.58001
+      "n": 164,
+      "volume": 37828519700.89001
     }
   ],
   "por_tipo_60d": [
     {
+      "tipo_ativo": "Cotas de FIAGRO",
+      "volume": 258385951575.13,
+      "n": 34
+    },
+    {
       "tipo_ativo": "Cotas de FII",
-      "volume": 41966046300.03001,
-      "n": 90
+      "volume": 42720380918.340004,
+      "n": 93
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 24215264511.48,
-      "n": 59
+      "volume": 24865798511.48,
+      "n": 65
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 22803378141.83001,
-      "n": 248
+      "volume": 22138878141.800003,
+      "n": 243
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 13265014121.0,
+      "volume": 14070817121.0,
       "n": 11
     },
     {
@@ -119,39 +119,34 @@
       "n": 2
     },
     {
-      "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 8385951575.13,
-      "n": 33
-    },
-    {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6756396350.0,
-      "n": 82
+      "volume": 8213895350.0,
+      "n": 86
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 4074361705.0,
-      "n": 39
+      "volume": 4239361705.0,
+      "n": 40
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3049421900.26,
-      "n": 30
+      "volume": 3462283521.73,
+      "n": 32
     },
     {
-      "tipo_ativo": "Cotas de FIP",
-      "volume": 2041701400.1100001,
+      "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
+      "volume": 2482700000.0,
       "n": 21
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3149
+      "n": 3161
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1264
+      "n": 1270
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
@@ -159,7 +154,7 @@
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 26
+      "n": 29
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -171,7 +166,7 @@
     },
     {
       "status_cvm": "Requerimento Expirado",
-      "n": 5
+      "n": 6
     }
   ],
   "top_emissores": [
@@ -230,12 +225,12 @@
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
       "volume": 66792029295.19,
-      "n": 128
+      "n": 129
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 57453012361.799995,
-      "n": 94
+      "volume": 58153346484.25,
+      "n": 95
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -259,13 +254,13 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 13125424806.459995,
-      "n": 232
+      "volume": 13165424806.459995,
+      "n": 233
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13048371952.099998,
-      "n": 127
+      "volume": 13033871952.099998,
+      "n": 126
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
