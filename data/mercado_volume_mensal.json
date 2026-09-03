@@ -1599,7 +1599,7 @@
     {
       "mes": "2026-07",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 3441976000.0,
+      "volume": 3541976000.0,
       "n": 44
     },
     {
@@ -1683,7 +1683,7 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 14450118793.170002,
+      "volume": 14485118793.170002,
       "n": 112
     },
     {
@@ -1695,7 +1695,7 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 27840859506.62,
+      "volume": 27910859515.62,
       "n": 50
     },
     {
@@ -1713,7 +1713,7 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Debêntures",
-      "volume": 10406264511.48,
+      "volume": 12406264511.48,
       "n": 37
     },
     {
@@ -1731,20 +1731,20 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 482995000.0,
-      "n": 4
+      "volume": 609970000.0,
+      "n": 7
     },
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIAGRO",
       "volume": 45000000.0,
-      "n": 1
+      "n": 2
     },
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 0.0,
-      "n": 1
+      "volume": 55500000.0,
+      "n": 5
     },
     {
       "mes": "2026-09",
@@ -1755,26 +1755,26 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 1623700000.0,
-      "n": 5
+      "volume": 2844166944.52,
+      "n": 8
     },
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 1652609.17,
-      "n": 1
+      "volume": 6652609.17,
+      "n": 2
     },
     {
       "mes": "2026-09",
       "valor_mobiliario": "Debêntures",
-      "volume": 0.0,
-      "n": 1
+      "volume": 50000000.0,
+      "n": 3
     },
     {
       "mes": "2026-09",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 0.0,
-      "n": 1
+      "volume": 11500000.0,
+      "n": 2
     }
   ]
 }
