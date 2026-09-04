@@ -1,18 +1,18 @@
 {
-  "novas_30d": 176,
-  "volume_30d": 44386797863.34001,
+  "novas_30d": 169,
+  "volume_30d": 43902519939.46001,
   "ativas_12m": 909,
   "total_ano": 1536,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1457,
-      "volume": 138702017284.16998
+      "n": 1453,
+      "volume": 138540350284.16998
     },
     {
       "tipo_fundo": "FII",
-      "n": 514,
-      "volume": 177116511987.13
+      "n": 510,
+      "volume": 176845461987.13004
     },
     {
       "tipo_fundo": "FIP",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 232,
-      "volume": 12401115965.59
+      "n": 231,
+      "volume": 12396115965.59
     }
   ],
   "por_mes": [
     {
       "mes": "2025-09",
-      "n": 197,
-      "volume": 33920691156.80999
+      "n": 188,
+      "volume": 33482974156.80999
     },
     {
       "mes": "2025-10",
@@ -147,7 +147,7 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3193
+      "n": 3183
     },
     {
       "status_cvm": "Registro Concedido",
@@ -159,15 +159,15 @@
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 29
+      "n": 28
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 25
+      "n": 24
     },
     {
       "status_cvm": "Oferta Suspensa",
-      "n": 9
+      "n": 8
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -259,8 +259,8 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13745330485.31,
-      "n": 127
+      "volume": 13633663485.31,
+      "n": 126
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
