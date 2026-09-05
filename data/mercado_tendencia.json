@@ -11,7 +11,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FII",
       "n": 180,
-      "volume": 23039880256.829998,
+      "volume": 23039880256.83,
       "ativas": 0
     },
     {
@@ -74,7 +74,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FII",
       "n": 325,
-      "volume": 24386961737.720005,
+      "volume": 24386961737.72001,
       "ativas": 0
     },
     {
@@ -95,7 +95,7 @@
       "ano": 2023,
       "tipo_fundo": "Cotas de FII",
       "n": 247,
-      "volume": 43991365467.270004,
+      "volume": 43991365467.27,
       "ativas": 0
     },
     {
@@ -130,14 +130,14 @@
       "ano": 2025,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1713,
-      "volume": 133231554102.61008,
+      "volume": 133231554102.61009,
       "ativas": 0
     },
     {
       "ano": 2025,
       "tipo_fundo": "Cotas de FII",
       "n": 425,
-      "volume": 119994915402.84999,
+      "volume": 119994915402.85002,
       "ativas": 0
     },
     {
@@ -151,14 +151,14 @@
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1062,
-      "volume": 96379369394.84,
+      "volume": 96379369394.83998,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
       "n": 324,
-      "volume": 111904880271.29004,
+      "volume": 111904880271.29002,
       "ativas": 0
     },
     {
@@ -173,14 +173,14 @@
     {
       "mes": "2025-09",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 138,
-      "volume": 14482409380.380001
+      "n": 131,
+      "volume": 14136248327.380001
     },
     {
       "mes": "2025-09",
       "tipo_fundo": "Cotas de FII",
-      "n": 30,
-      "volume": 15000928804.15
+      "n": 29,
+      "volume": 14750928802.900002
     },
     {
       "mes": "2025-09",
@@ -264,7 +264,7 @@
       "mes": "2026-02",
       "tipo_fundo": "Cotas de FIDC",
       "n": 127,
-      "volume": 12892034921.510002
+      "volume": 12892034921.51
     },
     {
       "mes": "2026-02",
@@ -318,7 +318,7 @@
       "mes": "2026-05",
       "tipo_fundo": "Cotas de FIDC",
       "n": 150,
-      "volume": 9538742604.27
+      "volume": 9538742604.270002
     },
     {
       "mes": "2026-05",
