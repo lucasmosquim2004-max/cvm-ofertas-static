@@ -2,6 +2,11 @@
   "publico_alvo": [
     {
       "ano": 2023,
+      "publico_alvo": "Qualificado",
+      "n": 141
+    },
+    {
+      "ano": 2023,
       "publico_alvo": "Profissional",
       "n": 1135
     },
@@ -11,9 +16,9 @@
       "n": 29
     },
     {
-      "ano": 2023,
-      "publico_alvo": "Qualificado",
-      "n": 141
+      "ano": 2024,
+      "publico_alvo": "Profissional",
+      "n": 1813
     },
     {
       "ano": 2024,
@@ -24,11 +29,6 @@
       "ano": 2024,
       "publico_alvo": "Público Geral",
       "n": 44
-    },
-    {
-      "ano": 2024,
-      "publico_alvo": "Profissional",
-      "n": 1813
     },
     {
       "ano": 2025,
@@ -1324,6 +1324,146 @@
     },
     {
       "ano": 2026,
+      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+      "volume": 2141000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+      "volume": 3149810000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+      "volume": 2532300488.7
+    },
+    {
+      "ano": 2026,
+      "coordenador": "CAIXA ECONOMICA FEDERAL",
+      "volume": 200000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "CAIXA ECONOMICA FEDERAL",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "volume": 4551043792.360001
+    },
+    {
+      "ano": 2024,
+      "coordenador": "REAG ADMINISTRADORA DE RECURSOS LTDA.",
+      "volume": 643146000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BR PARTNERS GESTÃO DE RECURSOS LTDA",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "ARENA CAPITAL ASSET ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "volume": 22000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "ITAU UNIBANCO S.A.",
+      "volume": 250000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "AGUILA CAPITAL ADMINISTRAÇÃO E GESTÃO DE CAPITAIS LTDA.",
+      "volume": 6600000.4399999995
+    },
+    {
+      "ano": 2024,
+      "coordenador": "10B GESTORA DE RECURSOS LTDA.",
+      "volume": 12000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BR PARTNERS MERCADOS DE CAPITAIS LTDA.",
+      "volume": 322775000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "TM3 CAPITAL S.A.",
+      "volume": 5200000.54
+    },
+    {
+      "ano": 2025,
+      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 165170019.8
+    },
+    {
+      "ano": 2026,
+      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 51200000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO ANDBANK (BRASIL) S.A.",
+      "volume": 201709407.68
+    },
+    {
+      "ano": 2024,
+      "coordenador": "CM CAPITAL MARKETS DTVM LTDA",
+      "volume": 1448869262.53
+    },
+    {
+      "ano": 2026,
+      "coordenador": "M7 IB SOLUCOES FINANCEIRAS LTDA",
+      "volume": 160000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO BOCOM BBM S.A.",
+      "volume": 112700049.88
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO BOCOM BBM S.A.",
+      "volume": 35280000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BLOXS COORDENAÇÃO LTDA",
+      "volume": 25000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "SEFER INVESTIMENTOS DISTRIBUIDORA DE T?TULOS E VALORES MOBILI?RIOS LTDA.",
+      "volume": 6000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BLOXS CAPITAL PARTNERS LTDA.",
+      "volume": 200000006.22
+    },
+    {
+      "ano": 2026,
+      "coordenador": "INTRA INVESTIMENTOS DTVM LTDA",
+      "volume": 7000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "volume": 137500000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "volume": 60000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BAYCAP GESTÃO DE RECURSOS LTDA.",
+      "volume": 15000000.0
+    },
+    {
+      "ano": 2026,
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "volume": 13169924806.459995
     },
@@ -1486,228 +1626,53 @@
       "ano": 2026,
       "coordenador": "QI CORRETORA DE T-TULOS E VALORES MOBILI-RIOS S.A.",
       "volume": 5000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-      "volume": 2141000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-      "volume": 3149810000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-      "volume": 2532300488.7
-    },
-    {
-      "ano": 2026,
-      "coordenador": "CAIXA ECONOMICA FEDERAL",
-      "volume": 200000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "CAIXA ECONOMICA FEDERAL",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 4551043792.360001
-    },
-    {
-      "ano": 2024,
-      "coordenador": "REAG ADMINISTRADORA DE RECURSOS LTDA.",
-      "volume": 643146000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BR PARTNERS GESTÃO DE RECURSOS LTDA",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "ARENA CAPITAL ASSET ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "volume": 22000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "ITAU UNIBANCO S.A.",
-      "volume": 250000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "AGUILA CAPITAL ADMINISTRAÇÃO E GESTÃO DE CAPITAIS LTDA.",
-      "volume": 6600000.4399999995
-    },
-    {
-      "ano": 2024,
-      "coordenador": "10B GESTORA DE RECURSOS LTDA.",
-      "volume": 12000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BR PARTNERS MERCADOS DE CAPITAIS LTDA.",
-      "volume": 322775000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "TM3 CAPITAL S.A.",
-      "volume": 5200000.54
-    },
-    {
-      "ano": 2025,
-      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 165170019.8
-    },
-    {
-      "ano": 2026,
-      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 51200000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO ANDBANK (BRASIL) S.A.",
-      "volume": 201709407.68
-    },
-    {
-      "ano": 2024,
-      "coordenador": "CM CAPITAL MARKETS DTVM LTDA",
-      "volume": 1448869262.53
-    },
-    {
-      "ano": 2026,
-      "coordenador": "M7 IB SOLUCOES FINANCEIRAS LTDA",
-      "volume": 160000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO BOCOM BBM S.A.",
-      "volume": 112700049.88
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO BOCOM BBM S.A.",
-      "volume": 35280000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BLOXS COORDENAÇÃO LTDA",
-      "volume": 25000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "SEFER INVESTIMENTOS DISTRIBUIDORA DE T?TULOS E VALORES MOBILI?RIOS LTDA.",
-      "volume": 6000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BLOXS CAPITAL PARTNERS LTDA.",
-      "volume": 200000006.22
-    },
-    {
-      "ano": 2026,
-      "coordenador": "INTRA INVESTIMENTOS DTVM LTDA",
-      "volume": 7000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 137500000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 60000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BAYCAP GESTÃO DE RECURSOS LTDA.",
-      "volume": 15000000.0
     }
   ],
   "gestores_3y": [
     {
       "ano": 2026,
-      "gestor": "EMERALD GESTÃO DE INVESTIMENTOS SOCIEDADE UNIPESSOAL LIMITADA - 09.815.294/0001-84",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "EMERALD GESTÃO DE INVESTIMENTOS SOCIEDADE UNIPESSOAL LIMITADA - 09.815.294/0001-84",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "EMERALD GESTÃO DE INVESTIMENTOS SOCIEDADE UNIPESSOAL LIMITADA - 09.815.294/0001-84",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "INTEGRAL INVESTIMENTOS LTDA.",
+      "gestor": "QI GESTÃO DE RECURSOS LTDA",
       "n": 6
     },
     {
       "ano": 2025,
-      "gestor": "INTEGRAL INVESTIMENTOS LTDA.",
-      "n": 8
+      "gestor": "QI GESTÃO DE RECURSOS LTDA",
+      "n": 7
     },
     {
       "ano": 2024,
-      "gestor": "INTEGRAL INVESTIMENTOS LTDA.",
+      "gestor": "QI GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "n": 4
     },
     {
       "ano": 2026,
-      "gestor": "BRAVE GESTORA DE RECURSOS LTDA.",
-      "n": 7
+      "gestor": "FRAM CAPITAL - GESTAO DE ATIVOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "FRAM CAPITAL - GESTAO DE ATIVOS LTDA.",
+      "n": 5
     },
     {
       "ano": 2024,
-      "gestor": "BRAVE GESTORA DE RECURSOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2025,
-      "gestor": "BRAVE GESTORA DE RECURSOS LTDA.",
-      "n": 29
-    },
-    {
-      "ano": 2026,
-      "gestor": "TERRA GESTORA LTDA.",
+      "gestor": "FRAM CAPITAL - GESTAO DE ATIVOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "TERRA GESTORA LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "RIZA SECURITIZAÇÃO E CARTEIRAS GESTORA DE RECURSOS LTDA",
-      "n": 10
-    },
-    {
-      "ano": 2025,
-      "gestor": "RIZA SECURITIZAÇÃO E CARTEIRAS GESTORA DE RECURSOS LTDA",
-      "n": 13
-    },
-    {
-      "ano": 2026,
-      "gestor": "TAG INVESTIMENTOS LTDA",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "TAG INVESTIMENTOS LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "TAG INVESTIMENTOS LTDA",
-      "n": 6
     },
     {
       "ano": 2026,
@@ -1715,124 +1680,529 @@
       "n": 18
     },
     {
+      "ano": 2024,
+      "gestor": "OLIVEIRA TRUST SERVICER S.A.",
+      "n": 9
+    },
+    {
       "ano": 2025,
       "gestor": "OLIVEIRA TRUST SERVICER S.A.",
       "n": 15
     },
     {
-      "ano": 2024,
-      "gestor": "OLIVEIRA TRUST SERVICER S.A.",
-      "n": 9
-    },
-    {
       "ano": 2026,
-      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.",
-      "n": 34
-    },
-    {
-      "ano": 2025,
-      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.",
-      "n": 41
-    },
-    {
-      "ano": 2024,
-      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.",
-      "n": 11
-    },
-    {
-      "ano": 2026,
-      "gestor": "CHIMERA CAPITAL ASSET MANAGEMENT LTDA.",
+      "gestor": "ANTHARUS GESTORA DE RECURSOS LTDA.",
       "n": 8
     },
     {
       "ano": 2025,
-      "gestor": "CHIMERA CAPITAL ASSET MANAGEMENT LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2024,
-      "gestor": "CHIMERA CAPITAL ASSET MANAGEMENT LTDA.",
-      "n": 12
+      "gestor": "ANTHARUS GESTORA DE RECURSOS LTDA.",
+      "n": 4
     },
     {
       "ano": 2026,
-      "gestor": "IGUANA INVESTIMENTOS LTDA",
-      "n": 8
+      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 7
     },
     {
       "ano": 2025,
-      "gestor": "IGUANA INVESTIMENTOS LTDA",
-      "n": 11
+      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 6
     },
     {
       "ano": 2024,
-      "gestor": "IGUANA INVESTIMENTOS LTDA",
+      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "XP Allocation Asset Management Ltda.",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "XP Allocation Asset Management Ltda.",
+      "n": 11
+    },
+    {
+      "ano": 2026,
+      "gestor": "SPRINGS CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SPRINGS CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "HORIZONTES ASSET LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "DOMUS CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2024,
+      "gestor": "PATAGÔNIA CAPITAL GESTORA DE RECURSOS LTDA",
       "n": 10
     },
     {
       "ano": 2026,
-      "gestor": "TUERI GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "CHIMERA ALTERNATIVE ASSETS VI.3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VALORA RENDA FIXA ESTRUTURADOS LTDA",
-      "n": 23
-    },
-    {
-      "ano": 2025,
-      "gestor": "VALORA RENDA FIXA ESTRUTURADOS LTDA",
-      "n": 27
-    },
-    {
-      "ano": 2026,
-      "gestor": "SOLIS INVESTIMENTOS LTDA",
+      "gestor": "SOLIS INVESTIMENTOS LTDA.",
       "n": 88
     },
     {
       "ano": 2025,
-      "gestor": "SOLIS INVESTIMENTOS LTDA",
+      "gestor": "SOLIS INVESTIMENTOS LTDA.",
       "n": 136
     },
     {
       "ano": 2024,
-      "gestor": "SOLIS INVESTIMENTOS LTDA",
+      "gestor": "SOLIS INVESTIMENTOS LTDA.",
       "n": 128
     },
     {
       "ano": 2026,
-      "gestor": "NOVA OCCAM BRASIL GESTÃO DE RECURSOS LTDA.",
-      "n": 3
+      "gestor": "SOMACRED ASSET LTDA.",
+      "n": 1
     },
     {
       "ano": 2025,
-      "gestor": "NOVA OCCAM BRASIL GESTÃO DE RECURSOS LTDA.",
+      "gestor": "SOMACRED ASSET LTDA.",
       "n": 1
     },
     {
       "ano": 2026,
-      "gestor": "MÉRITO INVESTIMENTOS S.A.",
+      "gestor": "ENGEFORM GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "ENGEFORM GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "STRATA CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "STRATA CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "STRATA CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 11
+    },
+    {
+      "ano": 2026,
+      "gestor": "NEXA FINANCE LTDA.",
       "n": 3
     },
     {
       "ano": 2025,
-      "gestor": "MÉRITO INVESTIMENTOS S.A.",
+      "gestor": "NEXA FINANCE LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "NEXA FINANCE LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "ERFOLG GESTORA DE RECURSOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "ERFOLG GESTORA DE RECURSOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "CERES ASSET GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "CERES ASSET GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "CERES ASSET GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "RX ASSET LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "BANCO BRADESCO S.A.",
+      "n": 15
+    },
+    {
+      "ano": 2025,
+      "gestor": "BANCO BRADESCO S.A.",
+      "n": 10
+    },
+    {
+      "ano": 2024,
+      "gestor": "ATMOS CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRL TRUST INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRL TRUST INVESTIMENTOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRL TRUST INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "DESBRAVA CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "DESBRAVA CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SPECTRA INVESTIMENTOS LTDA",
+      "n": 12
+    },
+    {
+      "ano": 2025,
+      "gestor": "SPECTRA INVESTIMENTOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "SPECTRA INVESTIMENTOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "LESTE FINANCIAL SERVICES GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "LESTE FINANCIAL SERVICES GESTÃO DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "LESTE FINANCIAL SERVICES GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "GERIBÁ INVESTIMENTOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "GERIBÁ INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "GERIBÁ INVESTIMENTOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAG ADMINISTRADORA DE RECURSOS LTDA",
+      "n": 19
+    },
+    {
+      "ano": 2024,
+      "gestor": "ITAÚ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "10b GESTORA DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "10b GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "10b GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "PERFIN INFRA ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "PERFIN INFRA ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "XMS S/A",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "XMS S/A",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "XMS S/A",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
       "n": 5
     },
     {
       "ano": 2024,
-      "gestor": "MÉRITO INVESTIMENTOS S.A.",
+      "gestor": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "ORIZ REAL ESTATE GESTÃO DE RECURSOS LTDA.",
+      "ano": 2024,
+      "gestor": "MULTIPLICA CAPITAL ASSET MANAGEMENT LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "MULTIPLICA CAPITAL ASSET MANAGEMENT LTDA.",
       "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "MULTIPLICA CAPITAL ASSET MANAGEMENT LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "AMERICA PE ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "STARBOARD ASSET LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "STARBOARD ASSET LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "STARBOARD ASSET LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "BLUEOAK INVESTMENTS ASSET LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "BLUEOAK INVESTMENTS ASSET LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "BLUEOAK INVESTMENTS ASSET LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "KINEA PRIVATE EQUITY INVESTIMENTOS S.A. E KINEA INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "4i CAPITAL LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "4i CAPITAL LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "4i CAPITAL LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "Primus Ventures LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "XP Vista Asset Management Ltda.",
+      "n": 22
+    },
+    {
+      "ano": 2025,
+      "gestor": "XP Vista Asset Management Ltda.",
+      "n": 20
+    },
+    {
+      "ano": 2026,
+      "gestor": "XP Vista Asset Management Ltda.",
+      "n": 15
+    },
+    {
+      "ano": 2025,
+      "gestor": "Copa Gestão de Investimentos Ltda.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "BTG Pactual Gestora de Investimentos Alternativos Ltda.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "BTG Pactual Gestora de Investimentos Alternativos Ltda.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "BTG Pactual Gestora de Investimentos Alternativos Ltda.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "ITAÚNA CAPITAL LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "ITAÚNA CAPITAL LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "ITAÚNA CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Domo Venture Capital Gestora De Ativos Financeiros E Valores Mobiliários Ltda.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "RIZA ALLOCATION GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "RIZA ALLOCATION GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "RIZA ALLOCATION GESTORA DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "H2 ASSET MANAGEMENT LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "VINCI CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "VINCI CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "NAVI YIELD - ADMINISTRADORA E GESTORA DE RECURSOS FINANCEIROS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAG VENTURE CAPITAL & GROWTH EQUITIES LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "ASSET BANK MANAGEMENT LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "INVISTA REAL ESTATE LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "INVISTA REAL ESTATE LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "INVISTA REAL ESTATE LTDA",
+      "n": 1
     },
     {
       "ano": 2024,
@@ -1851,8 +2221,248 @@
     },
     {
       "ano": 2025,
-      "gestor": "BRM CARBYNE GESTÃO DE RECURSOS S.A",
+      "gestor": "KINEA INVESTIMENTOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "KINEA INVESTIMENTOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "KINEA INVESTIMENTOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2025,
+      "gestor": "TRIUS CAPITAL GESTÃO DE INVESTIMENTOS E CONSULTORIA LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "B.SIDE WEALTH MANAGEMENT GESTÃO DE RECURSOS LTDA",
       "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "B.SIDE WEALTH MANAGEMENT GESTÃO DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "B.SIDE WEALTH MANAGEMENT GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "Niche Partners Gestora de Recursos Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Noronha Trust Ltda.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "Noronha Trust Ltda.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "G5 ADMINISTRADORA DE RECURSOS LTDA.",
+      "n": 21
+    },
+    {
+      "ano": 2024,
+      "gestor": "G5 ADMINISTRADORA DE RECURSOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "G5 ADMINISTRADORA DE RECURSOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "D3 CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "D3 CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "Rise Investment Management Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Rise Investment Management Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Rise Investment Management Ltda",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "OUTFIELD VENTURES LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "OUTFIELD VENTURES LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "OUTFIELD VENTURES LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRIDGE ONE CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRIDGE ONE CAPITAL LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRIDGE ONE CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "4UM GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "4UM GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "ACURA GESTORA DE RECURSOS LTDA.",
+      "n": 11
+    },
+    {
+      "ano": 2024,
+      "gestor": "ACURA GESTORA DE RECURSOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2024,
+      "gestor": "LAZULI PARTNERS ASSET MANAGEMENT LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "LAZULI PARTNERS ASSET MANAGEMENT LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "LAZULI PARTNERS ASSET MANAGEMENT LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "IG4 CAPITAL INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "IG4 CAPITAL INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "KPTL Investimentos Ltda.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "KPTL Investimentos Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Lacan Investimentos e Participações Ltda.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "Lacan Investimentos e Participações Ltda.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "Lacan Investimentos e Participações Ltda.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "BTG Pactual Gestora de Recursos Ltda.",
+      "n": 25
+    },
+    {
+      "ano": 2026,
+      "gestor": "BTG Pactual Gestora de Recursos Ltda.",
+      "n": 10
+    },
+    {
+      "ano": 2024,
+      "gestor": "BTG Pactual Gestora de Recursos Ltda.",
+      "n": 17
+    },
+    {
+      "ano": 2024,
+      "gestor": "MONT CAPITAL GESTÃO E ADMINISTRAÇÃO DE RECURSOS S.A.",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "Ace Outlier Capital Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Ace Outlier Capital Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Libertas Asset SA",
+      "n": 33
+    },
+    {
+      "ano": 2026,
+      "gestor": "Libertas Asset SA",
+      "n": 13
+    },
+    {
+      "ano": 2025,
+      "gestor": "Libertas Asset SA",
+      "n": 16
     },
     {
       "ano": 2025,
@@ -1870,19 +2480,3009 @@
       "n": 17
     },
     {
+      "ano": 2025,
+      "gestor": "GESTORA DE RECURSOS ID - GRID LTDA.",
+      "n": 23
+    },
+    {
+      "ano": 2026,
+      "gestor": "GESTORA DE RECURSOS ID - GRID LTDA.",
+      "n": 6
+    },
+    {
       "ano": 2024,
-      "gestor": "Atmos Capital Gestão De Recursos Ltda",
+      "gestor": "GESTORA DE RECURSOS ID - GRID LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "CEDRO ASSET MANAGEMENT LTDA e KPTL INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "FUTURUM CAPITAL GESTÃO DE ATIVOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "FUTURUM CAPITAL GESTÃO DE ATIVOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "FUTURUM CAPITAL GESTÃO DE ATIVOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "CASAFORTE INVESTIMENTOS S/A",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "EAGLE CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "EAGLE CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "EAGLE CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "HIVENTURES GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "HIVENTURES GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "VALETEC CAPITAL DE INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "62.073.200/0001-21",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A.",
+      "n": 51
+    },
+    {
+      "ano": 2025,
+      "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A.",
+      "n": 107
+    },
+    {
+      "ano": 2024,
+      "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A.",
+      "n": 88
+    },
+    {
+      "ano": 2026,
+      "gestor": "TERCON INVESTIMENTOS LTDA",
+      "n": 41
+    },
+    {
+      "ano": 2025,
+      "gestor": "TERCON INVESTIMENTOS LTDA",
+      "n": 80
+    },
+    {
+      "ano": 2024,
+      "gestor": "TERCON INVESTIMENTOS LTDA",
+      "n": 81
+    },
+    {
+      "ano": 2024,
+      "gestor": "ARTESANAL INVESTIMENTOS LTDA",
+      "n": 80
+    },
+    {
+      "ano": 2025,
+      "gestor": "ARTESANAL INVESTIMENTOS LTDA",
+      "n": 51
+    },
+    {
+      "ano": 2026,
+      "gestor": "ARTESANAL INVESTIMENTOS LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2026,
+      "gestor": "M8 PARTNERS GESTORA DE RECURSOS LTDA",
+      "n": 34
+    },
+    {
+      "ano": 2025,
+      "gestor": "M8 PARTNERS GESTORA DE RECURSOS LTDA",
+      "n": 55
+    },
+    {
+      "ano": 2024,
+      "gestor": "M8 PARTNERS GESTORA DE RECURSOS LTDA",
+      "n": 43
+    },
+    {
+      "ano": 2026,
+      "gestor": "AVENTIS GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "AVENTIS GESTÃO DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "AVENTIS GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "MARIN GESTORA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MARIN GESTORA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "AZ QUEST INFRA LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "AZ QUEST INFRA LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "AZ QUEST INFRA LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "Mission Co. Ltda",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "Mission Co. Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "VALORA IMOBILIÁRIO E INFRAESTRUTURA LTDA.",
+      "n": 10
+    },
+    {
+      "ano": 2026,
+      "gestor": "VALORA IMOBILIÁRIO E INFRAESTRUTURA LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "VALORA IMOBILIÁRIO E INFRAESTRUTURA LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "VINCI INFRAESTRUTURA GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "VINCI INFRAESTRUTURA GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "MMZR Gestora de Recursos Ltda.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "MMZR Gestora de Recursos Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "ARBOR GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ARBOR GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "LUCAS ESPERANÇA NAPOLITANO",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "AUSTER CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "AUSTER CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "AUSTER CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "POSITIVA INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "POSITIVA INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "POSITIVA INVESTIMENTOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2025,
+      "gestor": "Vectis Ventures Gestão Ltda,",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SPE CONFRAPAR ADMINISTRAÇÃO E GESTÃO DE RECURSOS S.A.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "SPE CONFRAPAR ADMINISTRAÇÃO E GESTÃO DE RECURSOS S.A.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "SPE CONFRAPAR ADMINISTRAÇÃO E GESTÃO DE RECURSOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SPX Private Equity Gestão de Recursos Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SPX Private Equity Gestão de Recursos Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SPX Private Equity Gestão de Recursos Ltda",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "GENIAL GESTÃO LTDA.  CNPJ 22.119.959/0001-83",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "OSLO CAPITAL DTVM S.A",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ITAÚ UNIBANCO S.A.",
+      "n": 10
+    },
+    {
+      "ano": 2026,
+      "gestor": "ITAÚ UNIBANCO S.A.",
+      "n": 13
+    },
+    {
+      "ano": 2024,
+      "gestor": "ITAÚ UNIBANCO S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SÃO PEDRO CAPITAL INVESTIMENTOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SÃO PEDRO CAPITAL INVESTIMENTOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "EXT CAPITAL LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "EXT CAPITAL LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "EXT CAPITAL LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "Mombak Gestora de Recursos Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Fors Capital Partners Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "Fortis Gestora de Recursos LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "Fortis Gestora de Recursos LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "IRON CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2026,
+      "gestor": "IRON CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "IRON CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "RBR PRIVATE EQUITY GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "RBR PRIVATE EQUITY GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "RBR PRIVATE EQUITY GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "Arena",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "ORE INVESTMENTS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "RBR Infra Gestora de Recursos Ltda",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "RBR Infra Gestora de Recursos Ltda",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "GRID GESTORA DE RECURSOS",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SHIFT CAPITAL GESTÃO DE RECURSOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "VINCI GGN GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "BOLDT CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "ORIZ ASSET MANAGEMENT LTDA.",
+      "n": 13
+    },
+    {
+      "ano": 2025,
+      "gestor": "ORIZ ASSET MANAGEMENT LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2024,
+      "gestor": "ORIZ ASSET MANAGEMENT LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "TAG INVESTIMENTOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "TAG INVESTIMENTOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "TAG INVESTIMENTOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "GENIAL GESTÃO LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2025,
+      "gestor": "GENIAL GESTÃO LTDA",
+      "n": 18
+    },
+    {
+      "ano": 2026,
+      "gestor": "GENIAL GESTÃO LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2026,
+      "gestor": "CAPITANIA CAPITAL S.A.",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "CAPITANIA CAPITAL S.A.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "CAPITANIA CAPITAL S.A.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "TELLUS INVESTIMENTOS E CONSULTORIA LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "TELLUS INVESTIMENTOS E CONSULTORIA LTDA",
       "n": 2
     },
     {
       "ano": 2024,
-      "gestor": "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "gestor": "TELLUS INVESTIMENTOS E CONSULTORIA LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "CY.CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "CY.CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "CY.CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "Riza Real Estate Gestora de Recursos Ltda.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "Riza Real Estate Gestora de Recursos Ltda.",
       "n": 10
     },
     {
       "ano": 2025,
-      "gestor": "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "gestor": "GUARDIAN GESTORA LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "GUARDIAN GESTORA LTDA.",
+      "n": 22
+    },
+    {
+      "ano": 2026,
+      "gestor": "GUARDIAN GESTORA LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "LCP GESTORA DE RECURSOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2024,
+      "gestor": "LCP GESTORA DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "LCP GESTORA DE RECURSOS LTDA",
       "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "ICATU VANGUARDA GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "JHSF CAPITAL LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "JHSF CAPITAL LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "JHSF CAPITAL LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "FIGTREE CAPITAL ADMINISTRACAO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "FIGTREE CAPITAL ADMINISTRACAO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "FIGTREE CAPITAL ADMINISTRACAO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "IGUANA INVESTIMENTO LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "TERRA GESTORA DE RECURSOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "TERRA GESTORA DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "TERRA GESTORA DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "INTER ASSET GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "INTER ASSET GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "INTER ASSET GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "GENESIS CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "GENESIS CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "GENESIS CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRL TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRL TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "n": 15
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRL TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "n": 10
+    },
+    {
+      "ano": 2025,
+      "gestor": "Capitânia Alternatives S.A",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "Capitânia Alternatives S.A",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "Capitânia Alternatives S.A",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "REAL INVESTOR ASSET MANAGEMENT LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAL INVESTOR ASSET MANAGEMENT LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAL INVESTOR ASSET MANAGEMENT LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "ZAGROS CAPITAL GESTAO DE RECURSOS S.A",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "ZAGROS CAPITAL GESTAO DE RECURSOS S.A",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "ZAGROS CAPITAL GESTAO DE RECURSOS S.A",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "STRIVO GESTORA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SPX REAL ESTATE GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "SPX REAL ESTATE GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "VERDE ASSET AGRO E IMOBILIÁRIO LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "VERDE ASSET AGRO E IMOBILIÁRIO LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "CIX CAPITAL GESTÃO DE ATIVOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "CIX CAPITAL GESTÃO DE ATIVOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "CIX CAPITAL GESTÃO DE ATIVOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "MONGERAL AEGON GESTÃO DE FUNDOS IMOBILIÁRIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "MONGERAL AEGON GESTÃO DE FUNDOS IMOBILIÁRIOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "MONGERAL AEGON GESTÃO DE FUNDOS IMOBILIÁRIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., CNPJ 65.913.436/0001-17",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., CNPJ 65.913.436/0001-17",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "OPEN CAPITAL GESTÃO DE ATIVOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "OPEN CAPITAL GESTÃO DE ATIVOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.",
+      "n": 11
+    },
+    {
+      "ano": 2026,
+      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.",
+      "n": 34
+    },
+    {
+      "ano": 2025,
+      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.",
+      "n": 41
+    },
+    {
+      "ano": 2024,
+      "gestor": "RB INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "RB INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "RB INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "LEBLON EQUITIES GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "GIAA INVESTIMENTOS GESTORA DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "GIAA INVESTIMENTOS GESTORA DE RECURSOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "VINCI SPS GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "RIZA GESTORA DE RECURSOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2024,
+      "gestor": "RIZA GESTORA DE RECURSOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "EXA CAPITAL ASSET LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "EXA CAPITAL ASSET LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "ALIANZA GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "ALIANZA GESTÃO DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "ALIANZA GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "EUQUEROINVESTIR GESTÃO DE RECURSOS LTDA",
+      "n": 21
+    },
+    {
+      "ano": 2024,
+      "gestor": "EUQUEROINVESTIR GESTÃO DE RECURSOS LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2026,
+      "gestor": "EUQUEROINVESTIR GESTÃO DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "AZ QUEST PANORAMA LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "AZ QUEST PANORAMA LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "AZ QUEST PANORAMA LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "ORIZ ASSET MANAGEMENT LTDA. e XP VISTA ASSET MANAGEMENT LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "ORIZ REAL ESTATE GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "BB GESTÃO DE RECURSOS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "BB GESTÃO DE RECURSOS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAG GESTÃO DE FUNDOS IMOBILIARIOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG GESTÃO DE FUNDOS IMOBILIARIOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRIO INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRIO INVESTIMENTOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRIO INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SPX SYN Gestão de Recursos LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "BASÍLICA PARTNERS LATIN AMERICA PRIVATE EQUITY LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "BASÍLICA PARTNERS LATIN AMERICA PRIVATE EQUITY LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRESCO INVESTIMENTOS E GESTÃO LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRESCO INVESTIMENTOS E GESTÃO LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRESCO INVESTIMENTOS E GESTÃO LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SUNO GESTORA DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "SUNO GESTORA DE RECURSOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "SUNO GESTORA DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "HSI GESTORA DE ATIVOS FINANCEIROS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "HSI GESTORA DE ATIVOS FINANCEIROS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "PÁTRIA - VBI ASSET MANAGEMENT LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "PÁTRIA - VBI ASSET MANAGEMENT LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "BTG PACTUAL PACTUAL GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "ASTELLA INVESTIMENTOS, ASSESSORIA, GESTÃO E PARTICIPAÇÕES LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "REDASSET GESTÃO DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "REDASSET GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "REDASSET GESTÃO DE RECURSOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "PETRA CAPITAL GESTÃO DE INVESTIMENTOS S.A",
+      "n": 10
+    },
+    {
+      "ano": 2025,
+      "gestor": "PETRA CAPITAL GESTÃO DE INVESTIMENTOS S.A",
+      "n": 11
+    },
+    {
+      "ano": 2026,
+      "gestor": "PETRA CAPITAL GESTÃO DE INVESTIMENTOS S.A",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "LITUS GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "LITUS GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MORE INVEST GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "MORE INVEST GESTORA DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "MORE INVEST GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "V2 INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "V2 INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "V2 INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "VINCI SPS GESTÃO DE RECURSOS LTDA. e CAPITANIA CAPITAL S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Jubarte Asset Management Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "Jubarte Asset Management Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "IGUANA INVESTIMENTOS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2026,
+      "gestor": "IGUANA INVESTIMENTOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "IGUANA INVESTIMENTOS LTDA",
+      "n": 11
+    },
+    {
+      "ano": 2026,
+      "gestor": "LESTE CREDIT GESTÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "LESTE CREDIT GESTÃO DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "KAMAROOPIN GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "KAMAROOPIN GESTORA DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "Não Aplicável",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "Não Aplicável",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "SUESTE CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "SUESTE CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "SUESTE CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG HIERON INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Capitânia Invest S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "Capitânia Invest S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "Capitânia Invest S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Hedge Investments Real Estate Gestão de Recursos Ltda.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "Hedge Investments Real Estate Gestão de Recursos Ltda.",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "Hedge Investments Real Estate Gestão de Recursos Ltda.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "PARAGUAÇU INVESTIMENTOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "PARAGUAÇU INVESTIMENTOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "PARAGUAÇU INVESTIMENTOS LTDA",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG GESTÃO DE CRÉDITO LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAG GESTÃO DE CRÉDITO LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "CVPAR INVESTIMENTOS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2026,
+      "gestor": "CVPAR INVESTIMENTOS LTDA",
+      "n": 9
+    },
+    {
+      "ano": 2024,
+      "gestor": "CVPAR INVESTIMENTOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "AF INVEST REAL ESTATE ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "AF INVEST REAL ESTATE ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "AF INVEST REAL ESTATE ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "HSI GESTORA DE FUNDOS IMOBILIÁRIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "YGEIA CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "PLURAL INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2025,
+      "gestor": "PLURAL INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2026,
+      "gestor": "PLURAL INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2024,
+      "gestor": "R CAPITAL ASSET MANAGEMENT INVESTIMENTOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "VINLAND CAPITAL MANAGEMENT CRÉDITO PRIVADO GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SMARTSAVE GESTORA DE RECURSOS S.A",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "VGR GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "VGR GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SONATA GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SONATA GESTORA DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "VALORA AGRO LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "GV ATACAMA CAPITAL LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "GV ATACAMA CAPITAL LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2024,
+      "gestor": "GV ATACAMA CAPITAL LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "MAUÁ CAPITAL REAL ESTATE LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "MAUÁ CAPITAL REAL ESTATE LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "MAUÁ CAPITAL REAL ESTATE LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "BOCOM BBM CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "BOCOM BBM CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRZ INVESTIMENTOS LTDA",
+      "n": 27
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRZ INVESTIMENTOS LTDA",
+      "n": 48
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRZ INVESTIMENTOS LTDA",
+      "n": 14
+    },
+    {
+      "ano": 2026,
+      "gestor": "BTG Pactual Serviços Financeiros S.A. Distribuidora de Títulos e Valores Mobiliários",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "BTG Pactual Serviços Financeiros S.A. Distribuidora de Títulos e Valores Mobiliários",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "ZAVIT GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "ZAVIT GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "HCAM LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "ANGÁ ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "ANGÁ ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 27
+    },
+    {
+      "ano": 2024,
+      "gestor": "ANGÁ ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 21
+    },
+    {
+      "ano": 2026,
+      "gestor": "VERT GESTORA DE RECURSOS FINANCEIROS LTDA",
+      "n": 20
+    },
+    {
+      "ano": 2024,
+      "gestor": "VERT GESTORA DE RECURSOS FINANCEIROS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2025,
+      "gestor": "VERT GESTORA DE RECURSOS FINANCEIROS LTDA",
+      "n": 30
+    },
+    {
+      "ano": 2026,
+      "gestor": "APUAMA CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "APUAMA CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 14
+    },
+    {
+      "ano": 2024,
+      "gestor": "APUAMA CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "JIVE HIGH YIELD GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "JIVE HIGH YIELD GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "JIVE HIGH YIELD GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "HOPE ASSET GESTAO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "HOPE ASSET GESTAO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "F3 ROCK GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "F3 ROCK GESTÃO DE RECURSOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "F3 ROCK GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "AUGME CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "AUGME CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 13
+    },
+    {
+      "ano": 2024,
+      "gestor": "AUGME CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "11.916.849/0001-26",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Polígono Capital Ltda.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "Polígono Capital Ltda.",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "BENAVENT ASSET LTDA",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "BENAVENT ASSET LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "CONTEA CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "CONTEA CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 19
+    },
+    {
+      "ano": 2024,
+      "gestor": "CONTEA CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 23
+    },
+    {
+      "ano": 2025,
+      "gestor": "MILÊNIO CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 17
+    },
+    {
+      "ano": 2026,
+      "gestor": "MILÊNIO CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2024,
+      "gestor": "MILÊNIO CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "EMPÍRICA INVESTIMENTOS GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "EMPÍRICA INVESTIMENTOS GESTÃO DE RECURSOS LTDA.",
+      "n": 24
+    },
+    {
+      "ano": 2025,
+      "gestor": "VCM GESTÃO DE CAPITAL LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "VCM GESTÃO DE CAPITAL LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "VCM GESTÃO DE CAPITAL LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "ORRAM GESTÃO DE RECURSOS LTDA",
+      "n": 18
+    },
+    {
+      "ano": 2025,
+      "gestor": "ORRAM GESTÃO DE RECURSOS LTDA",
+      "n": 14
+    },
+    {
+      "ano": 2024,
+      "gestor": "ORRAM GESTÃO DE RECURSOS LTDA",
+      "n": 32
+    },
+    {
+      "ano": 2025,
+      "gestor": "OPEA GESTORA DE RECURSOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "OPEA GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "OPEA GESTORA DE RECURSOS LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG SPECIALTY FINANCE LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG PORTFÓLIO SOLUTIONS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAG PORTFÓLIO SOLUTIONS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "PRISMA CLAIMS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "PRISMA CLAIMS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "CATÁLISE INVESTIMENTOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "CATÁLISE INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "CATÁLISE INVESTIMENTOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2026,
+      "gestor": "VM Consultoria Empresarial Ltd",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "BANCO BTG PACTUAL S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "HECTARE CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "HECTARE CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "VÓRTX CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "VÓRTX CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "BANCO GENIAL S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "BANCO GENIAL S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "UNION CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "QUARTZO ASSET LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "FALCON FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "LEGATUS CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "LEGATUS CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "IGGY INVESTIMENTOS",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "Nova SRM Administração de Recursos e Finanças S/A",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "Nova SRM Administração de Recursos e Finanças S/A",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "Nova SRM Administração de Recursos e Finanças S/A",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "PÁTRIA INVESTIMENTOS LTDA.",
+      "n": 10
+    },
+    {
+      "ano": 2025,
+      "gestor": "PÁTRIA INVESTIMENTOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "PÁTRIA INVESTIMENTOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "EVEREST CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "EVEREST CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "EVEREST CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2025,
+      "gestor": "NEO CRÉDITO GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA & ORIZ ASSET MANAGEMENT LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "INTEGRAL INVESTIMENTOS LTDA",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "INTEGRAL INVESTIMENTOS LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "INTEGRAL INVESTIMENTOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "Pravaler S.A.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "Pravaler S.A.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "Pravaler S.A.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "VINCI GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "VINCI GESTORA DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "PATRIMONIAL GESTÃO DE RECURSOS LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2026,
+      "gestor": "PATRIMONIAL GESTÃO DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "PATRIMONIAL GESTÃO DE RECURSOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2024,
+      "gestor": "ROOT CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "ROOT CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "ROOT CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "BLUE ASSET GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "BLUE ASSET GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "BLUE ASSET GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SH ASSET CAPITAL GESTAO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "SH ASSET CAPITAL GESTAO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "SH ASSET CAPITAL GESTAO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "MILÊNIO CAPITAL GESTÃO DE RECURSOS DE INVESTIMENTOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "ZEUS CAPITAL GESTÃO DE RECURSOS E INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "RIZA CRÉDITO ESTRUTURADO GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "RIZA CRÉDITO ESTRUTURADO GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "RIZA CRÉDITO ESTRUTURADO GESTORA DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "QUATÁ GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "QUATÁ GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "QUATÁ GESTÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "RADIX PORTFOLIO GESTÃO DE INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "FARMTECH GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "FARMTECH GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "KANASTRA ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 17
+    },
+    {
+      "ano": 2025,
+      "gestor": "KANASTRA ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 15
+    },
+    {
+      "ano": 2026,
+      "gestor": "KANASTRA ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "Mainu Investimentos LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "VALORA RENDA FIXA ESTRUTURADOS LTDA",
+      "n": 27
+    },
+    {
+      "ano": 2026,
+      "gestor": "VALORA RENDA FIXA ESTRUTURADOS LTDA",
+      "n": 23
+    },
+    {
+      "ano": 2025,
+      "gestor": "REAG WM GESTORA DE PATRIMÔNIO LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "REAG WM GESTORA DE PATRIMÔNIO LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "FIDD ADMINISTRAÇÃO DE RECURSOS DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SQUALO CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "SQUALO CAPITAL GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "AF INVEST ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "AF INVEST ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "AF INVEST ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "FIELD GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "FIELD GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "FIELD GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MAUD CAPITAL GESTORA DE ATIVOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "ECO GESTÃO DE ATIVOS LTDA",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "ECO GESTÃO DE ATIVOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ECO GESTÃO DE ATIVOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "TERA INVESTIMENTOS LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "TERA INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "TERA INVESTIMENTOS LTDA.",
+      "n": 13
+    },
+    {
+      "ano": 2026,
+      "gestor": "NOVA OCCAM BRASIL GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "NOVA OCCAM BRASIL GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SPECIAL SITUATIONS NEO GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "IORQ GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "BERTHA CAPITAL GESTORA DE RECURSOS S.A.",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "BERTHA CAPITAL GESTORA DE RECURSOS S.A.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "BERTHA CAPITAL GESTORA DE RECURSOS S.A.",
+      "n": 8
+    },
+    {
+      "ano": 2026,
+      "gestor": "GUARDIAN CRÉDITO LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "GUARDIAN CRÉDITO LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "JUS CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "JUS CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "JUS CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "NETZ ASSET GESTÃO DE RECURSOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "NETZ ASSET GESTÃO DE RECURSOS LTDA",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "UTILITY GESTORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "UTILITY GESTORA DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "UTILITY GESTORA DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "SONAR SERVIÇOS DE INVESTIMENTO LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SONAR SERVIÇOS DE INVESTIMENTO LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SONAR SERVIÇOS DE INVESTIMENTO LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "FAR - FATOR ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "FAR - FATOR ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "FAR - FATOR ADMINISTRAÇÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "Polo Capital Gestão de Recursos Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Polo Capital Gestão de Recursos Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "MOKA GESTORA DE RECURSOS DE TERCEIROS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "MOKA GESTORA DE RECURSOS DE TERCEIROS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MOKA GESTORA DE RECURSOS DE TERCEIROS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "CRD CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "CRD CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "LIFT GESTORA DE RECURSOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "BDR INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "KIJANI GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "KIJANI GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Gustavo Henrique Fonseca de Oliveira",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ROCHA OPÇÕES DE INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "HARBOUR CAPITAL ADMINISTRADORA DE CARTEIRAS DE VALORES MOBILIÁRIOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "HARBOUR CAPITAL ADMINISTRADORA DE CARTEIRAS DE VALORES MOBILIÁRIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "HARBOUR CAPITAL ADMINISTRADORA DE CARTEIRAS DE VALORES MOBILIÁRIOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "OURO PRETO GESTORA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ACURA GESTORA DE RECURSOS LTDA. e UTILITY GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "PORTO REAL INVESTIMENTOS LTDA,",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "ALGARVE CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "ALGARVE CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "ALGARVE CAPITAL GESTÃO DE RECURSOS LTDA.",
+      "n": 13
+    },
+    {
+      "ano": 2026,
+      "gestor": "Everest Capital Office LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "Everest Capital Office LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "RJ GESTÃO DE RECURSOS LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "RJ GESTÃO DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "RJ GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "NUMBER ASSET DO BRASIL LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "NUMBER ASSET DO BRASIL LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "NOVA SRM ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS S/A",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "NOVA SRM ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS S/A",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "SARFATY ASSET GESTAO DE RECURSOS LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2025,
+      "gestor": "SARFATY ASSET GESTAO DE RECURSOS LTDA",
+      "n": 9
+    },
+    {
+      "ano": 2024,
+      "gestor": "SARFATY ASSET GESTAO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "RIO BRAVO INVESTIMENTOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "RIO BRAVO INVESTIMENTOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "RIO BRAVO INVESTIMENTOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRAVE GESTORA DE RECURSOS LTDA",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "BRAVE GESTORA DE RECURSOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRAVE GESTORA DE RECURSOS LTDA",
+      "n": 29
+    },
+    {
+      "ano": 2024,
+      "gestor": "ASA ASSET 2 GESTÃO DE RECURSOS LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "ASA ASSET 2 GESTÃO DE RECURSOS LTDA.",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "ASA ASSET 2 GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "AUSTIN",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MENESTYS GESTORA  DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "SRM Empírica Gestão de Crédito LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2026,
+      "gestor": "CARMEL GESTORA DE ATIVOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "CARMEL GESTORA DE ATIVOS LTDA.",
+      "n": 6
+    },
+    {
+      "ano": 2025,
+      "gestor": "CARMEL GESTORA DE ATIVOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "LEEN CAPITAL LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "LEEN CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "LEEN CAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SCORE CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "SCORE CAPITAL GESTÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "JGP GESTÃO DE CRÉDITO LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "JGP GESTÃO DE CRÉDITO LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "JGP GESTÃO DE CRÉDITO LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "BSIDE INVESTIMENTOS",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA. / HYPERION ASSET MANAGEMENT LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+      "n": 6
+    },
+    {
+      "ano": 2024,
+      "gestor": "BRAM - BRADESCO ASSET MANAGEMENT S.A. - DTVM",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRACAO DERECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "INDIE CAPITAL INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "INDIE CAPITAL INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "INDIE CAPITAL INVESTIMENTOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ACURA GESTÃO",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "DEZESSEIS DEZOITO GESTÃO DE RECURSOS LIMITADA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "DEZESSEIS DEZOITO GESTÃO DE RECURSOS LIMITADA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SIGA GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SIGA GESTORA DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "MULTINVEST CAPITAL ADMINISTRADORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "MULTINVEST CAPITAL ADMINISTRADORA DE RECURSOS LTDA.",
+      "n": 7
+    },
+    {
+      "ano": 2026,
+      "gestor": "MULTINVEST CAPITAL ADMINISTRADORA DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "ACURA CAPITAL",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "LAKEWOOD GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2026,
+      "gestor": "LAKEWOOD GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MONETIZA INVESTIMENTOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "MONETIZA INVESTIMENTOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "MONETIZA INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "GFS ATIVOS FINANCEIROS E INVESTIMENTOS LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "KP GESTÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "KP GESTÃO DE RECURSOS LTDA",
+      "n": 7
+    },
+    {
+      "ano": 2025,
+      "gestor": "GHIA GESTÃO DE RECURSOS LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "GHIA GESTÃO DE RECURSOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2024,
+      "gestor": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "n": 10
+    },
+    {
+      "ano": 2025,
+      "gestor": "MAUÁ CAPITAL INVESTIMENTOS ALTERNATIVOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "SQUALO GESTORA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "GRIF CAPITAL GESTORA DE RECURSOS",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "GRIF CAPITAL GESTORA DE RECURSOS",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "RJI GESTÃO & INVESTIMENTOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "LIBERTAS S.A",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "LIBERTAS S.A",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "RIO DAS PEDRAS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "RIO DAS PEDRAS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "RIO DAS PEDRAS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "BANCO GENIAL S.A.BANCO GENIAL S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "4ICAPITAL LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Galapagos capital e Empirica Investimentos",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "GUARDIAN GESTORA LTDA. (CNPJ nº 37.414.193/0001-37)",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "GUARDIAN GESTORA LTDA. (CNPJ nº 37.414.193/0001-37)",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "SOLIS INVESTIMENTOS LTDA, CNPJ 17.254.708/0001-71",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "INTRABANK ASSET MANAGEMENT LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "INTRABANK ASSET MANAGEMENT LTDA",
+      "n": 5
+    },
+    {
+      "ano": 2025,
+      "gestor": "INTRABANK ASSET MANAGEMENT LTDA",
+      "n": 9
+    },
+    {
+      "ano": 2024,
+      "gestor": "Ello Gestora de Recursos LTDA",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "Ello Gestora de Recursos LTDA",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "Ello Gestora de Recursos LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "BURITI INVESTIMENTOS GESTORA DE RECURSOS LTDA, CNPJ 44.696.473/0001-40",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "BURITI INVESTIMENTOS GESTORA DE RECURSOS LTDA, CNPJ 44.696.473/0001-40",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "VBR CAPITAL LTDA",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "VBR CAPITAL LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "URBANO ADMINISTRAÇÃO DE RECURSOS LTDA. e OURO PRETO GESTÃO DE RECURSOS S.A",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "VALORA RENDA FIXA LTDA.",
+      "n": 19
+    },
+    {
+      "ano": 2026,
+      "gestor": "VALORA RENDA FIXA LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "VALORA RENDA FIXA LTDA.",
+      "n": 26
+    },
+    {
+      "ano": 2024,
+      "gestor": "QUASAR ASSET MANAGEMENT LTDA.,",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "Valora Gestão de Investimentos Ltda.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "Valora Gestão de Investimentos Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "EXT CAPITAL LTDA e BRAVE GESTORA DE RECURSOS LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "RIZA SECURITIZAÇÃO E CARTEIRAS GESTORA DE RECURSOS LTDA",
+      "n": 13
+    },
+    {
+      "ano": 2026,
+      "gestor": "RIZA SECURITIZAÇÃO E CARTEIRAS GESTORA DE RECURSOS LTDA",
+      "n": 10
+    },
+    {
+      "ano": 2024,
+      "gestor": "VALORA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Jive Asset Gestão de Recursos Ltda",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MULTIPLIKE GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2025,
+      "gestor": "MULTIPLIKE GESTÃO DE RECURSOS LTDA.",
+      "n": 4
+    },
+    {
+      "ano": 2026,
+      "gestor": "MULTIPLIKE GESTÃO DE RECURSOS LTDA.",
+      "n": 3
+    },
+    {
+      "ano": 2024,
+      "gestor": "MDA e Fundos 21, B3 segmento CETIP",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "MDA e Fundos 21, B3 segmento CETIP",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "MDA e Fundos 21, B3 segmento CETIP",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "OPI GOOROO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "M ASSET MANAGEMENTE LTDA.,",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "AGBI ATIVOS REAIS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "STRUTTURA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "ARTESANAL AGRO LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "QUADRA GESTÃO DE RECURSOS S.A.",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "QUADRA GESTÃO DE RECURSOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "QUADRA GESTÃO DE RECURSOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "Coinvalores Corretora de Câmbio e Valores Mobiliários Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "VERONA GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "Lumina Capital Management Ltda.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "Lumina Capital Management Ltda.",
+      "n": 6
+    },
+    {
+      "ano": 2026,
+      "gestor": "Lumina Capital Management Ltda.",
+      "n": 1
+    },
+    {
+      "ano": 2024,
+      "gestor": "MULTIPLA GESTORA DE INVESTIMENTOS LTDA",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "BLUECAP GESTÃO DE RECURSOS LTDA.",
+      "n": 2
+    },
+    {
+      "ano": 2024,
+      "gestor": "EXA CAPITAL ASSET LTDA e XP VISTA ASSET MANAGEMENT LTDA",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "Lions Trust Administradora de Recursos Ltda",
+      "n": 2
     },
     {
       "ano": 2024,
@@ -1890,8 +5490,88 @@
       "n": 5
     },
     {
+      "ano": 2024,
+      "gestor": "TRAFALGAR GESTÃO DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
       "ano": 2025,
-      "gestor": "Lions Trust Administradora de Recursos Ltda",
+      "gestor": "DSK Capital Gestora de Recursos e Consultoria Ltda.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "OUROPRETO GESTÃO DE RECURSOS S.A",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "EMERALD GESTÃO DE INVESTIMENTOS SOCIEDADE UNIPESSOAL LIMITADA - 09.815.294/0001-84",
+      "n": 2
+    },
+    {
+      "ano": 2025,
+      "gestor": "EMERALD GESTÃO DE INVESTIMENTOS SOCIEDADE UNIPESSOAL LIMITADA - 09.815.294/0001-84",
+      "n": 7
+    },
+    {
+      "ano": 2024,
+      "gestor": "EMERALD GESTÃO DE INVESTIMENTOS SOCIEDADE UNIPESSOAL LIMITADA - 09.815.294/0001-84",
+      "n": 3
+    },
+    {
+      "ano": 2026,
+      "gestor": "TERRA GESTORA LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "TERRA GESTORA LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "CHIMERA CAPITAL ASSET MANAGEMENT LTDA.",
+      "n": 8
+    },
+    {
+      "ano": 2025,
+      "gestor": "CHIMERA CAPITAL ASSET MANAGEMENT LTDA.",
+      "n": 9
+    },
+    {
+      "ano": 2024,
+      "gestor": "CHIMERA CAPITAL ASSET MANAGEMENT LTDA.",
+      "n": 12
+    },
+    {
+      "ano": 2026,
+      "gestor": "TUERI GESTORA DE RECURSOS LTDA.",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "CHIMERA ALTERNATIVE ASSETS VI.3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS DE RESPONSABILIDADE LIMITADA",
+      "n": 1
+    },
+    {
+      "ano": 2026,
+      "gestor": "MÉRITO INVESTIMENTOS S.A.",
+      "n": 3
+    },
+    {
+      "ano": 2025,
+      "gestor": "MÉRITO INVESTIMENTOS S.A.",
+      "n": 5
+    },
+    {
+      "ano": 2024,
+      "gestor": "MÉRITO INVESTIMENTOS S.A.",
+      "n": 1
+    },
+    {
+      "ano": 2025,
+      "gestor": "BRM CARBYNE GESTÃO DE RECURSOS S.A",
       "n": 2
     },
     {
@@ -1916,40 +5596,10 @@
     },
     {
       "ano": 2024,
-      "gestor": "BTG Pactual Asset Management S.A. DTVM",
-      "n": 17
-    },
-    {
-      "ano": 2025,
-      "gestor": "BTG Pactual Asset Management S.A. DTVM",
-      "n": 25
-    },
-    {
-      "ano": 2026,
-      "gestor": "BTG Pactual Asset Management S.A. DTVM",
-      "n": 10
-    },
-    {
-      "ano": 2024,
       "gestor": "HSI GESTORA DE REAL ESTATE PRIVATE EQUITY LTDA.",
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "PATAGONIA CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 10
-    },
-    {
-      "ano": 2025,
-      "gestor": "PATAGONIA CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 13
-    },
-    {
-      "ano": 2026,
-      "gestor": "PATAGONIA CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 7
-    },
-    {
       "ano": 2026,
       "gestor": "Lightrock Gestora de Recursos Ltda.,",
       "n": 1
@@ -1957,16 +5607,6 @@
     {
       "ano": 2025,
       "gestor": "Lightrock Gestora de Recursos Ltda.,",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "IG4 CAPITAL INVESTIMENTOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "IG4 CAPITAL INVESTIMENTOS LTDA.",
       "n": 2
     },
     {
@@ -1990,21 +5630,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "AZ QUEST INFRA LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "AZ QUEST INFRA LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "AZ QUEST INFRA LTDA.",
-      "n": 8
-    },
-    {
       "ano": 2025,
       "gestor": "LATACHE GESTÃO DE RECURSOS LTDA.",
       "n": 1
@@ -2013,21 +5638,6 @@
       "ano": 2024,
       "gestor": "LATACHE GESTÃO DE RECURSOS LTDA.",
       "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "PÁTRIA INVESTIMENTOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2025,
-      "gestor": "PÁTRIA INVESTIMENTOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
-      "gestor": "PÁTRIA INVESTIMENTOS LTDA.",
-      "n": 7
     },
     {
       "ano": 2024,
@@ -2035,16 +5645,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "VINCI CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "VINCI CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
       "ano": 2025,
       "gestor": "LAD Capital Gestora de Recursos LTDA",
       "n": 2
@@ -2055,21 +5655,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "SPE CONFRAPAR ADMINISTRAÇÃO E GESTÃO DE RECURSOS S/A",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "SPE CONFRAPAR ADMINISTRAÇÃO E GESTÃO DE RECURSOS S/A",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "SPE CONFRAPAR ADMINISTRAÇÃO E GESTÃO DE RECURSOS S/A",
-      "n": 4
-    },
-    {
       "ano": 2026,
       "gestor": "CRESCERA GESTÃO DE RECURSOS LTDA",
       "n": 2
@@ -2078,61 +5663,6 @@
       "ano": 2025,
       "gestor": "CRESCERA GESTÃO DE RECURSOS LTDA",
       "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG PORTFOLIO SOLUTIONS LTDA.,",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG PORTFOLIO SOLUTIONS LTDA.,",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "SPX Private Equity Gestão de Recursos Ltda",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "SPX Private Equity Gestão de Recursos Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SPX Private Equity Gestão de Recursos Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ORRAM GESTÃO DE RECURSOS LTDA.",
-      "n": 32
-    },
-    {
-      "ano": 2026,
-      "gestor": "ORRAM GESTÃO DE RECURSOS LTDA.",
-      "n": 18
-    },
-    {
-      "ano": 2025,
-      "gestor": "ORRAM GESTÃO DE RECURSOS LTDA.",
-      "n": 14
-    },
-    {
-      "ano": 2026,
-      "gestor": "GESTORA DE RECURSOS ID - GRID LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "GESTORA DE RECURSOS ID - GRID LTDA.",
-      "n": 23
-    },
-    {
-      "ano": 2024,
-      "gestor": "GESTORA DE RECURSOS ID - GRID LTDA.",
-      "n": 8
     },
     {
       "ano": 2024,
@@ -2148,16 +5678,6 @@
       "ano": 2026,
       "gestor": "JIVE INVESTMENTS GESTÃO DE RECURSOS E CONSULTORIA S.A.",
       "n": 19
-    },
-    {
-      "ano": 2024,
-      "gestor": "MISSION CO. LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MISSION CO. LTDA.",
-      "n": 4
     },
     {
       "ano": 2024,
@@ -2205,36 +5725,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "FUTURUM CAPITAL GESTAO DE ATIVOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "FUTURUM CAPITAL GESTAO DE ATIVOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "FUTURUM CAPITAL GESTAO DE ATIVOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRL TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 8
-    },
-    {
-      "ano": 2026,
-      "gestor": "BRL TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 15
-    },
-    {
-      "ano": 2025,
-      "gestor": "BRL TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 10
-    },
-    {
       "ano": 2025,
       "gestor": "Crescera Venture Ltda. e Triaxis Capital Ltda.",
       "n": 1
@@ -2253,21 +5743,6 @@
       "ano": 2024,
       "gestor": "HIX INVESTIMENTOS LTDA.",
       "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "AF INVEST ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "AF INVEST ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "AF INVEST ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -2280,39 +5755,9 @@
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "XP VISTA ASSET MANAGEMENT LTDA.",
-      "n": 20
-    },
-    {
-      "ano": 2026,
-      "gestor": "XP VISTA ASSET MANAGEMENT LTDA.",
-      "n": 15
-    },
-    {
-      "ano": 2024,
-      "gestor": "XP VISTA ASSET MANAGEMENT LTDA.",
-      "n": 22
-    },
-    {
       "ano": 2024,
       "gestor": "INVEST TECH PARTICIPAÇÕES E INVESTIMENTOS S.A",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Ello Gestora de Recursos LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "Ello Gestora de Recursos LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "Ello Gestora de Recursos LTDA",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -2321,46 +5766,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "BERTHA CAPITAL GESTORA DE RECURSOS S.A.",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "BERTHA CAPITAL GESTORA DE RECURSOS S.A.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "BERTHA CAPITAL GESTORA DE RECURSOS S.A.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "AMERICA P.E. ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "ENGEFORM GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "ENGEFORM GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
       "gestor": "CITRINO GESTÃO DE RECURSOS LTDA.",
       "n": 2
     },
@@ -2372,16 +5777,6 @@
     {
       "ano": 2026,
       "gestor": "CITRINO GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "VGR GESTAO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VGR GESTAO DE RECURSOS LTDA",
       "n": 1
     },
     {
@@ -2423,16 +5818,6 @@
       "ano": 2026,
       "gestor": "HANNAH VENTURES GESTÃO DE RECURSOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "PERFIN INFRA ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "PERFIN INFRA ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 8
     },
     {
       "ano": 2024,
@@ -2448,36 +5833,6 @@
       "ano": 2025,
       "gestor": "Astella Investimentos, Assessoria, Gestão e Participaçõe Ltda.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "PRAVALER S.A.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "PRAVALER S.A.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "PRAVALER S.A.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "TERCON INVESTIMENTOS",
-      "n": 80
-    },
-    {
-      "ano": 2024,
-      "gestor": "TERCON INVESTIMENTOS",
-      "n": 81
-    },
-    {
-      "ano": 2026,
-      "gestor": "TERCON INVESTIMENTOS",
-      "n": 41
     },
     {
       "ano": 2025,
@@ -2501,53 +5856,8 @@
     },
     {
       "ano": 2024,
-      "gestor": "M8 PARTNERS GESTORA DE RECURSOS LTDA.",
-      "n": 43
-    },
-    {
-      "ano": 2026,
-      "gestor": "M8 PARTNERS GESTORA DE RECURSOS LTDA.",
-      "n": 34
-    },
-    {
-      "ano": 2025,
-      "gestor": "M8 PARTNERS GESTORA DE RECURSOS LTDA.",
-      "n": 55
-    },
-    {
-      "ano": 2024,
       "gestor": "CEDRO ASSET MANAGEMENT LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A",
-      "n": 51
-    },
-    {
-      "ano": 2025,
-      "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A",
-      "n": 107
-    },
-    {
-      "ano": 2024,
-      "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A",
-      "n": 88
-    },
-    {
-      "ano": 2026,
-      "gestor": "BRZ INVESTIMENTOS LTDA",
-      "n": 27
-    },
-    {
-      "ano": 2025,
-      "gestor": "BRZ INVESTIMENTOS LTDA",
-      "n": 48
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRZ INVESTIMENTOS LTDA",
-      "n": 14
     },
     {
       "ano": 2025,
@@ -2561,16 +5871,6 @@
     },
     {
       "ano": 2025,
-      "gestor": "Fortis Gestora de Recursos LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "Fortis Gestora de Recursos LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
       "gestor": "Gera Capital Gestão de Recursos Ltda",
       "n": 1
     },
@@ -2578,21 +5878,6 @@
       "ano": 2026,
       "gestor": "Gera Capital Gestão de Recursos Ltda",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 4
     },
     {
       "ano": 2025,
@@ -2611,21 +5896,6 @@
     },
     {
       "ano": 2025,
-      "gestor": "STARBOARD ASSET LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "STARBOARD ASSET LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "STARBOARD ASSET LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
       "gestor": "TARPON GESTORA DE RECURSOS LTDA.",
       "n": 3
     },
@@ -2638,51 +5908,6 @@
       "ano": 2024,
       "gestor": "TARPON GESTORA DE RECURSOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "KANASTRA ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 15
-    },
-    {
-      "ano": 2026,
-      "gestor": "KANASTRA ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "KANASTRA ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 17
-    },
-    {
-      "ano": 2025,
-      "gestor": "IRON CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2026,
-      "gestor": "IRON CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "IRON CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "COPA GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "XP ALLOCATION ASSET MANAGEMENT LTDA.",
-      "n": 11
-    },
-    {
-      "ano": 2026,
-      "gestor": "XP ALLOCATION ASSET MANAGEMENT LTDA.",
-      "n": 9
     },
     {
       "ano": 2025,
@@ -2690,16 +5915,6 @@
       "n": 2
     },
     {
-      "ano": 2025,
-      "gestor": "Somacred Asset Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Somacred Asset Ltda.",
-      "n": 1
-    },
-    {
       "ano": 2026,
       "gestor": "G5 GESTORA DE RECURSOS LTDA.",
       "n": 1
@@ -2713,41 +5928,6 @@
       "ano": 2025,
       "gestor": "G5 GESTORA DE RECURSOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "KINEA INVESTIMENTOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "KINEA INVESTIMENTOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "KINEA INVESTIMENTOS LTDA",
-      "n": 12
-    },
-    {
-      "ano": 2025,
-      "gestor": "VALORA IMOBILIÁRIO E INFRAESTRUTURA LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2024,
-      "gestor": "VALORA IMOBILIÁRIO E INFRAESTRUTURA LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "VALORA IMOBILIÁRIO E INFRAESTRUTURA LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "DSK Capital Gestora de Recursos e Consultoria Ltda",
-      "n": 3
     },
     {
       "ano": 2026,
@@ -2757,61 +5937,6 @@
     {
       "ano": 2024,
       "gestor": "YVY CAPITAL ASSET MANAGEMENT LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "BANCO BRADESCO S.A",
-      "n": 15
-    },
-    {
-      "ano": 2025,
-      "gestor": "BANCO BRADESCO S.A",
-      "n": 10
-    },
-    {
-      "ano": 2026,
-      "gestor": "RIZA ALLOCATION GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "RIZA ALLOCATION GESTORA DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "RIZA ALLOCATION GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "GERIBÁ INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "GERIBÁ INVESTIMENTOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "GERIBÁ INVESTIMENTOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "LAZULI PARTNERS ASSET MANAGEMENT LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "LAZULI PARTNERS ASSET MANAGEMENT LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "LAZULI PARTNERS ASSET MANAGEMENT LTDA",
       "n": 1
     },
     {
@@ -2837,21 +5962,6 @@
     {
       "ano": 2026,
       "gestor": "PARAMIS BR INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRIO INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "BRIO INVESTIMENTOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "BRIO INVESTIMENTOS LTDA.",
       "n": 1
     },
     {
@@ -2890,21 +6000,6 @@
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "GV ATACAMA CAPITAL LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2026,
-      "gestor": "GV ATACAMA CAPITAL LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "GV ATACAMA CAPITAL LTDA.",
-      "n": 3
-    },
-    {
       "ano": 2024,
       "gestor": "ASTOR GESTÃO DE RECURSOS LTDA",
       "n": 3
@@ -2930,54 +6025,9 @@
       "n": 7
     },
     {
-      "ano": 2026,
-      "gestor": "JHSF CAPITAL LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "JHSF CAPITAL LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "JHSF CAPITAL LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "HEDGE INVESTMENTS REAL ESTATE GESTÃO DE RECURSOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "HEDGE INVESTMENTS REAL ESTATE GESTÃO DE RECURSOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2026,
-      "gestor": "HEDGE INVESTMENTS REAL ESTATE GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
       "ano": 2025,
       "gestor": "INVESTO ASSET LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SUESTE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "SUESTE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "SUESTE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 7
     },
     {
       "ano": 2025,
@@ -2990,51 +6040,6 @@
       "n": 2
     },
     {
-      "ano": 2026,
-      "gestor": "MAUÁ CAPITAL REAL ESTATE LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "MAUÁ CAPITAL REAL ESTATE LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "MAUÁ CAPITAL REAL ESTATE LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "GENIAL GESTÃO LTDA.",
-      "n": 13
-    },
-    {
-      "ano": 2025,
-      "gestor": "GENIAL GESTÃO LTDA.",
-      "n": 18
-    },
-    {
-      "ano": 2024,
-      "gestor": "GENIAL GESTÃO LTDA.",
-      "n": 13
-    },
-    {
-      "ano": 2024,
-      "gestor": "GUARDIAN GESTORA LTDA.",
-      "n": 22
-    },
-    {
-      "ano": 2025,
-      "gestor": "GUARDIAN GESTORA LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "GUARDIAN GESTORA LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2025,
       "gestor": "VECTOR ADMINISTRAÇÃO DE RECURSOS FINANCEIROS LTDA.",
       "n": 1
@@ -3058,31 +6063,6 @@
       "ano": 2024,
       "gestor": "TG CORE ASSET LTDA.",
       "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "TELLUS INVESTIMENTOS E CONSULTORIA LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "TELLUS INVESTIMENTOS E CONSULTORIA LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "TELLUS INVESTIMENTOS E CONSULTORIA LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "RIZA REAL ESTATE GESTORA DE RECURSOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2026,
-      "gestor": "RIZA REAL ESTATE GESTORA DE RECURSOS LTDA.",
-      "n": 5
     },
     {
       "ano": 2025,
@@ -3125,21 +6105,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "CAPITANIA ALTERNATIVES S.A.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "CAPITANIA ALTERNATIVES S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "CAPITANIA ALTERNATIVES S.A.",
-      "n": 5
-    },
-    {
       "ano": 2025,
       "gestor": "PÁTRIA VBI SECURITIES LTDA.",
       "n": 5
@@ -3171,51 +6136,6 @@
     },
     {
       "ano": 2025,
-      "gestor": "REAL INVESTOR ASSET MANAGEMENT LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAL INVESTOR ASSET MANAGEMENT LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "REAL INVESTOR ASSET MANAGEMENT LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "RB INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "RB INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "RB INVESTIMENTOS GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "INTER ASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "INTER ASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "INTER ASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
       "gestor": "KINEA INVESTIMENTOS LTDA. (GIIN Nº DI5KU3.00111.ME.076)",
       "n": 1
     },
@@ -3235,21 +6155,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "n": 2
-    },
-    {
       "ano": 2025,
       "gestor": "PERSEVERA GESTÃO DE RECURSOS LTDA.",
       "n": 1
@@ -3263,16 +6168,6 @@
       "ano": 2024,
       "gestor": "PERSEVERA GESTÃO DE RECURSOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG WM GESTORA DE PATRIMÔNIO LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG WM GESTORA DE PATRIMÔNIO LTDA.",
-      "n": 4
     },
     {
       "ano": 2024,
@@ -3301,38 +6196,8 @@
     },
     {
       "ano": 2024,
-      "gestor": "SONATA GESTORA DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "SONATA GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ACURA GESTORA DE RECURSOS LTDA",
-      "n": 11
-    },
-    {
-      "ano": 2024,
-      "gestor": "ACURA GESTORA DE RECURSOS LTDA",
-      "n": 9
-    },
-    {
-      "ano": 2024,
       "gestor": "HUMA CAPITAL LTDA.",
       "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "JUBARTE ASSET MANAGEMENT LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "JUBARTE ASSET MANAGEMENT LTDA.",
-      "n": 1
     },
     {
       "ano": 2025,
@@ -3365,36 +6230,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "CAPITÂNIA INVEST S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "CAPITÂNIA INVEST S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CAPITÂNIA INVEST S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "CAPITANIA CAPITAL S.A.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "CAPITANIA CAPITAL S.A.",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "CAPITANIA CAPITAL S.A.",
-      "n": 4
-    },
-    {
       "ano": 2024,
       "gestor": "BTG PACTUAL SERVIÇOS FINANCEIROS S.A. DISTRIBUIDORA DE TÍTULOS EVALORES MOBILIÁRIOS",
       "n": 1
@@ -3403,11 +6238,6 @@
       "ano": 2026,
       "gestor": "Newport Real Estate Gestora de Recursos Ltda.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VINCI GGN GESTÃO DE RECURSOS LTDA",
-      "n": 2
     },
     {
       "ano": 2026,
@@ -3470,11 +6300,6 @@
       "n": 9
     },
     {
-      "ano": 2024,
-      "gestor": "ORIZ ASSET MANAGEMENT LTDA. e  XP VISTA ASSET MANAGEMENT LTDA.",
-      "n": 3
-    },
-    {
       "ano": 2025,
       "gestor": "IF ASSET GESTÃO DE RECURSOS LTDA.",
       "n": 1
@@ -3493,31 +6318,6 @@
       "ano": 2024,
       "gestor": "CAPITÂNIA INVESTIMENTOS",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "RIO BRAVO INVESTIMENTOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "RIO BRAVO INVESTIMENTOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "RIO BRAVO INVESTIMENTOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "Não aplicável",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "Não aplicável",
-      "n": 4
     },
     {
       "ano": 2024,
@@ -3555,96 +6355,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2025,
-      "gestor": "PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 11
-    },
-    {
-      "ano": 2026,
-      "gestor": "PETRA CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "ZAGROS CAPITAL GESTAO DE RECURSOS S.A",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "ZAGROS CAPITAL GESTAO DE RECURSOS S.A",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "ZAGROS CAPITAL GESTAO DE RECURSOS S.A",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "INVISTA REAL ESTATE LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "INVISTA REAL ESTATE LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "INVISTA REAL ESTATE LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "PARAGUAÇU INVESTIMENTOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "PARAGUAÇU INVESTIMENTOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "PARAGUAÇU INVESTIMENTOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2024,
-      "gestor": "Empírica Investimentos Gestão de Recursos Ltda.",
-      "n": 24
-    },
-    {
-      "ano": 2025,
-      "gestor": "Empírica Investimentos Gestão de Recursos Ltda.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "Guardian Gestora Ltda. (CNPJ nº 37.414.193/0001-37)",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "Guardian Gestora Ltda. (CNPJ nº 37.414.193/0001-37)",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "Riza Gestora de Recursos Ltda.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "Riza Gestora de Recursos Ltda.",
-      "n": 9
-    },
-    {
       "ano": 2026,
       "gestor": "MIRANTE INVESTIMENTOS LTDA. ME",
       "n": 1
@@ -3658,36 +6368,6 @@
       "ano": 2024,
       "gestor": "MIRANTE INVESTIMENTOS LTDA. ME",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VALORA RENDA FIXA LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "VALORA RENDA FIXA LTDA.",
-      "n": 19
-    },
-    {
-      "ano": 2024,
-      "gestor": "VALORA RENDA FIXA LTDA.",
-      "n": 26
-    },
-    {
-      "ano": 2024,
-      "gestor": "V2 INVESTIMENTOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "V2 INVESTIMENTOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "V2 INVESTIMENTOS LTDA.",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -3711,21 +6391,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "PLURAL INVESTIMENTOS GESTÃO DE RECURSOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2025,
-      "gestor": "PLURAL INVESTIMENTOS GESTÃO DE RECURSOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2026,
-      "gestor": "PLURAL INVESTIMENTOS GESTÃO DE RECURSOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2024,
       "gestor": "VOX CAPITAL GESTÃO DE RECURSOS S.A.",
       "n": 1
     },
@@ -3746,21 +6411,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "SH ASSET CAPITAL GESTÃO DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "SH ASSET CAPITAL GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "SH ASSET CAPITAL GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
       "gestor": "SFI INVESTIMENTOS LTDA.",
       "n": 1
     },
@@ -3778,21 +6428,6 @@
       "ano": 2026,
       "gestor": "GENIAL INVESTIMENTOS CORRETORA DE VALORES MOBILIÁRIOS S.A.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "EUQUEROINVESTIR GESTÃO DE RECURSOS LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "EUQUEROINVESTIR GESTÃO DE RECURSOS LTDA",
-      "n": 21
-    },
-    {
-      "ano": 2024,
-      "gestor": "EUQUEROINVESTIR GESTÃO DE RECURSOS LTDA",
-      "n": 13
     },
     {
       "ano": 2025,
@@ -3851,38 +6486,8 @@
     },
     {
       "ano": 2026,
-      "gestor": "BTG Pactual Gestora de Investimentos Alternativos Ltda.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "BTG Pactual Gestora de Investimentos Alternativos Ltda.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "BTG Pactual Gestora de Investimentos Alternativos Ltda.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "HSI GESTORA DE ATIVOS FINANCEIROS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "HSI GESTORA DE ATIVOS FINANCEIROS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
       "gestor": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - CNPJ: 65.913.436/0001-17",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SMARTSAVE GESTORA DE RECURSOS S.A.,",
-      "n": 3
     },
     {
       "ano": 2026,
@@ -3908,21 +6513,6 @@
       "ano": 2025,
       "gestor": "ICON CAPITAL LTDA.",
       "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "TERA INVESTIMENTOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "TERA INVESTIMENTOS LTDA",
-      "n": 13
-    },
-    {
-      "ano": 2024,
-      "gestor": "TERA INVESTIMENTOS LTDA",
-      "n": 12
     },
     {
       "ano": 2025,
@@ -3961,21 +6551,6 @@
     },
     {
       "ano": 2025,
-      "gestor": "LUMINA CAPITAL MANAGEMENT LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "LUMINA CAPITAL MANAGEMENT LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "LUMINA CAPITAL MANAGEMENT LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2025,
       "gestor": "SOMA ASSET GESTÃO DE INVESTIMENTOS LTDA",
       "n": 2
     },
@@ -3993,11 +6568,6 @@
       "ano": 2026,
       "gestor": "NOVA S.R.M. ADMINISTRAÇÃO DE RECURSOS E FINANÇAS S.A.",
       "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "RX ASSET LTDA",
-      "n": 2
     },
     {
       "ano": 2026,
@@ -4025,31 +6595,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "F3 ROCK GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "F3 ROCK GESTÃO DE RECURSOS LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "F3 ROCK GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "GHIA GESTÃO DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "GHIA GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
       "ano": 2025,
       "gestor": "LATINOAMERICANA DE INVESTIMENTOS E CAPITAL LTDA",
       "n": 2
@@ -4060,21 +6605,6 @@
       "n": 2
     },
     {
-      "ano": 2024,
-      "gestor": "MORE INVEST GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "MORE INVEST GESTORA DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "MORE INVEST GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2025,
       "gestor": "ÉXES GESTORA DE RECURSOS LTDA",
       "n": 5
@@ -4091,28 +6621,8 @@
     },
     {
       "ano": 2024,
-      "gestor": "ALIANZA GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "ALIANZA GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "ALIANZA GESTÃO DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2024,
       "gestor": "SI GESTORA DE FUNDOS IMOBILIÁRIOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG SPECIALTY FINANCE LTDA",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -4170,31 +6680,6 @@
       "n": 14
     },
     {
-      "ano": 2024,
-      "gestor": "STRATA CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 11
-    },
-    {
-      "ano": 2026,
-      "gestor": "STRATA CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2025,
-      "gestor": "STRATA CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "LEGATUS CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "LEGATUS CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
       "ano": 2026,
       "gestor": "ASA ASSET MANAGEMENT LTDA.",
       "n": 3
@@ -4203,31 +6688,6 @@
       "ano": 2025,
       "gestor": "ASA ASSET MANAGEMENT LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SARFATY ASSET GESTAO DE RECURSOS LTDA",
-      "n": 13
-    },
-    {
-      "ano": 2025,
-      "gestor": "SARFATY ASSET GESTAO DE RECURSOS LTDA",
-      "n": 9
-    },
-    {
-      "ano": 2024,
-      "gestor": "SARFATY ASSET GESTAO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "PRISMA CLAIMS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "PRISMA CLAIMS LTDA",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -4235,41 +6695,11 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "B.SIDE WEALTH MANAGEMENT GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "B.SIDE WEALTH MANAGEMENT GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "B.SIDE WEALTH MANAGEMENT GESTÃO DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
       "ano": 2024,
       "gestor": "MAM ASSET",
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MERITO DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2026,
       "gestor": "NERO CAPITAL GESTÃO DE RECURSOS LTDA",
       "n": 1
@@ -4278,36 +6708,6 @@
       "ano": 2025,
       "gestor": "NERO CAPITAL GESTÃO DE RECURSOS LTDA",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "BTG PACTUAL ASSET MANAGEMENT S.A. DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "JGP GESTÃO DE CRÉDITO LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "JGP GESTÃO DE CRÉDITO LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "JGP GESTÃO DE CRÉDITO LTDA.",
-      "n": 3
     },
     {
       "ano": 2025,
@@ -4321,16 +6721,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "FARMTECH GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "FARMTECH GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
       "gestor": "SVN GESTORA DE RECURSOS LTDA",
       "n": 1
     },
@@ -4343,26 +6733,6 @@
       "ano": 2025,
       "gestor": "SVN GESTORA DE RECURSOS LTDA",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ROOT CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "ROOT CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ROOT CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "Radix Portfolio Gestão de Investimentos Ltda.",
-      "n": 3
     },
     {
       "ano": 2026,
@@ -4391,11 +6761,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "SPECIAL SITUATIONS NEO GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2026,
       "gestor": "ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A",
       "n": 1
     },
@@ -4406,41 +6771,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "NETZ ASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "NETZ ASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2025,
-      "gestor": "G5 ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 21
-    },
-    {
-      "ano": 2026,
-      "gestor": "G5 ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "G5 ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2026,
-      "gestor": "ERFOLG GESTORA DE RECURSOS S/A",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "ERFOLG GESTORA DE RECURSOS S/A",
-      "n": 2
-    },
-    {
-      "ano": 2026,
       "gestor": "SOLIS INVESTIMENTOS S.A E ITER GESTORA DE RECURSOS LTDA",
       "n": 3
     },
@@ -4451,21 +6781,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "QI GESTÃO DE RECURSOS LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "QI GESTÃO DE RECURSOS LTDA",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "QI GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
       "gestor": "SOSU CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
       "n": 5
     },
@@ -4473,40 +6788,10 @@
       "ano": 2025,
       "gestor": "SOSU CAPITAL GESTÃO DE INVESTIMENTOS LTDA.",
       "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "LESTE FINANCIAL SERVICES GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "LESTE FINANCIAL SERVICES GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "LESTE FINANCIAL SERVICES GESTÃO DE RECURSOS LTDA.",
-      "n": 2
     },
     {
       "ano": 2026,
       "gestor": "Apolo Administração de Recursos Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "FRAM CAPITAL - GESTAO DE ATIVOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "FRAM CAPITAL - GESTAO DE ATIVOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "FRAM CAPITAL - GESTAO DE ATIVOS LTDA.",
       "n": 1
     },
     {
@@ -4526,48 +6811,13 @@
     },
     {
       "ano": 2026,
-      "gestor": "REDASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "REDASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "REDASSET GESTÃO DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
       "gestor": "CERRADO GESTÃO DE ATIVOS LTDA",
       "n": 1
     },
     {
       "ano": 2026,
-      "gestor": "UTILITY GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "UTILITY GESTORA DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "UTILITY GESTORA DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
       "gestor": "EB CAPITAL CRÉDITO PRIVADO LTDA",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "LIFT GESTORA DE RECURSOS S.A.,",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -4651,31 +6901,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "Libertas S A",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "Libertas S A",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "LIBERTAS ASSET S/A",
-      "n": 16
-    },
-    {
-      "ano": 2024,
-      "gestor": "LIBERTAS ASSET S/A",
-      "n": 33
-    },
-    {
-      "ano": 2026,
-      "gestor": "LIBERTAS ASSET S/A",
-      "n": 13
-    },
-    {
-      "ano": 2024,
       "gestor": "InvestCoop Asset Management Ltda",
       "n": 2
     },
@@ -4698,21 +6923,6 @@
       "ano": 2026,
       "gestor": "OCTANTE GESTÃO DE RECURSOS LTDA.",
       "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "EXT CAPITAL LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "EXT CAPITAL LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "EXT CAPITAL LTDA.",
-      "n": 6
     },
     {
       "ano": 2025,
@@ -4758,121 +6968,11 @@
       "ano": 2024,
       "gestor": "BSWM GESTAO DE RECURSOS LTDA",
       "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "FIELD GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "FIELD GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "FIELD GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CONTEA CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 19
-    },
-    {
-      "ano": 2024,
-      "gestor": "CONTEA CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 23
-    },
-    {
-      "ano": 2026,
-      "gestor": "CONTEA CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "TERRA GESTORA DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "TERRA GESTORA DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "TERRA GESTORA DE RECURSOS LTDA",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "MILÊNIO CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "MILÊNIO CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
-      "n": 17
-    },
-    {
-      "ano": 2026,
-      "gestor": "MILÊNIO CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
-      "n": 12
     },
     {
       "ano": 2025,
       "gestor": "MILENIO CAPITAL GESTÃO DE INVESTIMENTO LTDA",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "HARBOUR CAPITAL ADMINISTRADORA DE CARTEIRAS DE VALORES MOBILIÁRIOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "HARBOUR CAPITAL ADMINISTRADORA DE CARTEIRAS DE VALORES MOBILIÁRIOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "HARBOUR CAPITAL ADMINISTRADORA DE CARTEIRAS DE VALORES MOBILIÁRIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "INTRABANK ASSET MANAGEMENT LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "INTRABANK ASSET MANAGEMENT LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "INTRABANK ASSET MANAGEMENT LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2025,
-      "gestor": "VERT GESTORA DE RECURSOS FINANCEIROS LTDA.",
-      "n": 30
-    },
-    {
-      "ano": 2026,
-      "gestor": "VERT GESTORA DE RECURSOS FINANCEIROS LTDA.",
-      "n": 20
-    },
-    {
-      "ano": 2024,
-      "gestor": "VERT GESTORA DE RECURSOS FINANCEIROS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2026,
-      "gestor": "IORQ GESTÃO DE RECURSOS LTDA.",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -4916,21 +7016,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "CARMEL GESTORA DE ATIVOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "CARMEL GESTORA DE ATIVOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "CARMEL GESTORA DE ATIVOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
       "gestor": "Ello Asset",
       "n": 1
     },
@@ -4946,28 +7031,8 @@
     },
     {
       "ano": 2024,
-      "gestor": "GFS ATIVOS FINANCEIROS E INVESTIMENTOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
       "gestor": "CULTINVEST ASSET MANAGEMENT LTDA",
       "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "ANGÁ ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 21
-    },
-    {
-      "ano": 2026,
-      "gestor": "ANGÁ ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "ANGÁ ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 27
     },
     {
       "ano": 2026,
@@ -4991,31 +7056,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "Polígono Capital Ltda.",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "Polígono Capital Ltda.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "ECO GESTÃO DE ATIVOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ECO GESTÃO DE ATIVOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "ECO GESTÃO DE ATIVOS LTDA",
-      "n": 12
-    },
-    {
-      "ano": 2024,
       "gestor": "NEBRASKA CAPITAL GESTÃO DE RECURSOS LTDA",
       "n": 2
     },
@@ -5033,36 +7073,11 @@
       "ano": 2025,
       "gestor": "VALORA GESTÃO DE INVESTIMENTOS RENDA FIXA LTDA.",
       "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "RJ GESTÃO DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "RJ GESTÃO DE RECURSOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "RJ GESTÃO DE RECURSOS LTDA",
-      "n": 2
     },
     {
       "ano": 2024,
       "gestor": "IBBRA GESTÃO DE RECURSOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG GESTÃO DE CRÉDITO LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG GESTÃO DE CRÉDITO LTDA.",
-      "n": 10
     },
     {
       "ano": 2024,
@@ -5105,21 +7120,6 @@
       "n": 2
     },
     {
-      "ano": 2024,
-      "gestor": "ALGARVE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 13
-    },
-    {
-      "ano": 2026,
-      "gestor": "ALGARVE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "ALGARVE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
       "ano": 2025,
       "gestor": "PATRIMONIAL GESTÃO DE RECURSOSLTDA.",
       "n": 1
@@ -5145,42 +7145,12 @@
       "n": 2
     },
     {
-      "ano": 2024,
-      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
       "ano": 2025,
       "gestor": "10.405.423/0001-45",
       "n": 1
     },
     {
       "ano": 2025,
-      "gestor": "AVENTIS GESTÃO DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "AVENTIS GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "AVENTIS GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
       "gestor": "EXT CAPITAL LTDA. e SOLIS INVESTIMENTOS LTDA.",
       "n": 2
     },
@@ -5198,36 +7168,6 @@
       "ano": 2025,
       "gestor": "HYPERION ASSET MANAGEMENT LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "EVEREST CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2025,
-      "gestor": "EVEREST CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2024,
-      "gestor": "EVEREST CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "CATÁLISE INVESTIMENTOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2026,
-      "gestor": "CATÁLISE INVESTIMENTOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "CATÁLISE INVESTIMENTOS LTDA.",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -5253,21 +7193,6 @@
       "ano": 2025,
       "gestor": "GOOROO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MULTIPLIKE GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "MULTIPLIKE GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "MULTIPLIKE GESTÃO DE RECURSOS LTDA.",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -5301,31 +7226,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "LESTE CREDIT GESTÃO DE RECURSOS LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "LESTE CREDIT GESTÃO DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "MULTINVEST CAPITAL ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "MULTINVEST CAPITAL ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
-      "gestor": "MULTINVEST CAPITAL ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
       "gestor": "M ASSET MANAGEMENT LTDA",
       "n": 3
     },
@@ -5333,21 +7233,6 @@
       "ano": 2025,
       "gestor": "M ASSET MANAGEMENT LTDA",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "M ASSET MANAGEMENTE LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "VALORA GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "VALORA GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 3
     },
     {
       "ano": 2025,
@@ -5358,51 +7243,6 @@
       "ano": 2024,
       "gestor": "JUSCAPITAL",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Lacan Investimentos e Participações Ltda.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "Lacan Investimentos e Participações Ltda.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "Lacan Investimentos e Participações Ltda.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "MONETIZA INVESTIMENTOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "MONETIZA INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "MONETIZA INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "4i CAPITAL LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "4i CAPITAL LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "4i CAPITAL LTDA.",
-      "n": 2
     },
     {
       "ano": 2024,
@@ -5436,43 +7276,8 @@
     },
     {
       "ano": 2024,
-      "gestor": "QUADRA GESTÃO DE RECURSOS S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "QUADRA GESTÃO DE RECURSOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "QUADRA GESTÃO DE RECURSOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "OUTFIELD VENTURES LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "OUTFIELD VENTURES LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "OUTFIELD VENTURES LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
       "gestor": "CLOUD 9 CAPITAL LTDA",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 19
     },
     {
       "ano": 2024,
@@ -5511,56 +7316,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "Vinci Infraestrutura Gestora de Recursos Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Vinci Infraestrutura Gestora de Recursos Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "AUSTER CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "AUSTER CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "AUSTER CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "CY.CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "CY.CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CY.CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Noronha Trust Ltda.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
-      "gestor": "Noronha Trust Ltda.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
       "gestor": "TMF Brasil Serviços de Administração de Fundo Ltda.",
       "n": 1
     },
@@ -5568,16 +7323,6 @@
       "ano": 2025,
       "gestor": "GR GESTAO DE RECURSOS LTDA",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "MMZR Gestora de Recursos Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MMZR Gestora de Recursos Ltda.",
-      "n": 2
     },
     {
       "ano": 2024,
@@ -5597,21 +7342,6 @@
     {
       "ano": 2024,
       "gestor": "TM3 CAPITAL S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Iggy Investimentos Ltda",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "HOPE ASSET GESTAO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "HOPE ASSET GESTAO DE RECURSOS LTDA.",
       "n": 1
     },
     {
@@ -5646,16 +7376,6 @@
     },
     {
       "ano": 2025,
-      "gestor": "SÃO PEDRO CAPITAL INVESTIMENTOS S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "SÃO PEDRO CAPITAL INVESTIMENTOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
       "gestor": "FICTOR ASSET LTDA.",
       "n": 2
     },
@@ -5672,21 +7392,6 @@
     {
       "ano": 2025,
       "gestor": "NORTH SEA GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "10b GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "10b GESTORA DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "10b GESTORA DE RECURSOS LTDA.",
       "n": 1
     },
     {
@@ -5736,42 +7441,12 @@
     },
     {
       "ano": 2026,
-      "gestor": "Lakewood Gestão de Recursos Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "Lakewood Gestão de Recursos Ltda.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
       "gestor": "BIRD CAPITAL LTDA.",
       "n": 1
     },
     {
       "ano": 2024,
       "gestor": "BIRD CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "KPTL Investimentos LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "KPTL Investimentos LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "BB Gestão de Recursos Distribuidora de títulos e valores mobiliários S.A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BB Gestão de Recursos Distribuidora de títulos e valores mobiliários S.A",
       "n": 1
     },
     {
@@ -5797,21 +7472,6 @@
     {
       "ano": 2025,
       "gestor": "GALOPPO GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "SUNO GESTORA DE RECURSOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "SUNO GESTORA DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "SUNO GESTORA DE RECURSOS LTDA.",
       "n": 2
     },
     {
@@ -5841,48 +7501,8 @@
     },
     {
       "ano": 2025,
-      "gestor": "GIAA Investimentos Gestora de Recursos Ltda.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
-      "gestor": "GIAA Investimentos Gestora de Recursos Ltda.",
-      "n": 6
-    },
-    {
-      "ano": 2026,
-      "gestor": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
       "gestor": "Sequóia Fundos de Investimentos Ltda",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "RIO DAS PEDRAS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "RIO DAS PEDRAS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "RIO DAS PEDRAS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
-      "n": 2
     },
     {
       "ano": 2024,
@@ -5901,11 +7521,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "SPX SYN Gestão de Recursos LTDA",
-      "n": 6
-    },
-    {
-      "ano": 2024,
       "gestor": "NOAD GESTÃO DE RECURSOS LTDA.",
       "n": 1
     },
@@ -5913,16 +7528,6 @@
       "ano": 2024,
       "gestor": "SH ASSET",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BASÍLICA PARTNERS LATIN AMERICA PRIVATE EQUITY LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "BASÍLICA PARTNERS LATIN AMERICA PRIVATE EQUITY LTDA.",
-      "n": 2
     },
     {
       "ano": 2026,
@@ -5933,21 +7538,6 @@
       "ano": 2025,
       "gestor": "Riza Direct Lending Gestora de Recursos Ltda",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "RBR PRIVATE EQUITY GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "RBR PRIVATE EQUITY GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "RBR PRIVATE EQUITY GESTÃO DE RECURSOS LTDA.",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -5981,16 +7571,6 @@
     },
     {
       "ano": 2025,
-      "gestor": "Arbor Gestão de Recursos Ltda",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "Arbor Gestão de Recursos Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2025,
       "gestor": "Opus Gestão de Recursos Ltda.",
       "n": 1
     },
@@ -6013,21 +7593,6 @@
       "ano": 2024,
       "gestor": "COMPOSTELA CAPITAL GESTAO DE RECURSOS LTDA",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ASTELLA INVESTIMENTOS, ASSESSORIA, GESTÃO E PARTICIPAÇÕES LTDA.",
-      "n": 5
     },
     {
       "ano": 2026,
@@ -6061,21 +7626,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "FAR - FATOR ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "FAR - FATOR ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "FAR - FATOR ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
       "gestor": "FACT INVESTMENTS GESTÃO DE RECURSOS LTDA.",
       "n": 1
     },
@@ -6106,42 +7656,7 @@
     },
     {
       "ano": 2025,
-      "gestor": "BENAVENT ASSET LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
-      "gestor": "BENAVENT ASSET LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2026,
-      "gestor": "Itaúna Capital LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "Itaúna Capital LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "Itaúna Capital LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
       "gestor": "V-CAPITAL GESTAO DE RECURSOS E INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "4UM GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "4UM GESTÃO DE RECURSOS LTDA",
       "n": 1
     },
     {
@@ -6166,47 +7681,7 @@
     },
     {
       "ano": 2025,
-      "gestor": "SCORE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "SCORE CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
       "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA.OUTFIELD VENTURES LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "NEXA FINANCE LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "NEXA FINANCE LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "NEXA FINANCE LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "AF INVEST REAL ESTATE ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "AF INVEST REAL ESTATE ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "AF INVEST REAL ESTATE ADMINISTRAÇÃO DE RECURSOS LTDA.",
       "n": 1
     },
     {
@@ -6255,16 +7730,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "CRD CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CRD CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2025,
       "gestor": "SIMPLIX ASSET MANAGEMENT LTDA.",
       "n": 1
@@ -6291,32 +7756,7 @@
     },
     {
       "ano": 2026,
-      "gestor": "NUMBER ASSET DO BRASIL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "NUMBER ASSET DO BRASIL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
       "gestor": "PRISMA CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "FIGTREE CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "FIGTREE CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "FIGTREE CAPITAL ADMINISTRAÇÃO DE RECURSOS LTDA",
       "n": 1
     },
     {
@@ -6337,16 +7777,6 @@
     {
       "ano": 2025,
       "gestor": "Ujay Capital Investimentos Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Everest Capital Office LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "Everest Capital Office LTDA",
       "n": 1
     },
     {
@@ -6380,29 +7810,9 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "INDIE CAPITAL INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "INDIE CAPITAL INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "INDIE CAPITAL INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
       "ano": 2024,
       "gestor": "Bradesco Asset Management S.A.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BANCO BTG PACTUAL S/A",
-      "n": 2
     },
     {
       "ano": 2024,
@@ -6412,21 +7822,6 @@
     {
       "ano": 2024,
       "gestor": "LANNER CORRETORA DE VALORES S.A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "QUATÁ GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "QUATÁ GESTÃO DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "QUATÁ GESTÃO DE RECURSOS LTDA",
       "n": 1
     },
     {
@@ -6470,21 +7865,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "MULTIPLICA CAPITAL ASSET MANAGEMENT LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2025,
-      "gestor": "MULTIPLICA CAPITAL ASSET MANAGEMENT LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "MULTIPLICA CAPITAL ASSET MANAGEMENT LTDA.",
-      "n": 2
-    },
-    {
       "ano": 2025,
       "gestor": "VIA INVEST GESTORA DE RECURSOS LTDA.",
       "n": 1
@@ -6508,11 +7888,6 @@
       "ano": 2025,
       "gestor": "SOLIS INVESTIMENTOS LTDA E EXT CAPITAL LTDA",
       "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "SRM EMPÍRICA GESTÃO DE CRÉDITO LTDA",
-      "n": 5
     },
     {
       "ano": 2024,
@@ -6551,16 +7926,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "POLO CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "POLO CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
       "gestor": "JUGIS CAPITAL GESTÃO DE RECURSOS LTDA",
       "n": 1
     },
@@ -6592,36 +7957,6 @@
     {
       "ano": 2024,
       "gestor": "SQUALO GESTÃO",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "QUASAR ASSET MANAGEMENT LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "ARTESANAL INVESTIMENTOS LTDA",
-      "n": 80
-    },
-    {
-      "ano": 2026,
-      "gestor": "ARTESANAL INVESTIMENTOS LTDA",
-      "n": 13
-    },
-    {
-      "ano": 2025,
-      "gestor": "ARTESANAL INVESTIMENTOS LTDA",
-      "n": 51
-    },
-    {
-      "ano": 2024,
-      "gestor": "VBR CAPITAL LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "VBR CAPITAL LTDA",
       "n": 1
     },
     {
@@ -6680,21 +8015,6 @@
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "POSITIVA INVESTIMENTOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2025,
-      "gestor": "POSITIVA INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "POSITIVA INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2025,
       "gestor": "PAGE CAPITAL LTDA",
       "n": 1
@@ -6706,37 +8026,12 @@
     },
     {
       "ano": 2024,
-      "gestor": "DOMO VENTURE CAPITAL, GESTORA DE ATIVOS FINANCEIROS E VALORES MOBILIÁRIOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
       "gestor": "EMPÍRICA GESTÃO DE INVESTIMENTOS",
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "MULTIPLA GESTORA DE INVESTIMENTOS LTDA.",
-      "n": 2
-    },
-    {
       "ano": 2026,
       "gestor": "FIBRA ASSET ADMINISTRADORA DE CARTEIRA DE VALORES MOBILIÁRIOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "LEEN CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "LEEN CAPITAL LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "LEEN CAPITAL LTDA.",
       "n": 1
     },
     {
@@ -6758,21 +8053,6 @@
       "ano": 2026,
       "gestor": "XVI CAPITAL LTDA",
       "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "PATRIMONIAL GESTÃO DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "PATRIMONIAL GESTÃO DE RECURSOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2025,
-      "gestor": "PATRIMONIAL GESTÃO DE RECURSOS LTDA.",
-      "n": 9
     },
     {
       "ano": 2026,
@@ -6800,59 +8080,9 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "MDA e Fundos 21, B3 segmento CETIP",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "MDA e Fundos 21, B3 segmento CETIP",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MDA e Fundos 21, B3 segmento CETIP",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 4
-    },
-    {
       "ano": 2024,
       "gestor": "LIFETIME GESTORA DE RECURSOS LTDA",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "SPECTRA INVESTIMENTOS LTDA",
-      "n": 12
-    },
-    {
-      "ano": 2025,
-      "gestor": "SPECTRA INVESTIMENTOS LTDA",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "SPECTRA INVESTIMENTOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRAM - BRADESCO ASSET MANAGEMENT S.A DTVM",
-      "n": 3
     },
     {
       "ano": 2025,
@@ -6880,41 +8110,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "BRIDGE ONE CAPITAL LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "BRIDGE ONE CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRIDGE ONE CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ITAÚ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "BLUEOAK INVESTMENTS ASSET LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "BLUEOAK INVESTMENTS ASSET LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "BLUEOAK INVESTMENTS ASSET LTDA.",
-      "n": 4
-    },
-    {
       "ano": 2025,
       "gestor": "DRÝS CAPITAL LTDA.",
       "n": 1
@@ -6940,21 +8135,6 @@
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "BRL TRUST INVESTIMENTOS LTDA.",
-      "n": 8
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRL TRUST INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "BRL TRUST INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
       "ano": 2024,
       "gestor": "AMERICA P.E. Administração Recursos Ltda.",
       "n": 1
@@ -6976,43 +8156,8 @@
     },
     {
       "ano": 2024,
-      "gestor": "Rise Investment Management Ltda",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "Rise Investment Management Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Rise Investment Management Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2024,
       "gestor": "KPTL INVESTIMENTOS LTDA., E CEDRO ASSET MANAGEMENT LTDA e CEDRO ASSET MANAGEMENT LTDA.",
       "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "ANTHARUS GESTORA DE RECURSOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2025,
-      "gestor": "ANTHARUS GESTORA DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "LITUS GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "LITUS GESTÃO DE RECURSOS LTDA.",
-      "n": 1
     },
     {
       "ano": 2024,
@@ -7021,28 +8166,8 @@
     },
     {
       "ano": 2025,
-      "gestor": "KAMAROOPIN GESTORA DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "KAMAROOPIN GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
       "gestor": "Siguler Guff Gestora de Investimentos (Asset Management) Brasil Ltda",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "RBR INFRA GESTORA DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "RBR INFRA GESTORA DE RECURSOS LTDA",
-      "n": 2
     },
     {
       "ano": 2026,
@@ -7062,16 +8187,6 @@
     {
       "ano": 2025,
       "gestor": "ALAOF DO BRASIL ADMINISTRADORA DE VALORES MOBILIÁRIOS E CONSULTORIA LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "DESBRAVA CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "DESBRAVA CAPITAL LTDA.",
       "n": 1
     },
     {
@@ -7130,46 +8245,6 @@
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "ITAÚ UNIBANCO S.A.",
-      "n": 13
-    },
-    {
-      "ano": 2025,
-      "gestor": "ITAÚ UNIBANCO S.A.",
-      "n": 10
-    },
-    {
-      "ano": 2024,
-      "gestor": "ITAÚ UNIBANCO S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "AZ QUEST PANORAMA LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "AZ QUEST PANORAMA LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "AZ QUEST PANORAMA LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "OPEN CAPITAL GESTÃO DE ATIVOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2025,
-      "gestor": "OPEN CAPITAL GESTÃO DE ATIVOS LTDA.",
-      "n": 2
-    },
-    {
       "ano": 2024,
       "gestor": "AR Investimentos Asset Management Ltda.",
       "n": 1
@@ -7178,51 +8253,6 @@
       "ano": 2024,
       "gestor": "BREI - BRAZILIAN REAL ESTATE INVESTMENTS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ZAVIT GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "ZAVIT GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG TRUST ADMINISTRADORA DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "KIJANI GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "KIJANI GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "GENESIS CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2024,
-      "gestor": "GENESIS CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2026,
-      "gestor": "GENESIS CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -7271,21 +8301,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "AUGME CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "AUGME CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 12
-    },
-    {
-      "ano": 2026,
-      "gestor": "AUGME CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 13
-    },
-    {
-      "ano": 2024,
       "gestor": "EB CAPITAL GESTÃO DE RECURSOS LTDA. e JHSF CAPITAL LTDA.",
       "n": 1
     },
@@ -7293,36 +8308,6 @@
       "ano": 2024,
       "gestor": "Na presente data, a contratação do gestor foi dispensada nos termos do art. 5º do Anexo Normativo III da Resolução CVM 175.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "RIZA CRÉDITO ESTRUTURADO GESTORA DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "RIZA CRÉDITO ESTRUTURADO GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "RIZA CRÉDITO ESTRUTURADO GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "MONGERAL AEGON GESTÃO DE FUNDOS IMOBILIÁRIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "MONGERAL AEGON GESTÃO DE FUNDOS IMOBILIÁRIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MONGERAL AEGON GESTÃO DE FUNDOS IMOBILIÁRIOS LTDA.",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -7340,109 +8325,14 @@
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "BRESCO INVESTIMENTOS E GESTÃO LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BRESCO INVESTIMENTOS E GESTÃO LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "BRESCO INVESTIMENTOS E GESTÃO LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "HIVENTURES GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "HIVENTURES GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MARIN GESTORA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "MARIN GESTORA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "BANCO GENIAL S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BANCO GENIAL S.A.",
-      "n": 1
-    },
-    {
       "ano": 2024,
       "gestor": "GALOPPO GESTÃO DE RECURSOS LTDA. (denominação atual da BLUECAP GESTÃO DE RECURSOS LTDA.)",
       "n": 1
     },
     {
-      "ano": 2024,
-      "gestor": "LCP GESTORA DE RECURSOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "LCP GESTORA DE RECURSOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2026,
-      "gestor": "LCP GESTORA DE RECURSOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "CIX CAPITAL GESTÃO DE ATIVOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CIX CAPITAL GESTÃO DE ATIVOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "CIX CAPITAL GESTÃO DE ATIVOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
-      "gestor": "ORIZ ASSET MANAGEMENT LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "ORIZ ASSET MANAGEMENT LTDA.",
-      "n": 13
-    },
-    {
-      "ano": 2025,
-      "gestor": "ORIZ ASSET MANAGEMENT LTDA.",
-      "n": 12
-    },
-    {
       "ano": 2025,
       "gestor": "OURO PRETO GESTÃO DE RECURSOS S",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BLUECAP GESTAO DE RECURSOS LTDA.",
-      "n": 2
     },
     {
       "ano": 2025,
@@ -7455,58 +8345,13 @@
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "VINCI GESTORA DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "VINCI GESTORA DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "HECTARE CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "HECTARE CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2024,
       "gestor": "JACARANDÁ CAPITAL E GESTÃO LTDA",
       "n": 1
     },
     {
-      "ano": 2026,
-      "gestor": "CVPAR INVESTIMENTOS LTDA.",
-      "n": 9
-    },
-    {
-      "ano": 2025,
-      "gestor": "CVPAR INVESTIMENTOS LTDA.",
-      "n": 10
-    },
-    {
-      "ano": 2024,
-      "gestor": "CVPAR INVESTIMENTOS LTDA.",
-      "n": 3
-    },
-    {
       "ano": 2024,
       "gestor": "NEWPORT REAL ESTATE GESTÃO IMOBILIÁRIA LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA.",
       "n": 1
     },
     {
@@ -7546,26 +8391,6 @@
     },
     {
       "ano": 2026,
-      "gestor": "VÓRTX CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "VÓRTX CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "PATRIA VBI ASSET MANAGEMENT LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "PATRIA VBI ASSET MANAGEMENT LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
       "gestor": "KAYA ASSET GESTÃO DE RECURSOS LTDA.",
       "n": 1
     },
@@ -7600,16 +8425,6 @@
       "n": 2
     },
     {
-      "ano": 2025,
-      "gestor": "KP GESTÃO DE RECURSOS LTDA.",
-      "n": 7
-    },
-    {
-      "ano": 2024,
-      "gestor": "KP GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
       "ano": 2026,
       "gestor": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
       "n": 1
@@ -7618,21 +8433,6 @@
       "ano": 2025,
       "gestor": "LEXIS CAPITAL GESTÃO DE RECURSOS LTDA",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "JUS CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2024,
-      "gestor": "JUS CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "JUS CAPITAL GESTÃO DE RECURSOS LTDA.",
-      "n": 3
     },
     {
       "ano": 2024,
@@ -7646,21 +8446,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "INTER DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2024,
       "gestor": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.01/09/2020",
       "n": 1
     },
@@ -7668,51 +8453,6 @@
       "ano": 2026,
       "gestor": "THERAS CAPITAL GESTAO DE INVESTIMENTOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "D3 CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "D3 CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2024,
-      "gestor": "OPEA GESTORA DE RECURSOS LTDA",
-      "n": 13
-    },
-    {
-      "ano": 2025,
-      "gestor": "OPEA GESTORA DE RECURSOS LTDA",
-      "n": 8
-    },
-    {
-      "ano": 2026,
-      "gestor": "OPEA GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "VCM GESTÃO DE CAPITAL LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "VCM GESTÃO DE CAPITAL LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "VCM GESTÃO DE CAPITAL LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "PORTO REAL INVESTIMENTOS LTDA",
-      "n": 5
     },
     {
       "ano": 2025,
@@ -7796,26 +8536,6 @@
     },
     {
       "ano": 2024,
-      "gestor": "SIGA GESTORA DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "SIGA GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "NOVA SRM ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS S/A",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "NOVA SRM ADMINISTRAÇÃO DE RECURSOS DE TERCEIROS S/A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
       "gestor": "TERCON GESTORA",
       "n": 2
     },
@@ -7823,46 +8543,6 @@
       "ano": 2025,
       "gestor": "OLIVEIRA TRUST SERVICER S.A., CNPJ sob o n.º 02.150.453/0001-20",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "SQUALO CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "SQUALO CAPITAL GESTORA DE RECURSOS LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "SONAR SERVIÇOS DE INVESTIMENTO LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SONAR SERVIÇOS DE INVESTIMENTO LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "SONAR SERVIÇOS DE INVESTIMENTO LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ASA ASSET 2 GESTÃO DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "ASA ASSET 2 GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ASA ASSET 2 GESTÃO DE RECURSOS LTDA.",
-      "n": 8
     },
     {
       "ano": 2025,
@@ -7873,36 +8553,6 @@
       "ano": 2024,
       "gestor": "REAG ADMINISTRADORA DE RECUSRSOS LTDA.",
       "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "EAGLE CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "EAGLE CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "EAGLE CAPITAL GESTÃO DE INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "APUAMA CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2026,
-      "gestor": "APUAMA CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "APUAMA CAPITAL GESTORA DE RECURSOS LTDA.",
-      "n": 14
     },
     {
       "ano": 2025,
@@ -7916,42 +8566,12 @@
     },
     {
       "ano": 2024,
-      "gestor": "MOKA GESTORA DE RECURSOS DE TERCEIROS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "MOKA GESTORA DE RECURSOS DE TERCEIROS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MOKA GESTORA DE RECURSOS DE TERCEIROS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
       "gestor": "RUN INVESTIMENTOS LTDA.",
       "n": 1
     },
     {
       "ano": 2025,
       "gestor": "OURO PRETO GESTÃO DE RECURSOS S.A e OURO PRETO GESTÃO DE RECURSOS S.A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "JIVE HIGH YIELD GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "JIVE HIGH YIELD GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "JIVE HIGH YIELD GESTÃO DE RECURSOS LTDA.",
       "n": 1
     },
     {
@@ -7975,31 +8595,6 @@
       "n": 1
     },
     {
-      "ano": 2025,
-      "gestor": "BURITI INVESTIMENTOS GESTORA DE RECURSOS LTDA, CNPJ 44.696.473/0001-40",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BURITI INVESTIMENTOS GESTORA DE RECURSOS LTDA, CNPJ 44.696.473/0001-40",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "CERES ASSET GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "CERES ASSET GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CERES ASSET GESTÃO DE INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
       "ano": 2024,
       "gestor": "DIRETA CAPITAL LTDA.",
       "n": 1
@@ -8016,42 +8611,12 @@
     },
     {
       "ano": 2024,
-      "gestor": "GRIF CAPITAL GESTORA DE RECURSOS",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "GRIF CAPITAL GESTORA DE RECURSOS",
-      "n": 1
-    },
-    {
-      "ano": 2024,
       "gestor": "VALORA RENDA FIXA LTDA e EXT CAPITAL LTDA.",
       "n": 2
     },
     {
       "ano": 2024,
-      "gestor": "Nova SRM Administração de Recursos e Finanças S/A",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "Nova SRM Administração de Recursos e Finanças S/A",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "Nova SRM Administração de Recursos e Finanças S/A",
-      "n": 2
-    },
-    {
-      "ano": 2024,
       "gestor": "SOLIS INVESTIMENTOS LTDA./ EXT CAPITAL LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "ARTESANAL AGRO LTDA",
       "n": 2
     },
     {
@@ -8072,571 +8637,6 @@
     {
       "ano": 2024,
       "gestor": "AHEAD VENTURES GESTÃO DE RECURSOS E CONSULTORIA LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SPRINGS CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "SPRINGS CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "HORIZONTES ASSET LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "DOMUS CAPITAL GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "XMS S/A",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "XMS S/A",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "XMS S/A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "AMERICA PE ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "KINEA PRIVATE EQUITY INVESTIMENTOS S.A. E KINEA INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Primus Ventures LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "H2 ASSET MANAGEMENT LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "NAVI YIELD - ADMINISTRADORA E GESTORA DE RECURSOS FINANCEIROS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG VENTURE CAPITAL & GROWTH EQUITIES LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ASSET BANK MANAGEMENT LTDA.",
-      "n": 5
-    },
-    {
-      "ano": 2025,
-      "gestor": "TRIUS CAPITAL GESTÃO DE INVESTIMENTOS E CONSULTORIA LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "Niche Partners Gestora de Recursos Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MONT CAPITAL GESTÃO E ADMINISTRAÇÃO DE RECURSOS S.A.",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "Ace Outlier Capital Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "Ace Outlier Capital Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "CEDRO ASSET MANAGEMENT LTDA e KPTL INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "CASAFORTE INVESTIMENTOS S/A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "VALETEC CAPITAL DE INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "62.073.200/0001-21",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "LUCAS ESPERANÇA NAPOLITANO",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Vectis Ventures Gestão Ltda,",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "GENIAL GESTÃO LTDA.  CNPJ 22.119.959/0001-83",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "OSLO CAPITAL DTVM S.A",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Mombak Gestora de Recursos Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Fors Capital Partners Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Arena",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "ORE INVESTMENTS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "GRID GESTORA DE RECURSOS",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SHIFT CAPITAL GESTÃO DE RECURSOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "BOLDT CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "ICATU VANGUARDA GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "IGUANA INVESTIMENTO LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "STRIVO GESTORA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "SPX REAL ESTATE GESTÃO DE RECURSOS LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2026,
-      "gestor": "SPX REAL ESTATE GESTÃO DE RECURSOS LTDA.",
-      "n": 4
-    },
-    {
-      "ano": 2025,
-      "gestor": "VERDE ASSET AGRO E IMOBILIÁRIO LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "VERDE ASSET AGRO E IMOBILIÁRIO LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., CNPJ 65.913.436/0001-17",
-      "n": 6
-    },
-    {
-      "ano": 2025,
-      "gestor": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A., CNPJ 65.913.436/0001-17",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "LEBLON EQUITIES GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VINCI SPS GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "EXA CAPITAL ASSET LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2026,
-      "gestor": "EXA CAPITAL ASSET LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "REAG GESTÃO DE FUNDOS IMOBILIARIOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG GESTÃO DE FUNDOS IMOBILIARIOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BTG PACTUAL PACTUAL GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "VINCI SPS GESTÃO DE RECURSOS LTDA. e CAPITANIA CAPITAL S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "REAG HIERON INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "HSI GESTORA DE FUNDOS IMOBILIÁRIOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "YGEIA CAPITAL GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "R CAPITAL ASSET MANAGEMENT INVESTIMENTOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VINLAND CAPITAL MANAGEMENT CRÉDITO PRIVADO GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VALORA AGRO LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "BOCOM BBM CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "BOCOM BBM CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "BTG Pactual Serviços Financeiros S.A. Distribuidora de Títulos e Valores Mobiliários",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "BTG Pactual Serviços Financeiros S.A. Distribuidora de Títulos e Valores Mobiliários",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "HCAM LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "11.916.849/0001-26",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "VM Consultoria Empresarial Ltd",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "UNION CAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "QUARTZO ASSET LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "FALCON FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "NEO CRÉDITO GESTÃO DE RECURSOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "SINGULARE CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "KUARÁ CAPITAL GESTORA DE RECURSOS LTDA & ORIZ ASSET MANAGEMENT LTDA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "BLUE ASSET GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "BLUE ASSET GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "BLUE ASSET GESTÃO DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MILÊNIO CAPITAL GESTÃO DE RECURSOS DE INVESTIMENTOS LTDA",
-      "n": 4
-    },
-    {
-      "ano": 2024,
-      "gestor": "ZEUS CAPITAL GESTÃO DE RECURSOS E INVESTIMENTOS LTDA.",
-      "n": 2
-    },
-    {
-      "ano": 2026,
-      "gestor": "Mainu Investimentos LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "FIDD ADMINISTRAÇÃO DE RECURSOS DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MAUD CAPITAL GESTORA DE ATIVOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "GUARDIAN CRÉDITO LTDA.",
-      "n": 3
-    },
-    {
-      "ano": 2025,
-      "gestor": "GUARDIAN CRÉDITO LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "BDR INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Gustavo Henrique Fonseca de Oliveira",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ROCHA OPÇÕES DE INVESTIMENTOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "OURO PRETO GESTORA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ACURA GESTORA DE RECURSOS LTDA. e UTILITY GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "AUSTIN",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "MENESTYS GESTORA  DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BSIDE INVESTIMENTOS",
-      "n": 2
-    },
-    {
-      "ano": 2025,
-      "gestor": "GALAPAGOS CAPITAL INVESTIMENTOS E PARTICIPAÇÕES LTDA. / HYPERION ASSET MANAGEMENT LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "DAYCOVAL ASSET MANAGEMENT ADMINISTRACAO DERECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ACURA GESTÃO",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "DEZESSEIS DEZOITO GESTÃO DE RECURSOS LIMITADA.",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "DEZESSEIS DEZOITO GESTÃO DE RECURSOS LIMITADA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "ACURA CAPITAL",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "MAUÁ CAPITAL INVESTIMENTOS ALTERNATIVOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "SQUALO GESTORA",
-      "n": 2
-    },
-    {
-      "ano": 2024,
-      "gestor": "RJI GESTÃO & INVESTIMENTOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "BANCO GENIAL S.A.BANCO GENIAL S.A.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "4ICAPITAL LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "Galapagos capital e Empirica Investimentos",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "SOLIS INVESTIMENTOS LTDA, CNPJ 17.254.708/0001-71",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "URBANO ADMINISTRAÇÃO DE RECURSOS LTDA. e OURO PRETO GESTÃO DE RECURSOS S.A",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "EXT CAPITAL LTDA e BRAVE GESTORA DE RECURSOS LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "VALORA",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "Jive Asset Gestão de Recursos Ltda",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "OPI GOOROO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "AGBI ATIVOS REAIS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "STRUTTURA",
-      "n": 1
-    },
-    {
-      "ano": 2026,
-      "gestor": "Coinvalores Corretora de Câmbio e Valores Mobiliários Ltda.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "VERONA GESTORA DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "EXA CAPITAL ASSET LTDA e XP VISTA ASSET MANAGEMENT LTDA",
-      "n": 1
-    },
-    {
-      "ano": 2024,
-      "gestor": "TRAFALGAR GESTÃO DE RECURSOS LTDA.",
-      "n": 1
-    },
-    {
-      "ano": 2025,
-      "gestor": "OUROPRETO GESTÃO DE RECURSOS S.A",
       "n": 1
     }
   ],

@@ -1,18 +1,18 @@
 {
-  "novas_30d": 162,
-  "volume_30d": 33673165754.990005,
+  "novas_30d": 157,
+  "volume_30d": 33140452376.230003,
   "ativas_12m": 908,
   "total_ano": 1536,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1448,
-      "volume": 138205189231.16998
+      "n": 1445,
+      "volume": 137608189231.16998
     },
     {
       "tipo_fundo": "FII",
-      "n": 509,
-      "volume": 176595461985.88004
+      "n": 508,
+      "volume": 176570461985.88004
     },
     {
       "tipo_fundo": "FIP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-09",
-      "n": 180,
-      "volume": 32886813102.55999
+      "n": 176,
+      "volume": 32264813102.55999
     },
     {
       "mes": "2025-10",
@@ -100,13 +100,13 @@
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 43056022636.270004,
-      "n": 97
+      "volume": 42306022636.270004,
+      "n": 96
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 25031878141.720005,
-      "n": 233
+      "volume": 24646878141.720005,
+      "n": 227
     },
     {
       "tipo_ativo": "Debêntures",
@@ -124,30 +124,30 @@
       "n": 89
     },
     {
-      "tipo_ativo": "Notas Comerciais",
-      "volume": 3731861705.0,
-      "n": 41
-    },
-    {
       "tipo_ativo": "Cotas de FIF",
       "volume": 3406808521.7599998,
       "n": 32
     },
     {
-      "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
-      "volume": 2432700000.0,
-      "n": 20
+      "tipo_ativo": "Notas Comerciais",
+      "volume": 3263861705.0,
+      "n": 38
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 2066354009.2800002,
-      "n": 22
+      "volume": 2063656809.2800002,
+      "n": 21
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
+      "volume": 2032700000.0,
+      "n": 19
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3171
+      "n": 3156
     },
     {
       "status_cvm": "Registro Concedido",
@@ -274,8 +274,8 @@
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 9278471774.920002,
-      "n": 91
+      "volume": 9253471774.920002,
+      "n": 90
     }
   ]
 }
