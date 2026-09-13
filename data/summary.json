@@ -1,23 +1,23 @@
 {
-  "novas_30d": 175,
-  "volume_30d": 41086237527.88,
+  "novas_30d": 162,
+  "volume_30d": 37105133549.909996,
   "ativas_12m": 896,
   "total_ano": 1580,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1441,
-      "volume": 136329211381.83995
+      "n": 1431,
+      "volume": 136033911381.60995
     },
     {
       "tipo_fundo": "FII",
-      "n": 511,
-      "volume": 179759386540.79004
+      "n": 508,
+      "volume": 179734386540.79004
     },
     {
       "tipo_fundo": "FIP",
-      "n": 277,
-      "volume": 49450448427.24
+      "n": 274,
+      "volume": 48785448427.23999
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-09",
-      "n": 133,
-      "volume": 22941331685.11999
+      "n": 117,
+      "volume": 21956031684.88999
     },
     {
       "mes": "2025-10",
@@ -105,13 +105,13 @@
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 30215599285.920002,
-      "n": 232
+      "volume": 30134083285.920002,
+      "n": 230
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 26737551961.48,
-      "n": 72
+      "volume": 26552551961.48,
+      "n": 71
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -120,13 +120,13 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 9254325350.0,
-      "n": 95
+      "volume": 9094325350.0,
+      "n": 91
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 4843082005.0,
-      "n": 46
+      "volume": 4443082005.0,
+      "n": 44
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -135,8 +135,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3269111620.7599998,
-      "n": 31
+      "volume": 3266611621.47,
+      "n": 30
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,7 +147,7 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3193
+      "n": 3172
     },
     {
       "status_cvm": "Registro Concedido",
@@ -166,12 +166,12 @@
       "n": 25
     },
     {
-      "status_cvm": "Oferta Suspensa",
+      "status_cvm": "Requerimento Expirado",
       "n": 6
     },
     {
-      "status_cvm": "Requerimento Expirado",
-      "n": 6
+      "status_cvm": "Oferta Suspensa",
+      "n": 5
     }
   ],
   "top_emissores": [
@@ -249,8 +249,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 17833145263.539997,
-      "n": 153
+      "volume": 17688145263.539997,
+      "n": 150
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
