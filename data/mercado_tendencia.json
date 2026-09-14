@@ -150,22 +150,22 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1091,
-      "volume": 103737790545.64998,
+      "n": 1098,
+      "volume": 104115290545.64998,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
       "n": 333,
-      "volume": 115596108435.56003,
+      "volume": 116096108440.70003,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 156,
-      "volume": 31337357730.699997,
+      "n": 158,
+      "volume": 31492357730.699997,
       "ativas": 0
     }
   ],
@@ -318,7 +318,7 @@
       "mes": "2026-05",
       "tipo_fundo": "Cotas de FIDC",
       "n": 150,
-      "volume": 9538742604.27
+      "volume": 9638742604.27
     },
     {
       "mes": "2026-05",
@@ -378,7 +378,7 @@
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FII",
       "n": 49,
-      "volume": 28829362678.469997
+      "volume": 28829362663.649998
     },
     {
       "mes": "2026-08",
@@ -389,20 +389,20 @@
     {
       "mes": "2026-09",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 34,
-      "volume": 2413921150.81
+      "n": 41,
+      "volume": 2691421150.81
     },
     {
       "mes": "2026-09",
       "tipo_fundo": "Cotas de FII",
       "n": 18,
-      "volume": 5616891945.940001
+      "volume": 6116891965.9
     },
     {
       "mes": "2026-09",
       "tipo_fundo": "Cotas de FIP",
-      "n": 8,
-      "volume": 1405138409.17
+      "n": 10,
+      "volume": 1560138409.17
     }
   ],
   "ticket": [
@@ -535,20 +535,20 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 96.14,
-      "n": 1079
+      "ticket_medio": 95.78,
+      "n": 1087
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 348.18,
-      "n": 332
+      "ticket_medio": 348.64,
+      "n": 333
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 200.88,
-      "n": 156
+      "ticket_medio": 199.32,
+      "n": 158
     }
   ]
 }
