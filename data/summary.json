@@ -1,35 +1,35 @@
 {
-  "novas_30d": 170,
-  "volume_30d": 35930452471.57001,
-  "ativas_12m": 894,
-  "total_ano": 1593,
+  "novas_30d": 183,
+  "volume_30d": 37599764965.17999,
+  "ativas_12m": 898,
+  "total_ano": 1606,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1439,
-      "volume": 136487661381.60994
+      "n": 1440,
+      "volume": 137148373592.92998
     },
     {
       "tipo_fundo": "FII",
-      "n": 509,
-      "volume": 181040344245.5901
+      "n": 510,
+      "volume": 181558843643.95007
     },
     {
       "tipo_fundo": "FIP",
-      "n": 276,
-      "volume": 48940448427.23999
+      "n": 275,
+      "volume": 49065449256.24
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 231,
-      "volume": 12366335958.93
+      "n": 232,
+      "volume": 12541335958.93
     }
   ],
   "por_mes": [
     {
       "mes": "2025-09",
-      "n": 117,
-      "volume": 21956031684.88999
+      "n": 106,
+      "volume": 21765931629.95999
     },
     {
       "mes": "2025-10",
@@ -83,60 +83,60 @@
     },
     {
       "mes": "2026-08",
-      "n": 171,
-      "volume": 49089481457.82001
+      "n": 172,
+      "volume": 49284481457.82001
     },
     {
       "mes": "2026-09",
-      "n": 73,
-      "volume": 11252959225.539999
+      "n": 85,
+      "volume": 12727271719.15
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 256476131575.19,
-      "n": 28
+      "volume": 256576131575.19,
+      "n": 31
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 46442913805.04,
-      "n": 98
+      "volume": 47001414298.65,
+      "n": 101
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 27663289869.48,
-      "n": 80
+      "volume": 28205789869.48,
+      "n": 81
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 27187632846.100002,
-      "n": 221
+      "volume": 26892960846.100002,
+      "n": 215
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 14654312000.0,
-      "n": 12
+      "volume": 14344312000.0,
+      "n": 11
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 9123314350.0,
-      "n": 88
-    },
-    {
-      "tipo_ativo": "Notas Comerciais",
-      "volume": 4543082005.0,
-      "n": 47
+      "volume": 9159414350.0,
+      "n": 86
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3984111621.47,
-      "n": 32
+      "volume": 3826211621.47,
+      "n": 28
+    },
+    {
+      "tipo_ativo": "Notas Comerciais",
+      "volume": 3656052605.0,
+      "n": 46
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 3147142609.28,
-      "n": 24
+      "volume": 3297142609.28,
+      "n": 25
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,7 +147,7 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3200
+      "n": 3202
     },
     {
       "status_cvm": "Registro Concedido",
@@ -155,7 +155,7 @@
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 44
+      "n": 46
     },
     {
       "status_cvm": "Registro Caducado",
@@ -166,12 +166,12 @@
       "n": 25
     },
     {
-      "status_cvm": "Requerimento Expirado",
+      "status_cvm": "Oferta Suspensa",
       "n": 5
     },
     {
-      "status_cvm": "Oferta Suspensa",
-      "n": 5
+      "status_cvm": "Requerimento Expirado",
+      "n": 4
     }
   ],
   "top_emissores": [
@@ -191,14 +191,14 @@
       "n": 1
     },
     {
-      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
-      "volume": 5500000000.0,
-      "n": 2
-    },
-    {
       "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
       "volume": 5500000000.0,
       "n": 1
+    },
+    {
+      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+      "volume": 5500000000.0,
+      "n": 2
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -234,13 +234,13 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 57533921615.72,
+      "volume": 57825321615.72,
       "n": 98
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34023115400.890003,
-      "n": 179
+      "volume": 34073115400.890003,
+      "n": 180
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -249,13 +249,13 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 18066895263.539997,
+      "volume": 18082908092.539997,
       "n": 153
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
       "volume": 17641979809.4,
-      "n": 28
+      "n": 29
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
@@ -274,8 +274,8 @@
     },
     {
       "coordenador": "BANCO SAFRA S/A",
-      "volume": 9284922303.949999,
-      "n": 16
+      "volume": 9459922303.949999,
+      "n": 17
     }
   ]
 }
