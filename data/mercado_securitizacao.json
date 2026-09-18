@@ -30,8 +30,8 @@
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1400,
       "n_encerradas": 1381,
-      "vol_ofertado": 109531670124.23,
-      "vol_encerrado": 108274470129.70999,
+      "vol_ofertado": 109531670124.23001,
+      "vol_encerrado": 108274470129.71,
       "taxa_encerramento": 98.6,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -74,7 +74,7 @@
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1713,
       "n_encerradas": 1616,
-      "vol_ofertado": 133231554102.61012,
+      "vol_ofertado": 133231554102.61009,
       "vol_encerrado": 130456388953.38011,
       "taxa_encerramento": 94.3,
       "vol_distribuido_anbima": null,
@@ -85,7 +85,7 @@
       "tipo_ativo": "FII",
       "n_ofertadas": 425,
       "n_encerradas": 408,
-      "vol_ofertado": 119994915402.85,
+      "vol_ofertado": 119994915402.85002,
       "vol_encerrado": 117850756159.34003,
       "taxa_encerramento": 96.0,
       "vol_distribuido_anbima": null,
@@ -105,11 +105,11 @@
     {
       "ano": 2026,
       "tipo_ativo": "Debêntures",
-      "n_ofertadas": 334,
+      "n_ofertadas": 335,
       "n_encerradas": 298,
-      "vol_ofertado": 186752447054.48,
+      "vol_ofertado": 190320669054.48,
       "vol_encerrado": 183389168843.48,
-      "taxa_encerramento": 89.2,
+      "taxa_encerramento": 89.0,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     },
@@ -117,32 +117,32 @@
       "ano": 2026,
       "tipo_ativo": "FII",
       "n_ofertadas": 342,
-      "n_encerradas": 190,
+      "n_encerradas": 193,
       "vol_ofertado": 118748695697.74004,
-      "vol_encerrado": 59233990151.86,
-      "taxa_encerramento": 55.6,
+      "vol_encerrado": 59638990151.86,
+      "taxa_encerramento": 56.4,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     },
     {
       "ano": 2026,
       "tipo_ativo": "FIDC",
-      "n_ofertadas": 1123,
-      "n_encerradas": 491,
-      "vol_ofertado": 107399952545.64998,
-      "vol_encerrado": 63754081500.98001,
-      "taxa_encerramento": 43.7,
+      "n_ofertadas": 1127,
+      "n_encerradas": 494,
+      "vol_ofertado": 107459952546.11998,
+      "vol_encerrado": 63796781500.98001,
+      "taxa_encerramento": 43.8,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     },
     {
       "ano": 2026,
       "tipo_ativo": "FIP",
-      "n_ofertadas": 159,
+      "n_ofertadas": 161,
       "n_encerradas": 87,
-      "vol_ofertado": 31642357730.699997,
+      "vol_ofertado": 31847164547.259995,
       "vol_encerrado": 21137275918.16,
-      "taxa_encerramento": 54.7,
+      "taxa_encerramento": 54.0,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     }
@@ -162,7 +162,7 @@
       "ano": 2025,
       "n_ofertadas": 3047,
       "n_encerradas": 2916,
-      "vol_ofertado": 743591337275.5598,
+      "vol_ofertado": 743591337275.5599,
       "vol_encerrado": 736875445882.8198,
       "taxa_encerramento": 95.7,
       "vol_distribuido_anbima": null,
@@ -170,11 +170,11 @@
     },
     {
       "ano": 2026,
-      "n_ofertadas": 1958,
-      "n_encerradas": 1066,
-      "vol_ofertado": 444543453028.56995,
-      "vol_encerrado": 327514516414.48004,
-      "taxa_encerramento": 54.4,
+      "n_ofertadas": 1965,
+      "n_encerradas": 1072,
+      "vol_ofertado": 448376481845.6,
+      "vol_encerrado": 327962216414.48004,
+      "taxa_encerramento": 54.6,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     }
@@ -247,7 +247,7 @@
     {
       "ano": 2026,
       "tipo_ativo": "FIDC",
-      "vol_ofertado_cvm": 30095887836.570015,
+      "vol_ofertado_cvm": 30095887836.57001,
       "n_encerradas_cvm": 347,
       "vol_encerrado_anbima": 21390340555.28416,
       "n_encerradas_anbima": 0
@@ -280,7 +280,7 @@
   "captacao_consolidado": [
     {
       "ano": 2024,
-      "vol_ofertado_cvm": 749785601977.0299,
+      "vol_ofertado_cvm": 749785601977.03,
       "n_encerradas_cvm": 3179,
       "vol_encerrado_anbima": 601284794402.6056,
       "n_encerradas_anbima": 0
