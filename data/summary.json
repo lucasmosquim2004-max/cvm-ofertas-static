@@ -1,13 +1,13 @@
 {
-  "novas_30d": 192,
-  "volume_30d": 39418137806.55999,
+  "novas_30d": 184,
+  "volume_30d": 38771983201.429985,
   "ativas_12m": 903,
   "total_ano": 1630,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1448,
-      "volume": 138864673590.3
+      "n": 1447,
+      "volume": 138660673590.3
     },
     {
       "tipo_fundo": "FII",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 233,
-      "volume": 12565335958.93
+      "n": 232,
+      "volume": 12540335958.93
     }
   ],
   "por_mes": [
     {
       "mes": "2025-09",
-      "n": 93,
-      "volume": 20143431626.859997
+      "n": 91,
+      "volume": 19914431626.859997
     },
     {
       "mes": "2025-10",
@@ -100,18 +100,18 @@
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 48289543362.42,
-      "n": 106
+      "volume": 47994343362.42,
+      "n": 105
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 32704011869.48,
-      "n": 84
+      "volume": 32014011869.48,
+      "n": 82
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 29198260846.570004,
-      "n": 232
+      "volume": 29028260836.29,
+      "n": 229
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -120,8 +120,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 9199414350.0,
-      "n": 88
+      "volume": 8571767350.0,
+      "n": 87
     },
     {
       "tipo_ativo": "Notas Comerciais",
@@ -130,13 +130,13 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3871211621.47,
-      "n": 30
+      "volume": 3671211621.47,
+      "n": 29
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 3501949425.84,
-      "n": 27
+      "volume": 3251945226.7300005,
+      "n": 26
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,7 +147,7 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3206
+      "n": 3203
     },
     {
       "status_cvm": "Registro Concedido",
@@ -254,8 +254,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 17978976519.109997,
-      "n": 154
+      "volume": 17774976519.109997,
+      "n": 153
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
