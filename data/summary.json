@@ -1,13 +1,13 @@
 {
-  "novas_30d": 200,
-  "volume_30d": 37805816687.50999,
-  "ativas_12m": 905,
+  "novas_30d": 194,
+  "volume_30d": 33315816687.390003,
+  "ativas_12m": 904,
   "total_ano": 1682,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1454,
-      "volume": 143265896515.66
+      "n": 1443,
+      "volume": 141834898084.60004
     },
     {
       "tipo_fundo": "FII",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-09",
-      "n": 53,
-      "volume": 10512872006.93
+      "n": 42,
+      "volume": 9081873575.87
     },
     {
       "mes": "2025-10",
@@ -95,28 +95,28 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 256633635875.13,
-      "n": 34
+      "volume": 256558526500.13,
+      "n": 33
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 48929525996.42,
-      "n": 115
+      "volume": 48108045950.22,
+      "n": 110
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 39978116861.479996,
-      "n": 93
+      "volume": 38490116861.479996,
+      "n": 89
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 32865330152.739998,
-      "n": 239
+      "volume": 32686877152.820004,
+      "n": 233
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 9648252350.0,
-      "n": 91
+      "volume": 9563252350.0,
+      "n": 90
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -140,18 +140,18 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
-      "volume": 2732700000.0,
-      "n": 19
+      "volume": 2683000000.0,
+      "n": 18
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3219
+      "n": 3199
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1245
+      "n": 1244
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
@@ -249,8 +249,8 @@
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 20221939809.4,
-      "n": 31
+      "volume": 19721939809.4,
+      "n": 30
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
