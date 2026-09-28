@@ -105,10 +105,10 @@
     {
       "ano": 2026,
       "tipo_ativo": "Debêntures",
-      "n_ofertadas": 346,
-      "n_encerradas": 314,
-      "vol_ofertado": 198284774046.48,
-      "vol_encerrado": 191615468648.48,
+      "n_ofertadas": 348,
+      "n_encerradas": 316,
+      "vol_ofertado": 199589774046.48,
+      "vol_encerrado": 193315468648.48,
       "taxa_encerramento": 90.8,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
@@ -116,33 +116,33 @@
     {
       "ano": 2026,
       "tipo_ativo": "FII",
-      "n_ofertadas": 359,
+      "n_ofertadas": 360,
       "n_encerradas": 205,
       "vol_ofertado": 122701206152.09004,
       "vol_encerrado": 65909897463.05999,
-      "taxa_encerramento": 57.1,
+      "taxa_encerramento": 56.9,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     },
     {
       "ano": 2026,
       "tipo_ativo": "FIDC",
-      "n_ofertadas": 1160,
-      "n_encerradas": 521,
-      "vol_ofertado": 112663921863.34999,
-      "vol_encerrado": 68375091520.19002,
-      "taxa_encerramento": 44.9,
+      "n_ofertadas": 1163,
+      "n_encerradas": 526,
+      "vol_ofertado": 113713921863.34996,
+      "vol_encerrado": 69462261520.25,
+      "taxa_encerramento": 45.2,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     },
     {
       "ano": 2026,
       "tipo_ativo": "FIP",
-      "n_ofertadas": 163,
-      "n_encerradas": 94,
-      "vol_ofertado": 32347164086.169994,
-      "vol_encerrado": 22831106241.92,
-      "taxa_encerramento": 57.7,
+      "n_ofertadas": 164,
+      "n_encerradas": 96,
+      "vol_ofertado": 32447164086.169994,
+      "vol_encerrado": 23731106241.92,
+      "taxa_encerramento": 58.5,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     }
@@ -170,11 +170,11 @@
     },
     {
       "ano": 2026,
-      "n_ofertadas": 2028,
-      "n_encerradas": 1134,
-      "vol_ofertado": 465997066148.08984,
-      "vol_encerrado": 348731563873.65,
-      "taxa_encerramento": 55.9,
+      "n_ofertadas": 2035,
+      "n_encerradas": 1143,
+      "vol_ofertado": 468452066148.08984,
+      "vol_encerrado": 352418733873.71,
+      "taxa_encerramento": 56.2,
       "vol_distribuido_anbima": null,
       "n_distribuidas_anbima": null
     }
