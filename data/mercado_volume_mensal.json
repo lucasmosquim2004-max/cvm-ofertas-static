@@ -1730,9 +1730,15 @@
     },
     {
       "mes": "2026-09",
+      "valor_mobiliario": "Certificados de Recebíveis",
+      "volume": 320000000.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-09",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 3088780000.0,
-      "n": 38
+      "volume": 3441287000.0,
+      "n": 40
     },
     {
       "mes": "2026-09",
@@ -1749,8 +1755,8 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 10690052468.509998,
-      "n": 106
+      "volume": 11173802468.509998,
+      "n": 112
     },
     {
       "mes": "2026-09",
@@ -1761,8 +1767,8 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 12526989677.289999,
-      "n": 44
+      "volume": 15874391786.369999,
+      "n": 46
     },
     {
       "mes": "2026-09",
@@ -1785,8 +1791,8 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Debêntures",
-      "volume": 19878814900.0,
-      "n": 51
+      "volume": 26332892130.0,
+      "n": 55
     },
     {
       "mes": "2026-09",
@@ -1797,8 +1803,8 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Outros títulos de securitização",
-      "volume": 250000000.0,
-      "n": 3
+      "volume": 1285000000.0,
+      "n": 5
     }
   ]
 }
