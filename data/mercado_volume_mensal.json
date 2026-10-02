@@ -1539,7 +1539,7 @@
     {
       "mes": "2026-07",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 7255725075.13,
+      "volume": 5654971075.13,
       "n": 19
     },
     {
@@ -1658,12 +1658,6 @@
     },
     {
       "mes": "2026-09",
-      "valor_mobiliario": "Certificado de Direitos Creditórios do Agronegócio",
-      "volume": 0.0,
-      "n": 1
-    },
-    {
-      "mes": "2026-09",
       "valor_mobiliario": "Certificados de Recebíveis",
       "volume": 320000000.0,
       "n": 1
@@ -1683,13 +1677,13 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 9406100000.130001,
+      "volume": 9479619056.130001,
       "n": 16
     },
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 13964452468.84,
+      "volume": 14090452468.84,
       "n": 131
     },
     {
@@ -1725,7 +1719,7 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Debêntures",
-      "volume": 31750272358.88,
+      "volume": 32035272358.88,
       "n": 58
     },
     {
@@ -1737,8 +1731,56 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Outros títulos de securitização",
-      "volume": 1285000000.0,
-      "n": 5
+      "volume": 3384183000.0,
+      "n": 6
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
+      "volume": 0.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
+      "volume": 240000000.0,
+      "n": 3
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Cotas de FIAGRO",
+      "volume": 30000943.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Cotas de FIDC",
+      "volume": 911500000.0,
+      "n": 8
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Cotas de FII",
+      "volume": 90878000.0,
+      "n": 2
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Cotas de FIP",
+      "volume": 1000000000.0,
+      "n": 2
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Debêntures",
+      "volume": 0.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Outros títulos de securitização",
+      "volume": 0.0,
+      "n": 2
     }
   ]
 }
