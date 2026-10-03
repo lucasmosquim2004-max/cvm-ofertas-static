@@ -97,7 +97,7 @@
       "n_encerradas": 8399,
       "n_ativas": 789,
       "n_com_anbima": 0,
-      "total_ofertado": 736258953760.4791,
+      "total_ofertado": 736258953760.479,
       "total_captado": 0.0,
       "taxa_media": 0.0,
       "taxa_mediana": 0.0
@@ -129,19 +129,19 @@
     {
       "mes": "2024-10",
       "tipo_fundo": "Cotas de FIP",
-      "ofertado": 8398472455.719999,
+      "ofertado": 8242222455.719999,
       "captado": 0.0
     },
     {
       "mes": "2024-10",
       "tipo_fundo": "Cotas de FIDC",
-      "ofertado": 15086581362.960001,
+      "ofertado": 15051951767.630001,
       "captado": 0.0
     },
     {
       "mes": "2024-10",
       "tipo_fundo": "Cotas de FII",
-      "ofertado": 7744255724.0,
+      "ofertado": 7434255724.0,
       "captado": 0.0
     },
     {
