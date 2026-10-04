@@ -1,18 +1,18 @@
 {
-  "novas_30d": 201,
-  "volume_30d": 34150670613.7,
-  "ativas_12m": 917,
+  "novas_30d": 191,
+  "volume_30d": 32752150592.32,
+  "ativas_12m": 916,
   "total_ano": 1735,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1442,
-      "volume": 145260298966.83008
+      "n": 1434,
+      "volume": 144143998966.83002
     },
     {
       "tipo_fundo": "FII",
-      "n": 519,
-      "volume": 175131675044.2801
+      "n": 517,
+      "volume": 173284803827.84006
     },
     {
       "tipo_fundo": "FIP",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 231,
-      "volume": 12729210371.26
+      "n": 227,
+      "volume": 12434210371.18
     }
   ],
   "por_mes": [
     {
       "mes": "2025-10",
-      "n": 195,
-      "volume": 30848157892.64
+      "n": 181,
+      "volume": 27589986676.119995
     },
     {
       "mes": "2025-11",
@@ -100,33 +100,33 @@
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 48716574320.35999,
-      "n": 91
-    },
-    {
-      "tipo_ativo": "Cotas de FII",
-      "volume": 46126560597.56,
-      "n": 99
-    },
-    {
-      "tipo_ativo": "Cotas de FIDC",
-      "volume": 35807071261.87001,
-      "n": 246
-    },
-    {
-      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 8962685988.220001,
+      "volume": 47369293320.35999,
       "n": 89
     },
     {
+      "tipo_ativo": "Cotas de FII",
+      "volume": 45766282673.68,
+      "n": 97
+    },
+    {
+      "tipo_ativo": "Cotas de FIDC",
+      "volume": 35683071261.87001,
+      "n": 241
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 8934685988.220001,
+      "n": 87
+    },
+    {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7269052605.0,
-      "n": 51
+      "volume": 7135356300.0,
+      "n": 50
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 6478495000.0,
-      "n": 15
+      "volume": 6278495000.0,
+      "n": 14
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -135,8 +135,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 4559931621.47,
-      "n": 32
+      "volume": 4439931621.47,
+      "n": 31
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,15 +147,15 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3205
+      "n": 3185
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1260
+      "n": 1259
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 31
+      "n": 30
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
@@ -186,14 +186,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
-      "volume": 5500000000.0,
-      "n": 1
-    },
-    {
       "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
       "volume": 5500000000.0,
       "n": 2
+    },
+    {
+      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+      "volume": 5500000000.0,
+      "n": 1
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -229,13 +229,13 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 68166286307.93,
-      "n": 130
+      "volume": 66319415091.49,
+      "n": 128
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 53270892058.579994,
-      "n": 100
+      "volume": 53070892058.579994,
+      "n": 99
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
