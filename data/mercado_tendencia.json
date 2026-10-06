@@ -11,7 +11,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FII",
       "n": 180,
-      "volume": 23039880256.83,
+      "volume": 23039880256.829998,
       "ativas": 0
     },
     {
@@ -109,7 +109,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
-      "volume": 109531670124.23,
+      "volume": 109531670124.23001,
       "ativas": 0
     },
     {
@@ -150,8 +150,8 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1206,
-      "volume": 118655821863.68,
+      "n": 1213,
+      "volume": 119040321863.68,
       "ativas": 0
     },
     {
@@ -164,8 +164,8 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 170,
-      "volume": 33990164086.169994,
+      "n": 171,
+      "volume": 34090164086.169994,
       "ativas": 0
     }
   ],
@@ -300,7 +300,7 @@
       "mes": "2026-05",
       "tipo_fundo": "Cotas de FIDC",
       "n": 150,
-      "volume": 9638742604.270002
+      "volume": 9638742604.27
     },
     {
       "mes": "2026-05",
@@ -372,7 +372,7 @@
       "mes": "2026-09",
       "tipo_fundo": "Cotas de FIDC",
       "n": 131,
-      "volume": 14090452468.839998
+      "volume": 14259952468.839998
     },
     {
       "mes": "2026-09",
@@ -389,8 +389,8 @@
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 18,
-      "volume": 1541500000.0
+      "n": 25,
+      "volume": 1756500000.0
     },
     {
       "mes": "2026-10",
@@ -401,8 +401,8 @@
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 2,
-      "volume": 1000000000.0
+      "n": 3,
+      "volume": 1100000000.0
     }
   ],
   "ticket": [
@@ -535,8 +535,8 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 99.13,
-      "n": 1197
+      "ticket_medio": 98.95,
+      "n": 1203
     },
     {
       "ano": 2026,
@@ -547,8 +547,8 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 199.94,
-      "n": 170
+      "ticket_medio": 199.36,
+      "n": 171
     }
   ]
 }
