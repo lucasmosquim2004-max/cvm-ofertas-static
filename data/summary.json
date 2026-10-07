@@ -1,35 +1,35 @@
 {
-  "novas_30d": 201,
-  "volume_30d": 32201664480.8,
-  "ativas_12m": 914,
-  "total_ano": 1754,
+  "novas_30d": 212,
+  "volume_30d": 32552164480.800003,
+  "ativas_12m": 919,
+  "total_ano": 1765,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1451,
-      "volume": 145158498966.83005
+      "n": 1454,
+      "volume": 145203498966.83005
     },
     {
       "tipo_fundo": "FII",
-      "n": 518,
-      "volume": 173355803827.84006
+      "n": 517,
+      "volume": 173050803827.84006
     },
     {
       "tipo_fundo": "FIP",
-      "n": 274,
-      "volume": 48313620410.079994
+      "n": 272,
+      "volume": 48136120410.079994
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 227,
-      "volume": 12434210371.18
+      "n": 231,
+      "volume": 12594710371.18
     }
   ],
   "por_mes": [
     {
       "mes": "2025-10",
-      "n": 181,
-      "volume": 27589986676.119995
+      "n": 174,
+      "volume": 26962486676.119995
     },
     {
       "mes": "2025-11",
@@ -88,35 +88,35 @@
     },
     {
       "mes": "2026-10",
-      "n": 31,
-      "volume": 3018378000.0
+      "n": 42,
+      "volume": 3368878000.0
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 260969869999.13,
-      "n": 32
+      "volume": 261004869999.13,
+      "n": 33
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 47218238379.88,
-      "n": 86
+      "volume": 47655137379.88,
+      "n": 89
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 36581571261.66,
-      "n": 252
+      "volume": 36437071261.66,
+      "n": 257
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 35201215110.66,
-      "n": 93
+      "volume": 34911846882.46001,
+      "n": 91
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 8145945988.22,
-      "n": 83
+      "volume": 7738945988.22,
+      "n": 82
     },
     {
       "tipo_ativo": "Notas Comerciais",
@@ -125,7 +125,7 @@
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 6240520000.0,
+      "volume": 6693908671.39,
       "n": 13
     },
     {
@@ -135,23 +135,23 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 4105581621.4700003,
-      "n": 28
+      "volume": 4117281621.4700003,
+      "n": 30
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
-      "volume": 2252000000.0,
-      "n": 19
+      "volume": 2152000000.0,
+      "n": 17
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3226
+      "n": 3220
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1249
+      "n": 1259
     },
     {
       "status_cvm": "Registro Caducado",
@@ -163,7 +163,7 @@
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 22
+      "n": 20
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -186,14 +186,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
-      "volume": 5500000000.0,
-      "n": 2
-    },
-    {
       "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
       "volume": 5500000000.0,
       "n": 1
+    },
+    {
+      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+      "volume": 5500000000.0,
+      "n": 2
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -239,8 +239,8 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34248011759.240005,
-      "n": 186
+      "volume": 34110511759.240005,
+      "n": 185
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -254,8 +254,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 17803226518.979996,
-      "n": 154
+      "volume": 17863226518.979996,
+      "n": 155
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
