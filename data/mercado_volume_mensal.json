@@ -1545,8 +1545,8 @@
     {
       "mes": "2026-07",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 13357259348.660002,
-      "n": 146
+      "volume": 13437259348.660002,
+      "n": 145
     },
     {
       "mes": "2026-07",
@@ -1623,8 +1623,8 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 29024362663.649998,
-      "n": 50
+      "volume": 28974362663.649998,
+      "n": 49
     },
     {
       "mes": "2026-08",
@@ -1683,7 +1683,7 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 14531666468.84,
+      "volume": 14531811802.41,
       "n": 131
     },
     {
@@ -1719,7 +1719,7 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Debêntures",
-      "volume": 32935272358.88,
+      "volume": 33975272358.88,
       "n": 58
     },
     {
@@ -1737,8 +1737,8 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 378807000.0,
-      "n": 9
+      "volume": 565807000.0,
+      "n": 12
     },
     {
       "mes": "2026-10",
@@ -1749,14 +1749,14 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 615000943.0,
-      "n": 5
+      "volume": 635000943.0,
+      "n": 6
     },
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 3197200000.0,
-      "n": 45
+      "volume": 3691450000.21,
+      "n": 54
     },
     {
       "mes": "2026-10",
@@ -1767,26 +1767,38 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 1404270957.8,
-      "n": 5
+      "volume": 1454495965.8,
+      "n": 7
     },
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 1100000000.0,
-      "n": 3
-    },
-    {
-      "mes": "2026-10",
-      "valor_mobiliario": "Debêntures",
-      "volume": 436899000.0,
+      "volume": 1115017950.0,
       "n": 4
     },
     {
       "mes": "2026-10",
+      "valor_mobiliario": "Cotas de Fundos de Infra",
+      "volume": 500700000.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Cédula de Produto Rural Financeira",
+      "volume": 0.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-10",
+      "valor_mobiliario": "Debêntures",
+      "volume": 536899000.0,
+      "n": 7
+    },
+    {
+      "mes": "2026-10",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 25000000.0,
-      "n": 3
+      "volume": 325000000.0,
+      "n": 4
     },
     {
       "mes": "2026-10",

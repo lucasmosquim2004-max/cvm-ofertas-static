@@ -4,7 +4,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FIDC",
       "n": 445,
-      "volume": 49239554668.95003,
+      "volume": 49239554668.950035,
       "ativas": 0
     },
     {
@@ -25,7 +25,7 @@
       "ano": 2020,
       "tipo_fundo": "Cotas de FIDC",
       "n": 621,
-      "volume": 47640156194.619995,
+      "volume": 47640156194.62,
       "ativas": 0
     },
     {
@@ -46,14 +46,14 @@
       "ano": 2021,
       "tipo_fundo": "Cotas de FIDC",
       "n": 989,
-      "volume": 78193868043.60002,
+      "volume": 78193868043.60004,
       "ativas": 0
     },
     {
       "ano": 2021,
       "tipo_fundo": "Cotas de FII",
       "n": 319,
-      "volume": 31531954371.880005,
+      "volume": 31531954371.88,
       "ativas": 0
     },
     {
@@ -95,7 +95,7 @@
       "ano": 2023,
       "tipo_fundo": "Cotas de FII",
       "n": 247,
-      "volume": 43991365467.270004,
+      "volume": 43991365467.27,
       "ativas": 0
     },
     {
@@ -109,7 +109,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
-      "volume": 109531670124.23,
+      "volume": 109531670124.23001,
       "ativas": 0
     },
     {
@@ -150,22 +150,22 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1233,
-      "volume": 120752735863.67998,
+      "n": 1241,
+      "volume": 121327131197.45999,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 372,
-      "volume": 129635307366.51006,
+      "n": 373,
+      "volume": 129635532374.51006,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 171,
-      "volume": 34090164086.169994,
+      "n": 172,
+      "volume": 34105182036.169994,
       "ativas": 0
     }
   ],
@@ -173,20 +173,20 @@
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 100,
-      "volume": 11702615065.13
+      "n": 97,
+      "volume": 11580115065.06
     },
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FII",
-      "n": 32,
-      "volume": 10092504630.919998
+      "n": 31,
+      "volume": 10029504630.919998
     },
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 34,
-      "volume": 2547443480.05
+      "n": 31,
+      "volume": 2245643552.05
     },
     {
       "mes": "2025-11",
@@ -335,8 +335,8 @@
     {
       "mes": "2026-07",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 146,
-      "volume": 13357259348.659996
+      "n": 145,
+      "volume": 13437259348.659998
     },
     {
       "mes": "2026-07",
@@ -359,8 +359,8 @@
     {
       "mes": "2026-08",
       "tipo_fundo": "Cotas de FII",
-      "n": 50,
-      "volume": 29024362663.649998
+      "n": 49,
+      "volume": 28974362663.649998
     },
     {
       "mes": "2026-08",
@@ -372,7 +372,7 @@
       "mes": "2026-09",
       "tipo_fundo": "Cotas de FIDC",
       "n": 131,
-      "volume": 14531666468.839998
+      "volume": 14531811802.409998
     },
     {
       "mes": "2026-09",
@@ -389,20 +389,20 @@
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 45,
-      "volume": 3197200000.0
+      "n": 54,
+      "volume": 3691450000.21
     },
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FII",
-      "n": 5,
-      "volume": 1404270957.8
+      "n": 7,
+      "volume": 1454495965.8
     },
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 3,
-      "volume": 1100000000.0
+      "n": 4,
+      "volume": 1115017950.0
     }
   ],
   "ticket": [
@@ -535,20 +535,20 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 98.65,
-      "n": 1224
+      "ticket_medio": 98.32,
+      "n": 1234
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 348.48,
-      "n": 372
+      "ticket_medio": 347.55,
+      "n": 373
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 199.36,
-      "n": 171
+      "ticket_medio": 198.29,
+      "n": 172
     }
   ]
 }
