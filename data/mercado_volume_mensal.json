@@ -1737,8 +1737,8 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 565807000.0,
-      "n": 12
+      "volume": 634807000.0,
+      "n": 14
     },
     {
       "mes": "2026-10",
@@ -1755,26 +1755,26 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 3691450000.21,
-      "n": 54
+      "volume": 5839950000.21,
+      "n": 64
     },
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 54200000.0,
-      "n": 3
+      "volume": 54210000.0,
+      "n": 4
     },
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 1454495965.8,
-      "n": 7
+      "volume": 1766995973.35,
+      "n": 8
     },
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 1115017950.0,
-      "n": 4
+      "volume": 1267017950.0,
+      "n": 7
     },
     {
       "mes": "2026-10",
@@ -1786,7 +1786,7 @@
       "mes": "2026-10",
       "valor_mobiliario": "Cédula de Produto Rural Financeira",
       "volume": 0.0,
-      "n": 1
+      "n": 2
     },
     {
       "mes": "2026-10",
@@ -1797,8 +1797,8 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 325000000.0,
-      "n": 4
+      "volume": 1125000000.0,
+      "n": 5
     },
     {
       "mes": "2026-10",
