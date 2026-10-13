@@ -95,23 +95,23 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 261024869999.13,
-      "n": 35
+      "volume": 260929869999.13,
+      "n": 33
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 46107137379.88,
-      "n": 89
+      "volume": 44607137379.88,
+      "n": 88
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 38322480596.21001,
-      "n": 272
+      "volume": 34721376618.240005,
+      "n": 260
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 34928383119.810005,
-      "n": 91
+      "volume": 34548383119.81,
+      "n": 90
     },
     {
       "tipo_ativo": "Notas Comerciais",
@@ -125,8 +125,8 @@
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 6193908671.39,
-      "n": 12
+      "volume": 5093908671.39,
+      "n": 11
     },
     {
       "tipo_ativo": "Cotas de FIP",
