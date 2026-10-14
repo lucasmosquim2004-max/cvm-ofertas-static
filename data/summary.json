@@ -1,35 +1,35 @@
 {
-  "novas_30d": 214,
-  "volume_30d": 33876043565.07,
-  "ativas_12m": 928,
-  "total_ano": 1800,
+  "novas_30d": 223,
+  "volume_30d": 34351163565.069996,
+  "ativas_12m": 923,
+  "total_ano": 1809,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1459,
-      "volume": 147054268294.82004
+      "n": 1458,
+      "volume": 147306766793.42
     },
     {
       "tipo_fundo": "FII",
-      "n": 515,
-      "volume": 172405498301.21008
+      "n": 514,
+      "volume": 172059594301.21008
     },
     {
       "tipo_fundo": "FIP",
-      "n": 267,
-      "volume": 46641338432.08
+      "n": 268,
+      "volume": 46482362432.08
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 233,
-      "volume": 12597910371.18
+      "n": 234,
+      "volume": 12607910371.18
     }
   ],
   "por_mes": [
     {
       "mes": "2025-10",
-      "n": 139,
-      "volume": 20869423242.35
+      "n": 130,
+      "volume": 20151921740.949997
     },
     {
       "mes": "2025-11",
@@ -88,35 +88,35 @@
     },
     {
       "mes": "2026-10",
-      "n": 79,
-      "volume": 8873963923.560001
+      "n": 88,
+      "volume": 9349083923.560001
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 260929869999.13,
-      "n": 33
+      "volume": 260932369999.13,
+      "n": 34
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 44607137379.88,
-      "n": 88
+      "volume": 40505095665.88,
+      "n": 86
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 34721376618.240005,
-      "n": 260
+      "volume": 35099376618.240005,
+      "n": 264
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 34548383119.81,
-      "n": 90
+      "volume": 31692790336.669994,
+      "n": 88
     },
     {
       "tipo_ativo": "Notas Comerciais",
       "volume": 8105731300.0,
-      "n": 53
+      "n": 54
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
@@ -130,13 +130,13 @@
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 4904962715.639999,
-      "n": 34
+      "volume": 4865986715.639999,
+      "n": 36
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 4033791621.4700003,
-      "n": 29
+      "volume": 4366291621.47,
+      "n": 31
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,31 +147,27 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3197
+      "n": 3203
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1262
+      "n": 1255
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 29
+      "n": 28
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 23
     },
     {
       "status_cvm": "Oferta Revogada",
       "n": 23
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 20
-    },
-    {
       "status_cvm": "Requerimento Expirado",
       "n": 2
-    },
-    {
-      "status_cvm": "Oferta Suspensa",
-      "n": 1
     }
   ],
   "top_emissores": [
@@ -229,7 +225,7 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 65133775591.509995,
+      "volume": 65133775591.51,
       "n": 126
     },
     {
@@ -239,12 +235,12 @@
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34642980122.61001,
-      "n": 181
+      "volume": 34247980122.610004,
+      "n": 180
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 21771439809.4,
+      "volume": 21826439809.4,
       "n": 31
     },
     {
@@ -259,13 +255,13 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 15853224808.669992,
-      "n": 266
+      "volume": 15923224808.669992,
+      "n": 267
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13693237382.509998,
-      "n": 138
+      "volume": 13799737382.509998,
+      "n": 141
     },
     {
       "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
