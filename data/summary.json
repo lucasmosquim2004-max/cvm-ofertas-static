@@ -1,35 +1,35 @@
 {
-  "novas_30d": 223,
-  "volume_30d": 34351163565.069996,
-  "ativas_12m": 923,
-  "total_ano": 1809,
+  "novas_30d": 227,
+  "volume_30d": 33776531865.879997,
+  "ativas_12m": 919,
+  "total_ano": 1818,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1458,
-      "volume": 147306766793.42
+      "n": 1456,
+      "volume": 146300919793.40002
     },
     {
       "tipo_fundo": "FII",
-      "n": 514,
-      "volume": 172059594301.21008
+      "n": 512,
+      "volume": 172671393110.96008
     },
     {
       "tipo_fundo": "FIP",
-      "n": 268,
-      "volume": 46482362432.08
+      "n": 266,
+      "volume": 46342838432.079994
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 234,
-      "volume": 12607910371.18
+      "n": 233,
+      "volume": 12614510371.67
     }
   ],
   "por_mes": [
     {
       "mes": "2025-10",
-      "n": 130,
-      "volume": 20151921740.949997
+      "n": 114,
+      "volume": 18410073550.699997
     },
     {
       "mes": "2025-11",
@@ -73,8 +73,8 @@
     },
     {
       "mes": "2026-07",
-      "n": 201,
-      "volume": 29957956923.900005
+      "n": 202,
+      "volume": 30862956923.900005
     },
     {
       "mes": "2026-08",
@@ -84,29 +84,29 @@
     {
       "mes": "2026-09",
       "n": 203,
-      "volume": 35886576500.96001
+      "volume": 35950326500.96001
     },
     {
       "mes": "2026-10",
-      "n": 88,
-      "volume": 9349083923.560001
+      "n": 96,
+      "volume": 9595209924.03
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 260932369999.13,
-      "n": 34
+      "volume": 264112369999.13,
+      "n": 35
     },
     {
       "tipo_ativo": "Debêntures",
       "volume": 40505095665.88,
-      "n": 86
+      "n": 88
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 35099376618.240005,
-      "n": 264
+      "volume": 35310776618.710014,
+      "n": 271
     },
     {
       "tipo_ativo": "Cotas de FII",
@@ -130,13 +130,13 @@
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 4865986715.639999,
-      "n": 36
+      "volume": 4964462715.639999,
+      "n": 37
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 4366291621.47,
-      "n": 31
+      "volume": 4516291621.47,
+      "n": 32
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,19 +147,19 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3203
+      "n": 3198
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1255
+      "n": 1250
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 28
+      "n": 27
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 23
+      "n": 24
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -225,23 +225,23 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 65133775591.51,
+      "volume": 65938775591.51,
       "n": 126
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 53070892058.579994,
+      "volume": 52834642058.579994,
       "n": 99
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 34247980122.610004,
-      "n": 180
+      "volume": 34047980122.610004,
+      "n": 178
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
-      "volume": 21826439809.4,
-      "n": 31
+      "volume": 20999689809.4,
+      "n": 29
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -255,13 +255,13 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 15923224808.669992,
-      "n": 267
+      "volume": 16073224808.669992,
+      "n": 269
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13799737382.509998,
-      "n": 141
+      "volume": 13798213382.489998,
+      "n": 142
     },
     {
       "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
