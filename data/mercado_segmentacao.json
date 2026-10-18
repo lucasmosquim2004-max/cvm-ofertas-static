@@ -2,8 +2,8 @@
   "publico_alvo": [
     {
       "ano": 2023,
-      "publico_alvo": "Qualificado",
-      "n": 141
+      "publico_alvo": "Profissional",
+      "n": 1135
     },
     {
       "ano": 2023,
@@ -12,13 +12,8 @@
     },
     {
       "ano": 2023,
-      "publico_alvo": "Profissional",
-      "n": 1135
-    },
-    {
-      "ano": 2024,
-      "publico_alvo": "Profissional",
-      "n": 1813
+      "publico_alvo": "Qualificado",
+      "n": 141
     },
     {
       "ano": 2024,
@@ -27,6 +22,16 @@
     },
     {
       "ano": 2024,
+      "publico_alvo": "Profissional",
+      "n": 1813
+    },
+    {
+      "ano": 2024,
+      "publico_alvo": "Público Geral",
+      "n": 44
+    },
+    {
+      "ano": 2025,
       "publico_alvo": "Público Geral",
       "n": 44
     },
@@ -37,23 +42,18 @@
     },
     {
       "ano": 2025,
-      "publico_alvo": "Público Geral",
-      "n": 44
-    },
-    {
-      "ano": 2025,
       "publico_alvo": "Qualificado",
       "n": 241
     },
     {
       "ano": 2026,
-      "publico_alvo": "Profissional",
-      "n": 1604
+      "publico_alvo": "Público Geral",
+      "n": 54
     },
     {
       "ano": 2026,
-      "publico_alvo": "Público Geral",
-      "n": 54
+      "publico_alvo": "Profissional",
+      "n": 1604
     },
     {
       "ano": 2026,
@@ -1324,146 +1324,6 @@
     },
     {
       "ano": 2026,
-      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-      "volume": 2141000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-      "volume": 3149810000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 6335028592.77
-    },
-    {
-      "ano": 2026,
-      "coordenador": "CAIXA ECONOMICA FEDERAL",
-      "volume": 1200000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "CAIXA ECONOMICA FEDERAL",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
-      "volume": 3120300488.66
-    },
-    {
-      "ano": 2024,
-      "coordenador": "REAG ADMINISTRADORA DE RECURSOS LTDA.",
-      "volume": 643146000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BR PARTNERS GESTÃO DE RECURSOS LTDA",
-      "volume": 100000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "ARENA CAPITAL ASSET ADMINISTRAÇÃO DE RECURSOS LTDA",
-      "volume": 22000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "ITAU UNIBANCO S.A.",
-      "volume": 250000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "10B GESTORA DE RECURSOS LTDA.",
-      "volume": 12000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BR PARTNERS MERCADOS DE CAPITAIS LTDA.",
-      "volume": 322775000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "TM3 CAPITAL S.A.",
-      "volume": 5200000.54
-    },
-    {
-      "ano": 2024,
-      "coordenador": "AGUILA CAPITAL ADMINISTRAÇÃO E GESTÃO DE CAPITAIS LTDA.",
-      "volume": 6600000.4399999995
-    },
-    {
-      "ano": 2025,
-      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 165170019.8
-    },
-    {
-      "ano": 2026,
-      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-      "volume": 63200000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO ANDBANK (BRASIL) S.A.",
-      "volume": 201709407.68
-    },
-    {
-      "ano": 2024,
-      "coordenador": "CM CAPITAL MARKETS DTVM LTDA",
-      "volume": 1448869262.53
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BANCO BOCOM BBM S.A.",
-      "volume": 112700049.88
-    },
-    {
-      "ano": 2025,
-      "coordenador": "BANCO BOCOM BBM S.A.",
-      "volume": 35280000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "M7 IB SOLUCOES FINANCEIRAS LTDA",
-      "volume": 160000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "BLOXS COORDENAÇÃO LTDA",
-      "volume": 25000000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "SEFER INVESTIMENTOS DISTRIBUIDORA DE T?TULOS E VALORES MOBILI?RIOS LTDA.",
-      "volume": 6000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BLOXS CAPITAL PARTNERS LTDA.",
-      "volume": 200000006.22
-    },
-    {
-      "ano": 2026,
-      "coordenador": "INTRA INVESTIMENTOS DTVM LTDA",
-      "volume": 7000000.0
-    },
-    {
-      "ano": 2026,
-      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 137500000.0
-    },
-    {
-      "ano": 2025,
-      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 60000000.0
-    },
-    {
-      "ano": 2024,
-      "coordenador": "BAYCAP GESTÃO DE RECURSOS LTDA.",
-      "volume": 15000000.0
-    },
-    {
-      "ano": 2026,
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
       "volume": 16073224808.669992
     },
@@ -1631,6 +1491,146 @@
       "ano": 2026,
       "coordenador": "QI CORRETORA DE T-TULOS E VALORES MOBILI-RIOS S.A.",
       "volume": 5000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+      "volume": 2141000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "UBS BB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+      "volume": 3149810000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "volume": 6335028592.77
+    },
+    {
+      "ano": 2026,
+      "coordenador": "CAIXA ECONOMICA FEDERAL",
+      "volume": 1200000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "CAIXA ECONOMICA FEDERAL",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. - GLPG DTVM",
+      "volume": 3120300488.66
+    },
+    {
+      "ano": 2024,
+      "coordenador": "REAG ADMINISTRADORA DE RECURSOS LTDA.",
+      "volume": 643146000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BR PARTNERS GESTÃO DE RECURSOS LTDA",
+      "volume": 100000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "ARENA CAPITAL ASSET ADMINISTRAÇÃO DE RECURSOS LTDA",
+      "volume": 22000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "ITAU UNIBANCO S.A.",
+      "volume": 250000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "10B GESTORA DE RECURSOS LTDA.",
+      "volume": 12000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BR PARTNERS MERCADOS DE CAPITAIS LTDA.",
+      "volume": 322775000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "TM3 CAPITAL S.A.",
+      "volume": 5200000.54
+    },
+    {
+      "ano": 2024,
+      "coordenador": "AGUILA CAPITAL ADMINISTRAÇÃO E GESTÃO DE CAPITAIS LTDA.",
+      "volume": 6600000.4399999995
+    },
+    {
+      "ano": 2025,
+      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 165170019.8
+    },
+    {
+      "ano": 2026,
+      "coordenador": "QORE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "volume": 63200000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO ANDBANK (BRASIL) S.A.",
+      "volume": 201709407.68
+    },
+    {
+      "ano": 2024,
+      "coordenador": "CM CAPITAL MARKETS DTVM LTDA",
+      "volume": 1448869262.53
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BANCO BOCOM BBM S.A.",
+      "volume": 112700049.88
+    },
+    {
+      "ano": 2025,
+      "coordenador": "BANCO BOCOM BBM S.A.",
+      "volume": 35280000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "M7 IB SOLUCOES FINANCEIRAS LTDA",
+      "volume": 160000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "BLOXS COORDENAÇÃO LTDA",
+      "volume": 25000000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "SEFER INVESTIMENTOS DISTRIBUIDORA DE T?TULOS E VALORES MOBILI?RIOS LTDA.",
+      "volume": 6000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BLOXS CAPITAL PARTNERS LTDA.",
+      "volume": 200000006.22
+    },
+    {
+      "ano": 2026,
+      "coordenador": "INTRA INVESTIMENTOS DTVM LTDA",
+      "volume": 7000000.0
+    },
+    {
+      "ano": 2026,
+      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "volume": 137500000.0
+    },
+    {
+      "ano": 2025,
+      "coordenador": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+      "volume": 60000000.0
+    },
+    {
+      "ano": 2024,
+      "coordenador": "BAYCAP GESTÃO DE RECURSOS LTDA.",
+      "volume": 15000000.0
     }
   ],
   "gestores_3y": [
