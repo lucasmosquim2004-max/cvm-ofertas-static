@@ -1,35 +1,35 @@
 {
-  "novas_30d": 230,
-  "volume_30d": 33974579433.300003,
-  "ativas_12m": 934,
-  "total_ano": 1875,
+  "novas_30d": 227,
+  "volume_30d": 35787473249.3,
+  "ativas_12m": 935,
+  "total_ano": 1883,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1470,
-      "volume": 151218873844.32004
+      "n": 1472,
+      "volume": 151162676644.32004
     },
     {
       "tipo_fundo": "FII",
-      "n": 509,
-      "volume": 169395440557.21008
+      "n": 511,
+      "volume": 170349940557.21008
     },
     {
       "tipo_fundo": "FIP",
       "n": 264,
-      "volume": 46373650503.53
+      "volume": 46667300503.53
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 238,
-      "volume": 12863977271.67
+      "n": 237,
+      "volume": 12853977271.6
     }
   ],
   "por_mes": [
     {
       "mes": "2025-10",
-      "n": 71,
-      "volume": 9534106447.68
+      "n": 66,
+      "volume": 9290059247.61
     },
     {
       "mes": "2025-11",
@@ -53,8 +53,8 @@
     },
     {
       "mes": "2026-03",
-      "n": 216,
-      "volume": 28434132032.77
+      "n": 215,
+      "volume": 26934132032.77
     },
     {
       "mes": "2026-04",
@@ -88,55 +88,55 @@
     },
     {
       "mes": "2026-10",
-      "n": 154,
-      "volume": 19180957495.670002
+      "n": 163,
+      "volume": 22106957495.670002
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 263827369999.13,
-      "n": 30
+      "volume": 263907369999.13,
+      "n": 31
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 41910952808.880005,
-      "n": 85
-    },
-    {
-      "tipo_ativo": "Cotas de FIDC",
-      "volume": 35526914907.31999,
-      "n": 284
-    },
-    {
-      "tipo_ativo": "Cotas de FII",
-      "volume": 32084290750.04999,
-      "n": 87
-    },
-    {
-      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 9040445638.220001,
+      "volume": 42465952808.880005,
       "n": 89
     },
     {
+      "tipo_ativo": "Cotas de FIDC",
+      "volume": 37083414907.31999,
+      "n": 289
+    },
+    {
+      "tipo_ativo": "Cotas de FII",
+      "volume": 33158790750.04999,
+      "n": 90
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 9219760638.220001,
+      "n": 91
+    },
+    {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7918731300.0,
-      "n": 49
+      "volume": 7954942300.0,
+      "n": 51
+    },
+    {
+      "tipo_ativo": "Cotas de FIP",
+      "volume": 5248461986.59,
+      "n": 38
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
       "volume": 5093908671.39,
-      "n": 12
+      "n": 13
     },
     {
       "tipo_ativo": "Cotas de FIF",
       "volume": 4983791621.47,
       "n": 30
-    },
-    {
-      "tipo_ativo": "Cotas de FIP",
-      "volume": 4953461986.59,
-      "n": 37
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
@@ -147,18 +147,18 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3181
+      "n": 3171
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1258
-    },
-    {
-      "status_cvm": "Registro Caducado",
-      "n": 26
+      "n": 1266
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
+      "n": 27
+    },
+    {
+      "status_cvm": "Registro Caducado",
       "n": 26
     },
     {
@@ -182,14 +182,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
-      "volume": 5500000000.0,
-      "n": 1
-    },
-    {
       "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
       "volume": 5500000000.0,
       "n": 2
+    },
+    {
+      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+      "volume": 5500000000.0,
+      "n": 1
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -230,13 +230,13 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 54990267058.58,
-      "n": 98
+      "volume": 56014767058.58,
+      "n": 99
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 29138927568.860004,
-      "n": 169
+      "volume": 29473927568.860004,
+      "n": 170
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -270,8 +270,8 @@
     },
     {
       "coordenador": "BRL TRUST DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS S.A.",
-      "volume": 9082269233.54,
-      "n": 86
+      "volume": 9080919233.54,
+      "n": 85
     }
   ]
 }

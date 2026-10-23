@@ -11,14 +11,14 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FII",
       "n": 180,
-      "volume": 23039880256.83,
+      "volume": 23039880256.829994,
       "ativas": 0
     },
     {
       "ano": 2019,
       "tipo_fundo": "Cotas de FIP",
       "n": 314,
-      "volume": 52143479265.54001,
+      "volume": 52143479265.54,
       "ativas": 0
     },
     {
@@ -67,7 +67,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1193,
-      "volume": 72751943967.06996,
+      "volume": 72751943967.06995,
       "ativas": 0
     },
     {
@@ -81,7 +81,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FIP",
       "n": 614,
-      "volume": 67289052917.279976,
+      "volume": 67289052917.27996,
       "ativas": 0
     },
     {
@@ -95,7 +95,7 @@
       "ano": 2023,
       "tipo_fundo": "Cotas de FII",
       "n": 247,
-      "volume": 43991365467.27001,
+      "volume": 43991365467.270004,
       "ativas": 0
     },
     {
@@ -109,7 +109,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
-      "volume": 109531670124.23003,
+      "volume": 109531670124.23001,
       "ativas": 0
     },
     {
@@ -130,7 +130,7 @@
       "ano": 2025,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1713,
-      "volume": 133231554102.61012,
+      "volume": 133231554102.61009,
       "ativas": 0
     },
     {
@@ -150,22 +150,22 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1310,
-      "volume": 131160779497.61998,
+      "n": 1314,
+      "volume": 131217279497.62,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 383,
-      "volume": 134537628382.06004,
+      "n": 386,
+      "volume": 135612128382.06006,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 182,
-      "volume": 34470681308.119995,
+      "n": 183,
+      "volume": 34765681308.119995,
       "ativas": 0
     }
   ],
@@ -173,20 +173,20 @@
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 40,
-      "volume": 6392299209.21
+      "n": 37,
+      "volume": 6269602009.139999
     },
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FII",
-      "n": 14,
-      "volume": 1987350886.9199998
+      "n": 13,
+      "volume": 1867350886.9199998
     },
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 17,
-      "volume": 1154456351.55
+      "n": 16,
+      "volume": 1153106351.55
     },
     {
       "mes": "2025-11",
@@ -263,8 +263,8 @@
     {
       "mes": "2026-03",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 157,
-      "volume": 14855465028.039995
+      "n": 156,
+      "volume": 13355465028.039995
     },
     {
       "mes": "2026-03",
@@ -294,7 +294,7 @@
       "mes": "2026-04",
       "tipo_fundo": "Cotas de FIP",
       "n": 23,
-      "volume": 3254369255.8100004
+      "volume": 3254369255.81
     },
     {
       "mes": "2026-05",
@@ -389,20 +389,20 @@
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 123,
-      "volume": 12148848300.37
+      "n": 128,
+      "volume": 13705348300.37
     },
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FII",
-      "n": 17,
-      "volume": 5551591973.35
+      "n": 20,
+      "volume": 6626091973.35
     },
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 14,
-      "volume": 1480517221.95
+      "n": 15,
+      "volume": 1775517221.95
     }
   ],
   "ticket": [
@@ -535,20 +535,20 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 100.58,
-      "n": 1304
+      "ticket_medio": 100.32,
+      "n": 1308
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 351.27,
-      "n": 383
+      "ticket_medio": 351.33,
+      "n": 386
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 189.4,
-      "n": 182
+      "ticket_medio": 189.98,
+      "n": 183
     }
   ]
 }
