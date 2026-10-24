@@ -1,18 +1,18 @@
 {
-  "novas_30d": 227,
-  "volume_30d": 35787473249.3,
+  "novas_30d": 213,
+  "volume_30d": 33305615988.660004,
   "ativas_12m": 935,
   "total_ano": 1883,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1472,
-      "volume": 151162676644.32004
+      "n": 1468,
+      "volume": 151037676644.32004
     },
     {
       "tipo_fundo": "FII",
-      "n": 511,
-      "volume": 170349940557.21008
+      "n": 510,
+      "volume": 170003065557.21008
     },
     {
       "tipo_fundo": "FIP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-10",
-      "n": 66,
-      "volume": 9290059247.61
+      "n": 61,
+      "volume": 8818184247.61
     },
     {
       "mes": "2025-11",
@@ -49,7 +49,7 @@
     {
       "mes": "2026-02",
       "n": 180,
-      "volume": 27247910654.600002
+      "volume": 27247910654.600006
     },
     {
       "mes": "2026-03",
@@ -105,13 +105,13 @@
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 37083414907.31999,
-      "n": 289
+      "volume": 36775414906.58,
+      "n": 285
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 33158790750.04999,
-      "n": 90
+      "volume": 31990384882.609997,
+      "n": 86
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
@@ -120,13 +120,13 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7954942300.0,
-      "n": 51
+      "volume": 7904942300.0,
+      "n": 50
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 5248461986.59,
-      "n": 38
+      "volume": 5098461986.59,
+      "n": 37
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -135,19 +135,19 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 4983791621.47,
-      "n": 30
+      "volume": 4433791621.47,
+      "n": 29
     },
     {
       "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
-      "volume": 2112000000.0,
-      "n": 14
+      "volume": 1612000000.0,
+      "n": 13
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3171
+      "n": 3158
     },
     {
       "status_cvm": "Registro Concedido",
@@ -225,13 +225,13 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 65879075591.51,
-      "n": 126
+      "volume": 65532200591.51,
+      "n": 125
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 56014767058.58,
-      "n": 99
+      "volume": 55939767058.58,
+      "n": 98
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -255,7 +255,7 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 16454724808.699991,
+      "volume": 16454724808.69999,
       "n": 276
     },
     {
