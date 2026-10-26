@@ -1,28 +1,28 @@
 {
   "novas_30d": 203,
-  "volume_30d": 31020651752.62,
+  "volume_30d": 27693761353.59,
   "ativas_12m": 935,
-  "total_ano": 1883,
+  "total_ano": 1889,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1464,
-      "volume": 150485176644.32004
+      "n": 1466,
+      "volume": 150515176644.41
     },
     {
       "tipo_fundo": "FII",
-      "n": 510,
-      "volume": 170003065557.21008
+      "n": 512,
+      "volume": 170101675158.0901
     },
     {
       "tipo_fundo": "FIP",
-      "n": 262,
-      "volume": 46518700512.25
+      "n": 263,
+      "volume": 46528700512.25
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 236,
-      "volume": 11503977271.6
+      "n": 237,
+      "volume": 11551977271.6
     }
   ],
   "por_mes": [
@@ -53,8 +53,8 @@
     },
     {
       "mes": "2026-03",
-      "n": 215,
-      "volume": 26934132032.77
+      "n": 216,
+      "volume": 28334132032.77
     },
     {
       "mes": "2026-04",
@@ -88,77 +88,77 @@
     },
     {
       "mes": "2026-10",
-      "n": 163,
-      "volume": 22106957495.670002
+      "n": 168,
+      "volume": 20893567096.640003
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 263907369999.13,
-      "n": 31
+      "volume": 264459563999.13,
+      "n": 33
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 41065952808.880005,
-      "n": 88
-    },
-    {
-      "tipo_ativo": "Cotas de FIDC",
-      "volume": 35580414906.5,
-      "n": 282
-    },
-    {
-      "tipo_ativo": "Cotas de FII",
-      "volume": 31524736880.609997,
-      "n": 83
-    },
-    {
-      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 8566048638.22,
+      "volume": 40568452808.880005,
       "n": 87
     },
     {
+      "tipo_ativo": "Cotas de FII",
+      "volume": 31323346481.489998,
+      "n": 83
+    },
+    {
+      "tipo_ativo": "Cotas de FIDC",
+      "volume": 30068414906.469997,
+      "n": 280
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 8916548638.220001,
+      "n": 89
+    },
+    {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7904942300.0,
-      "n": 50
+      "volume": 7933931300.0,
+      "n": 49
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 5098461986.59,
-      "n": 37
+      "volume": 5108461986.59,
+      "n": 38
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 4643374671.39,
-      "n": 12
+      "volume": 4337571671.389999,
+      "n": 10
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 4433791621.47,
-      "n": 29
+      "volume": 3933791621.4700003,
+      "n": 28
     },
     {
-      "tipo_ativo": "Certificados de Recebíveis do Agronegócio",
-      "volume": 1612000000.0,
-      "n": 13
+      "tipo_ativo": "Cédula de Produto Rural Financeira",
+      "volume": 1521480000.0,
+      "n": 7
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3141
+      "n": 3151
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1266
-    },
-    {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 27
+      "n": 1271
     },
     {
       "status_cvm": "Registro Caducado",
+      "n": 28
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
       "n": 26
     },
     {
@@ -255,8 +255,8 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 16454724808.69999,
-      "n": 276
+      "volume": 16486724809.66999,
+      "n": 279
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
