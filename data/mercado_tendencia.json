@@ -11,7 +11,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FII",
       "n": 180,
-      "volume": 23039880256.829994,
+      "volume": 23039880256.829998,
       "ativas": 0
     },
     {
@@ -109,7 +109,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
-      "volume": 109531670124.23001,
+      "volume": 109531670124.23,
       "ativas": 0
     },
     {
@@ -123,14 +123,14 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIP",
       "n": 311,
-      "volume": 53920495629.66,
+      "volume": 53920495629.659996,
       "ativas": 0
     },
     {
       "ano": 2025,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1713,
-      "volume": 133231554102.61008,
+      "volume": 133231554102.6101,
       "ativas": 0
     },
     {
@@ -150,22 +150,22 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1329,
-      "volume": 132066779645.03,
+      "n": 1336,
+      "volume": 135717808607.47998,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 391,
-      "volume": 135823337982.94005,
+      "n": 393,
+      "volume": 136603337982.94005,
       "ativas": 0
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 186,
-      "volume": 34923681308.119995,
+      "n": 188,
+      "volume": 35028681308.119995,
       "ativas": 0
     }
   ],
@@ -173,26 +173,26 @@
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 21,
-      "volume": 3998102009.14
+      "n": 13,
+      "volume": 2397500000.0699997
     },
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FII",
-      "n": 11,
-      "volume": 1465475886.9199998
+      "n": 8,
+      "volume": 1243958886.9199998
     },
     {
       "mes": "2025-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 8,
-      "volume": 838506366.0
+      "n": 6,
+      "volume": 803506366.0
     },
     {
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FIDC",
       "n": 131,
-      "volume": 7081250830.900001
+      "volume": 7081250830.900002
     },
     {
       "mes": "2025-11",
@@ -389,20 +389,20 @@
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 142,
-      "volume": 13154848447.78
+      "n": 149,
+      "volume": 16805877410.230001
     },
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FII",
-      "n": 25,
-      "volume": 6837301574.23
+      "n": 27,
+      "volume": 7617301574.23
     },
     {
       "mes": "2026-10",
       "tipo_fundo": "Cotas de FIP",
-      "n": 18,
-      "volume": 1933517221.95
+      "n": 20,
+      "volume": 2038517221.95
     }
   ],
   "ticket": [
@@ -535,20 +535,20 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "ticket_medio": 99.75,
-      "n": 1324
+      "ticket_medio": 101.89,
+      "n": 1332
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "ticket_medio": 347.37,
-      "n": 391
+      "ticket_medio": 348.48,
+      "n": 392
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "ticket_medio": 187.76,
-      "n": 186
+      "ticket_medio": 186.32,
+      "n": 188
     }
   ]
 }
