@@ -171,24 +171,6 @@
   ],
   "mensal": [
     {
-      "mes": "2025-10",
-      "tipo_fundo": "Cotas de FIDC",
-      "n": 4,
-      "volume": 1780000000.0
-    },
-    {
-      "mes": "2025-10",
-      "tipo_fundo": "Cotas de FII",
-      "n": 4,
-      "volume": 1030959730.1199999
-    },
-    {
-      "mes": "2025-10",
-      "tipo_fundo": "Cotas de FIP",
-      "n": 2,
-      "volume": 25000000.0
-    },
-    {
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FIDC",
       "n": 131,
