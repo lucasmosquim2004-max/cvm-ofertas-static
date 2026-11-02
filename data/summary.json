@@ -1,18 +1,18 @@
 {
-  "novas_30d": 193,
-  "volume_30d": 25454978806.469997,
-  "ativas_12m": 945,
-  "total_ano": 1926,
+  "novas_30d": 194,
+  "volume_30d": 25139295704.789997,
+  "ativas_12m": 943,
+  "total_ano": 1938,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1466,
-      "volume": 151462803345.09998
+      "n": 1474,
+      "volume": 151801835043.37997
     },
     {
       "tipo_fundo": "FII",
-      "n": 507,
-      "volume": 169604629071.17007
+      "n": 510,
+      "volume": 169777217271.17007
     },
     {
       "tipo_fundo": "FIP",
@@ -21,8 +21,8 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 235,
-      "volume": 11471977271.599998
+      "n": 236,
+      "volume": 11474674271.64
     }
   ],
   "por_mes": [
@@ -83,45 +83,45 @@
     },
     {
       "mes": "2026-10",
-      "n": 205,
-      "volume": 27457356806.469997
+      "n": 217,
+      "volume": 27971673704.789997
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Debêntures",
-      "volume": 41136194858.880005,
-      "n": 82
+      "volume": 40526477858.880005,
+      "n": 81
     },
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 33009738812.7,
-      "n": 285
+      "volume": 33295967511.02,
+      "n": 291
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 24509677508.14,
+      "volume": 23461798763.62,
       "n": 76
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 14055813999.130001,
+      "volume": 13930813999.130001,
       "n": 31
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 9444711000.0,
-      "n": 48
+      "volume": 10133211000.0,
+      "n": 49
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7539485638.219999,
-      "n": 87
+      "volume": 7412510638.219999,
+      "n": 84
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 5334809377.42,
-      "n": 40
+      "volume": 5329809377.42,
+      "n": 39
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -130,34 +130,34 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3433430000.0,
-      "n": 24
+      "volume": 3498430000.0,
+      "n": 26
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
       "volume": 2021480000.0,
-      "n": 7
+      "n": 8
     }
   ],
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3100
+      "n": 3126
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1287
+      "n": 1281
     },
     {
       "status_cvm": "Registro Caducado",
       "n": 28
     },
     {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 21
+      "status_cvm": "Oferta Revogada",
+      "n": 20
     },
     {
-      "status_cvm": "Oferta Revogada",
+      "status_cvm": "Aguardando Bookbuilding",
       "n": 20
     },
     {
@@ -177,14 +177,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
-      "volume": 5500000000.0,
-      "n": 1
-    },
-    {
       "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
       "volume": 5500000000.0,
       "n": 2
+    },
+    {
+      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+      "volume": 5500000000.0,
+      "n": 1
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -240,8 +240,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 19831354518.71,
-      "n": 158
+      "volume": 20090472718.71,
+      "n": 161
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -250,13 +250,13 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 16716924409.72999,
-      "n": 284
+      "volume": 16818924409.72999,
+      "n": 286
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13033666984.769997,
-      "n": 140
+      "volume": 13153666984.769997,
+      "n": 142
     },
     {
       "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
