@@ -128,7 +128,7 @@
       "ano": 2026,
       "tipo_ativo": "FIDC",
       "n_ofertadas": 1352,
-      "n_encerradas": 658,
+      "n_encerradas": 659,
       "vol_ofertado": 136746736905.85997,
       "vol_encerrado": 89126797652.65,
       "taxa_encerramento": 48.7,
@@ -171,7 +171,7 @@
     {
       "ano": 2026,
       "n_ofertadas": 2319,
-      "n_encerradas": 1384,
+      "n_encerradas": 1385,
       "vol_ofertado": 532616942202.27966,
       "vol_encerrado": 425593364457.68994,
       "taxa_encerramento": 59.7,
