@@ -1545,7 +1545,7 @@
     {
       "mes": "2026-08",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 21085118793.17,
+      "volume": 21335118793.17,
       "n": 112
     },
     {
@@ -1689,7 +1689,7 @@
     {
       "mes": "2026-10",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 4727194943.0,
+      "volume": 4797194943.0,
       "n": 17
     },
     {
@@ -1748,15 +1748,21 @@
     },
     {
       "mes": "2026-11",
+      "valor_mobiliario": "Certificados de Recebíveis do Agronegócio",
+      "volume": 6600000.0,
+      "n": 1
+    },
+    {
+      "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 139400000.0,
-      "n": 5
+      "volume": 314400014.14,
+      "n": 9
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 72500000.0,
-      "n": 2
+      "volume": 412500000.0,
+      "n": 5
     },
     {
       "mes": "2026-11",
@@ -1767,8 +1773,8 @@
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 1413577000.0,
-      "n": 6
+      "volume": 1416077531.58,
+      "n": 7
     },
     {
       "mes": "2026-11",
