@@ -1,23 +1,23 @@
 {
-  "novas_30d": 202,
-  "volume_30d": 28546473250.52,
+  "novas_30d": 191,
+  "volume_30d": 26213880292.719997,
   "ativas_12m": 929,
   "total_ano": 1965,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1472,
-      "volume": 151995735230.97995
+      "n": 1467,
+      "volume": 151884485230.9799
     },
     {
       "tipo_fundo": "FII",
-      "n": 510,
-      "volume": 170432441291.08008
+      "n": 508,
+      "volume": 170324120020.18005
     },
     {
       "tipo_fundo": "FIP",
-      "n": 257,
-      "volume": 47032271683.56
+      "n": 256,
+      "volume": 46980771683.56
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -28,8 +28,8 @@
   "por_mes": [
     {
       "mes": "2025-11",
-      "n": 191,
-      "volume": 22662022995.66
+      "n": 183,
+      "volume": 22390951724.76
     },
     {
       "mes": "2025-12",
@@ -147,7 +147,7 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3140
+      "n": 3123
     },
     {
       "status_cvm": "Registro Concedido",
@@ -182,14 +182,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
-      "volume": 5500000000.0,
-      "n": 1
-    },
-    {
       "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
       "volume": 5500000000.0,
       "n": 2
+    },
+    {
+      "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
+      "volume": 5500000000.0,
+      "n": 1
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -230,13 +230,13 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 54787267058.579994,
+      "volume": 54787267058.58,
       "n": 97
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 29496658587.290005,
-      "n": 166
+      "volume": 29445158587.290005,
+      "n": 165
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -260,8 +260,8 @@
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13173666984.769999,
-      "n": 142
+      "volume": 13133666984.769999,
+      "n": 141
     },
     {
       "coordenador": "BANCO SANTANDER (BRASIL) S.A.",

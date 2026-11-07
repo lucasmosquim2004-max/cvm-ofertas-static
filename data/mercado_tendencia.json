@@ -60,14 +60,14 @@
       "ano": 2021,
       "tipo_fundo": "Cotas de FIP",
       "n": 538,
-      "volume": 91475796089.44,
+      "volume": 91475796089.43999,
       "ativas": 0
     },
     {
       "ano": 2022,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1193,
-      "volume": 72751943967.06996,
+      "volume": 72751943967.06999,
       "ativas": 0
     },
     {
@@ -109,7 +109,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1400,
-      "volume": 109531670124.23,
+      "volume": 109531670124.22998,
       "ativas": 0
     },
     {
@@ -123,21 +123,21 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIP",
       "n": 311,
-      "volume": 53920495629.66,
+      "volume": 53920495629.659996,
       "ativas": 0
     },
     {
       "ano": 2025,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1713,
-      "volume": 133231554102.61009,
+      "volume": 133231554102.6101,
       "ativas": 0
     },
     {
       "ano": 2025,
       "tipo_fundo": "Cotas de FII",
       "n": 425,
-      "volume": 119994915402.85004,
+      "volume": 119994915402.85,
       "ativas": 0
     },
     {
@@ -151,7 +151,7 @@
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1365,
-      "volume": 137688636920.0,
+      "volume": 137688636919.99997,
       "ativas": 0
     },
     {
@@ -173,20 +173,20 @@
     {
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FIDC",
-      "n": 116,
-      "volume": 6413251004.360002
+      "n": 111,
+      "volume": 6302001004.360002
     },
     {
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FII",
-      "n": 48,
-      "volume": 12234090044.539999
+      "n": 46,
+      "volume": 12125768773.64
     },
     {
       "mes": "2025-11",
       "tipo_fundo": "Cotas de FIP",
-      "n": 27,
-      "volume": 4014681946.76
+      "n": 26,
+      "volume": 3963181946.76
     },
     {
       "mes": "2025-12",
@@ -264,7 +264,7 @@
       "mes": "2026-04",
       "tipo_fundo": "Cotas de FIDC",
       "n": 124,
-      "volume": 9890048273.0
+      "volume": 9890048273.000002
     },
     {
       "mes": "2026-04",
