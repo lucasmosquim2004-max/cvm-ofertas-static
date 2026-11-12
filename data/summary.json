@@ -1,35 +1,35 @@
 {
-  "novas_30d": 197,
-  "volume_30d": 25050987496.28,
-  "ativas_12m": 913,
-  "total_ano": 1997,
+  "novas_30d": 202,
+  "volume_30d": 25987203888.26,
+  "ativas_12m": 912,
+  "total_ano": 2002,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1468,
-      "volume": 152232748910.3099
+      "n": 1462,
+      "volume": 151835848885.71997
     },
     {
       "tipo_fundo": "FII",
-      "n": 512,
-      "volume": 169827333401.61005
+      "n": 509,
+      "volume": 169243875484.71002
     },
     {
       "tipo_fundo": "FIP",
       "n": 256,
-      "volume": 46889369729.549995
+      "volume": 47584119729.549995
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 236,
-      "volume": 11632174271.640001
+      "n": 233,
+      "volume": 11612173695.78
     }
   ],
   "por_mes": [
     {
       "mes": "2025-11",
-      "n": 156,
-      "volume": 20448926662.19
+      "n": 139,
+      "volume": 19207101752.859997
     },
     {
       "mes": "2025-12",
@@ -44,7 +44,7 @@
     {
       "mes": "2026-02",
       "n": 180,
-      "volume": 27247910654.600002
+      "volume": 27247910654.6
     },
     {
       "mes": "2026-03",
@@ -64,7 +64,7 @@
     {
       "mes": "2026-06",
       "n": 206,
-      "volume": 34861717231.29001
+      "volume": 34861717231.29
     },
     {
       "mes": "2026-07",
@@ -88,25 +88,25 @@
     },
     {
       "mes": "2026-11",
-      "n": 59,
-      "volume": 4557277715.05
+      "n": 64,
+      "volume": 5493494107.03
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 31860064720.109997,
-      "n": 286
+      "volume": 31950064720.109997,
+      "n": 289
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 28808453128.88,
-      "n": 64
+      "volume": 29050738013.55,
+      "n": 66
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 23086492186.25,
-      "n": 83
+      "volume": 23165533578.23,
+      "n": 84
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
@@ -115,28 +115,28 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 8440741000.0,
+      "volume": 8433741000.0,
       "n": 39
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7277403854.549999,
-      "n": 81
+      "volume": 7292103854.549999,
+      "n": 82
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 5610724154.99,
-      "n": 42
-    },
-    {
-      "tipo_ativo": "Cotas de FIF",
-      "volume": 4323274999.97,
-      "n": 33
+      "volume": 6377899154.99,
+      "n": 43
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
       "volume": 4147571671.39,
       "n": 10
+    },
+    {
+      "tipo_ativo": "Cotas de FIF",
+      "volume": 3556099999.97,
+      "n": 32
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -147,23 +147,23 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3154
+      "n": 3142
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1245
+      "n": 1242
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 29
+      "n": 28
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 22
+      "n": 24
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 20
+      "n": 19
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -230,7 +230,7 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 54687267058.58,
+      "volume": 55305942058.579994,
       "n": 98
     },
     {
@@ -245,8 +245,8 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 20239772718.71,
-      "n": 166
+      "volume": 20259772718.71,
+      "n": 167
     },
     {
       "coordenador": "BTG PACTUAL INVESTMENT BANKING LTDA.",
@@ -255,7 +255,7 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 16908924409.729988,
+      "volume": 16908924409.72999,
       "n": 289
     },
     {
