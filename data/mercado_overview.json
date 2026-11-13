@@ -4,7 +4,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FIDC",
       "n": 445,
-      "volume": 49239554668.95003,
+      "volume": 49239554668.95002,
       "ativas": 0
     },
     {
@@ -18,7 +18,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FIP",
       "n": 314,
-      "volume": 52143479265.54,
+      "volume": 52143479265.54001,
       "ativas": 0
     },
     {
@@ -53,7 +53,7 @@
       "ano": 2021,
       "tipo_fundo": "Cotas de FII",
       "n": 319,
-      "volume": 31531954371.880005,
+      "volume": 31531954371.88001,
       "ativas": 0
     },
     {
@@ -81,7 +81,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FIP",
       "n": 614,
-      "volume": 67289052917.27997,
+      "volume": 67289052917.27996,
       "ativas": 0
     },
     {
@@ -137,7 +137,7 @@
       "ano": 2025,
       "tipo_fundo": "Cotas de FII",
       "n": 425,
-      "volume": 119994915402.85002,
+      "volume": 119994915402.85004,
       "ativas": 15
     },
     {
@@ -150,35 +150,35 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1386,
-      "volume": 138681400599.33,
-      "ativas": 667
+      "n": 1388,
+      "volume": 138941715599.33005,
+      "ativas": 669
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
       "n": 416,
       "volume": 139839010818.93005,
-      "ativas": 149
+      "ativas": 148
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
       "n": 200,
       "volume": 37630256885.689995,
-      "ativas": 76
+      "ativas": 74
     }
   ],
   "data_base": "11/2026",
   "kpis": {
-    "total_ano": 2002,
-    "volume_ano": 316150668303.95,
-    "ytd_atual_n": 2002,
-    "ytd_anterior_n": 1996,
-    "ytd_atual_vol": 316150668303.94977,
-    "ytd_anterior_vol": 231317096104.10007,
-    "ytd_yoy_n": 0.3,
-    "ytd_yoy_vol": 36.7,
-    "ativas_total": 1099
+    "total_ano": 2004,
+    "volume_ano": 316410983303.95013,
+    "ytd_atual_n": 2004,
+    "ytd_anterior_n": 2007,
+    "ytd_atual_vol": 316410983303.94977,
+    "ytd_anterior_vol": 233751890104.16006,
+    "ytd_yoy_n": -0.1,
+    "ytd_yoy_vol": 35.4,
+    "ativas_total": 1098
   }
 }

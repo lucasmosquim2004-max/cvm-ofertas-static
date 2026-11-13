@@ -1,35 +1,35 @@
 {
-  "novas_30d": 202,
-  "volume_30d": 25987203888.26,
-  "ativas_12m": 912,
-  "total_ano": 2002,
+  "novas_30d": 195,
+  "volume_30d": 25718922888.26,
+  "ativas_12m": 908,
+  "total_ano": 2004,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1462,
-      "volume": 151835848885.71997
+      "n": 1459,
+      "volume": 151983163885.71994
     },
     {
       "tipo_fundo": "FII",
-      "n": 509,
-      "volume": 169243875484.71002
+      "n": 506,
+      "volume": 167890955454.91003
     },
     {
       "tipo_fundo": "FIP",
-      "n": 256,
-      "volume": 47584119729.549995
+      "n": 254,
+      "volume": 47499119729.549995
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 233,
-      "volume": 11612173695.78
+      "n": 229,
+      "volume": 11574473695.640001
     }
   ],
   "por_mes": [
     {
       "mes": "2025-11",
-      "n": 139,
-      "volume": 19207101752.859997
+      "n": 125,
+      "volume": 17618481722.92
     },
     {
       "mes": "2025-12",
@@ -64,7 +64,7 @@
     {
       "mes": "2026-06",
       "n": 206,
-      "volume": 34861717231.29
+      "volume": 34861717231.29001
     },
     {
       "mes": "2026-07",
@@ -79,7 +79,7 @@
     {
       "mes": "2026-09",
       "n": 202,
-      "volume": 37387826500.96
+      "volume": 37497826500.96
     },
     {
       "mes": "2026-10",
@@ -88,20 +88,20 @@
     },
     {
       "mes": "2026-11",
-      "n": 64,
-      "volume": 5493494107.03
+      "n": 66,
+      "volume": 5643809107.03
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 31950064720.109997,
-      "n": 289
+      "volume": 32100379720.109997,
+      "n": 291
     },
     {
       "tipo_ativo": "Debêntures",
       "volume": 29050738013.55,
-      "n": 66
+      "n": 67
     },
     {
       "tipo_ativo": "Cotas de FII",
@@ -110,8 +110,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 14560813999.130001,
-      "n": 30
+      "volume": 14706599999.130001,
+      "n": 33
     },
     {
       "tipo_ativo": "Notas Comerciais",
@@ -120,8 +120,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7292103854.549999,
-      "n": 82
+      "volume": 7476418854.549999,
+      "n": 84
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3142
+      "n": 3128
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1242
+      "n": 1236
     },
     {
       "status_cvm": "Registro Caducado",
@@ -159,7 +159,7 @@
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 24
+      "n": 25
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -182,14 +182,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
-      "volume": 5500000000.0,
-      "n": 2
-    },
-    {
       "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
       "volume": 5500000000.0,
       "n": 1
+    },
+    {
+      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+      "volume": 5500000000.0,
+      "n": 2
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
@@ -225,12 +225,12 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 66786150591.509995,
-      "n": 126
+      "volume": 65539900581.509995,
+      "n": 123
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 55305942058.579994,
+      "volume": 55335942058.579994,
       "n": 98
     },
     {
@@ -255,7 +255,7 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 16908924409.72999,
+      "volume": 17018924409.729988,
       "n": 289
     },
     {
