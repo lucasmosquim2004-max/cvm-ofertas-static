@@ -1,23 +1,23 @@
 {
-  "novas_30d": 174,
-  "volume_30d": 21273122160.099995,
-  "ativas_12m": 902,
-  "total_ano": 2010,
+  "novas_30d": 181,
+  "volume_30d": 21950857314.229996,
+  "ativas_12m": 893,
+  "total_ano": 2016,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1451,
-      "volume": 147728244885.53003
+      "n": 1455,
+      "volume": 148071994885.53
     },
     {
       "tipo_fundo": "FII",
-      "n": 500,
-      "volume": 161014545810.02002
+      "n": 502,
+      "volume": 161048530964.15002
     },
     {
       "tipo_fundo": "FIP",
       "n": 253,
-      "volume": 43717120184.51999
+      "volume": 43907120184.51999
     },
     {
       "tipo_fundo": "FIDC NP",
@@ -58,18 +58,18 @@
     },
     {
       "mes": "2026-05",
-      "n": 216,
-      "volume": 29186598474.489998
+      "n": 217,
+      "volume": 29686598474.489998
     },
     {
       "mes": "2026-06",
       "n": 206,
-      "volume": 32361717231.29
+      "volume": 31961717231.29
     },
     {
       "mes": "2026-07",
-      "n": 202,
-      "volume": 29825325723.900005
+      "n": 201,
+      "volume": 29725325723.900005
     },
     {
       "mes": "2026-08",
@@ -78,40 +78,40 @@
     },
     {
       "mes": "2026-09",
-      "n": 202,
-      "volume": 36579066500.96
+      "n": 203,
+      "volume": 36829066500.96
     },
     {
       "mes": "2026-10",
-      "n": 217,
-      "volume": 27339674159.789997
+      "n": 215,
+      "volume": 26979674159.789997
     },
     {
       "mes": "2026-11",
-      "n": 72,
-      "volume": 5727284106.39
+      "n": 79,
+      "volume": 6405019260.52
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 26562617719.640003,
-      "n": 268
-    },
-    {
-      "tipo_ativo": "Cotas de FII",
-      "volume": 20613921320.55,
-      "n": 77
+      "volume": 25401367719.64,
+      "n": 267
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 20380723128.88,
+      "volume": 22230723128.88,
       "n": 57
     },
     {
+      "tipo_ativo": "Cotas de FII",
+      "volume": 20647906474.68,
+      "n": 79
+    },
+    {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 14519999999.029999,
-      "n": 29
+      "volume": 14615499999.029999,
+      "n": 28
     },
     {
       "tipo_ativo": "Notas Comerciais",
@@ -120,13 +120,13 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 7061729854.55,
-      "n": 81
+      "volume": 6971729854.55,
+      "n": 80
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 5552899609.99,
-      "n": 44
+      "volume": 5538092793.429999,
+      "n": 42
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
@@ -135,8 +135,8 @@
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 3236099999.97,
-      "n": 32
+      "volume": 2891099999.97,
+      "n": 29
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -147,19 +147,19 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3101
+      "n": 3121
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1232
-    },
-    {
-      "status_cvm": "Aguardando Bookbuilding",
-      "n": 29
+      "n": 1221
     },
     {
       "status_cvm": "Registro Caducado",
-      "n": 27
+      "n": 28
+    },
+    {
+      "status_cvm": "Aguardando Bookbuilding",
+      "n": 26
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -230,8 +230,8 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 54963208058.579994,
-      "n": 97
+      "volume": 54997208058.579994,
+      "n": 98
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
@@ -250,13 +250,13 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 16284772718.71,
+      "volume": 16474772718.71,
       "n": 166
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 15678924409.72999,
-      "n": 289
+      "volume": 15948674409.729992,
+      "n": 291
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
