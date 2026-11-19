@@ -1,18 +1,18 @@
 {
-  "novas_30d": 190,
-  "volume_30d": 23991873314.289997,
-  "ativas_12m": 894,
-  "total_ano": 2025,
+  "novas_30d": 182,
+  "volume_30d": 22391873314.279995,
+  "ativas_12m": 898,
+  "total_ano": 2032,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1452,
-      "volume": 147330493972.13
+      "n": 1451,
+      "volume": 147546493972.15
     },
     {
       "tipo_fundo": "FII",
-      "n": 502,
-      "volume": 161057796964.15002
+      "n": 503,
+      "volume": 161074796964.15002
     },
     {
       "tipo_fundo": "FIP",
@@ -21,15 +21,15 @@
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 226,
-      "volume": 11506973724.980001
+      "n": 224,
+      "volume": 11296973724.98
     }
   ],
   "por_mes": [
     {
       "mes": "2025-11",
-      "n": 85,
-      "volume": 9889936887.160002
+      "n": 76,
+      "volume": 9534936887.160002
     },
     {
       "mes": "2025-12",
@@ -88,25 +88,25 @@
     },
     {
       "mes": "2026-11",
-      "n": 88,
-      "volume": 8446035260.58
+      "n": 95,
+      "volume": 8824035260.6
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 24426157719.7,
-      "n": 269
+      "volume": 24787157719.719997,
+      "n": 275
     },
     {
       "tipo_ativo": "Debêntures",
       "volume": 21118471728.88,
-      "n": 55
+      "n": 57
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 20987422474.679996,
-      "n": 80
+      "volume": 21004422474.679996,
+      "n": 81
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
@@ -115,13 +115,13 @@
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7281741000.0,
+      "volume": 7353761000.0,
       "n": 36
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6420828854.55,
-      "n": 78
+      "volume": 6439973854.55,
+      "n": 81
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3110
+      "n": 3100
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1222
+      "n": 1223
     },
     {
       "status_cvm": "Registro Caducado",
@@ -159,11 +159,11 @@
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 25
+      "n": 26
     },
     {
       "status_cvm": "Oferta Revogada",
-      "n": 19
+      "n": 18
     },
     {
       "status_cvm": "Requerimento Expirado",
@@ -225,8 +225,8 @@
   "top_coordenadores": [
     {
       "coordenador": "XP INVESTIMENTOS CCTVM S.A.",
-      "volume": 61565185581.509995,
-      "n": 117
+      "volume": 61815185581.509995,
+      "n": 118
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
@@ -255,13 +255,13 @@
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 15948674409.729992,
-      "n": 291
+      "volume": 15994674409.82999,
+      "n": 293
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13151166984.769999,
-      "n": 149
+      "volume": 13131166984.769999,
+      "n": 147
     },
     {
       "coordenador": "BANCO SANTANDER (BRASIL) S.A.",
