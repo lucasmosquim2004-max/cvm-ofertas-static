@@ -1,35 +1,35 @@
 {
-  "novas_30d": 182,
-  "volume_30d": 22391873314.279995,
-  "ativas_12m": 898,
-  "total_ano": 2032,
+  "novas_30d": 191,
+  "volume_30d": 25410417514.739994,
+  "ativas_12m": 903,
+  "total_ano": 2049,
   "por_tipo": [
     {
       "tipo_fundo": "FIDC",
-      "n": 1451,
-      "volume": 147546493972.15
+      "n": 1454,
+      "volume": 149131900472.16998
     },
     {
       "tipo_fundo": "FII",
       "n": 503,
-      "volume": 161074796964.15002
+      "volume": 160850930301.27005
     },
     {
       "tipo_fundo": "FIP",
       "n": 249,
-      "volume": 43385620184.51999
+      "volume": 43974982737.75999
     },
     {
       "tipo_fundo": "FIDC NP",
-      "n": 224,
-      "volume": 11296973724.98
+      "n": 223,
+      "volume": 11096973724.98
     }
   ],
   "por_mes": [
     {
       "mes": "2025-11",
-      "n": 76,
-      "volume": 9534936887.160002
+      "n": 61,
+      "volume": 7473944777.52
     },
     {
       "mes": "2025-12",
@@ -88,25 +88,25 @@
     },
     {
       "mes": "2026-11",
-      "n": 95,
-      "volume": 8824035260.6
+      "n": 112,
+      "volume": 12635929760.619999
     }
   ],
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 24787157719.719997,
-      "n": 275
+      "volume": 26845657719.739998,
+      "n": 285
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 21118471728.88,
+      "volume": 21533471728.88,
       "n": 57
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 21004422474.679996,
-      "n": 81
+      "volume": 21443922474.679996,
+      "n": 83
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
@@ -116,27 +116,27 @@
     {
       "tipo_ativo": "Notas Comerciais",
       "volume": 7353761000.0,
-      "n": 36
-    },
-    {
-      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6439973854.55,
-      "n": 81
+      "n": 38
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 5558092793.429999,
-      "n": 43
+      "volume": 6871987293.429999,
+      "n": 48
+    },
+    {
+      "tipo_ativo": "Certificados de Recebíveis Imobiliários",
+      "volume": 6511736854.55,
+      "n": 86
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 4389856556.059999,
-      "n": 11
+      "volume": 5489856556.059999,
+      "n": 14
     },
     {
       "tipo_ativo": "Cotas de FIF",
-      "volume": 2891099999.97,
-      "n": 29
+      "volume": 2900599999.97,
+      "n": 31
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
@@ -147,11 +147,11 @@
   "por_status_12m": [
     {
       "status_cvm": "Oferta Encerrada",
-      "n": 3100
+      "n": 3092
     },
     {
       "status_cvm": "Registro Concedido",
-      "n": 1223
+      "n": 1229
     },
     {
       "status_cvm": "Registro Caducado",
@@ -159,7 +159,7 @@
     },
     {
       "status_cvm": "Aguardando Bookbuilding",
-      "n": 26
+      "n": 29
     },
     {
       "status_cvm": "Oferta Revogada",
@@ -230,13 +230,13 @@
     },
     {
       "coordenador": "ITAU BBA ASSESSORIA FINANCEIRA S.A",
-      "volume": 56254724058.58,
-      "n": 97
+      "volume": 57354724058.58,
+      "n": 98
     },
     {
       "coordenador": "BTG PACTUAL SERVIÇOS FINANCEIROS S/A DTVM",
-      "volume": 28630658587.290005,
-      "n": 161
+      "volume": 29610158587.290005,
+      "n": 163
     },
     {
       "coordenador": "BANCO BRADESCO BBI S.A.",
@@ -250,17 +250,17 @@
     },
     {
       "coordenador": "BANCO DAYCOVAL S.A.",
-      "volume": 16794772718.71,
+      "volume": 16924685271.949999,
       "n": 168
     },
     {
       "coordenador": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-      "volume": 15994674409.82999,
-      "n": 293
+      "volume": 16714674409.849993,
+      "n": 297
     },
     {
       "coordenador": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-      "volume": 13131166984.769999,
+      "volume": 12993666984.769999,
       "n": 147
     },
     {
