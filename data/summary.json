@@ -1,6 +1,6 @@
 {
-  "novas_30d": 191,
-  "volume_30d": 25410417514.739994,
+  "novas_30d": 175,
+  "volume_30d": 19553684969.739998,
   "ativas_12m": 903,
   "total_ano": 2049,
   "por_tipo": [
@@ -95,28 +95,28 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 26845657719.739998,
-      "n": 285
+      "volume": 26254758162.75,
+      "n": 276
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 21533471728.88,
-      "n": 57
+      "volume": 21403471728.88,
+      "n": 55
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 21443922474.679996,
-      "n": 83
+      "volume": 20772480401.859997,
+      "n": 79
     },
     {
       "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 14676499999.029999,
-      "n": 28
+      "volume": 14646499999.0,
+      "n": 27
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 7353761000.0,
-      "n": 38
+      "volume": 7153761000.0,
+      "n": 37
     },
     {
       "tipo_ativo": "Cotas de FIP",
@@ -125,8 +125,8 @@
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 6511736854.55,
-      "n": 86
+      "volume": 6039736854.55,
+      "n": 80
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
