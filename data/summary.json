@@ -1,6 +1,6 @@
 {
-  "novas_30d": 167,
-  "volume_30d": 18027684969.739998,
+  "novas_30d": 161,
+  "volume_30d": 17841075368.769997,
   "ativas_12m": 902,
   "total_ano": 2049,
   "por_tipo": [
@@ -95,43 +95,43 @@
   "por_tipo_60d": [
     {
       "tipo_ativo": "Cotas de FIDC",
-      "volume": 26065208162.6,
-      "n": 270
+      "volume": 24507898402.6,
+      "n": 262
     },
     {
       "tipo_ativo": "Cotas de FII",
-      "volume": 20570924218.01,
-      "n": 75
+      "volume": 19664376256.280003,
+      "n": 70
     },
     {
       "tipo_ativo": "Debêntures",
-      "volume": 20153471728.88,
-      "n": 54
-    },
-    {
-      "tipo_ativo": "Cotas de FIAGRO",
-      "volume": 14646499999.0,
-      "n": 27
+      "volume": 19008471728.88,
+      "n": 52
     },
     {
       "tipo_ativo": "Cotas de FIP",
-      "volume": 6629987293.429999,
-      "n": 46
+      "volume": 6611987754.5199995,
+      "n": 45
     },
     {
       "tipo_ativo": "Notas Comerciais",
-      "volume": 6216761000.0,
-      "n": 32
+      "volume": 6001761000.0,
+      "n": 31
     },
     {
       "tipo_ativo": "Certificados de Recebíveis Imobiliários",
-      "volume": 5974736854.55,
-      "n": 79
+      "volume": 5692736854.55,
+      "n": 76
+    },
+    {
+      "tipo_ativo": "Cotas de FIAGRO",
+      "volume": 5668980943.0,
+      "n": 23
     },
     {
       "tipo_ativo": "Outros títulos de securitização",
-      "volume": 5489856556.059999,
-      "n": 14
+      "volume": 4489856556.059999,
+      "n": 13
     },
     {
       "tipo_ativo": "Cotas de FIF",
@@ -140,8 +140,8 @@
     },
     {
       "tipo_ativo": "Cédula de Produto Rural Financeira",
-      "volume": 1507000000.0,
-      "n": 7
+      "volume": 1282000000.0,
+      "n": 5
     }
   ],
   "por_status_12m": [
@@ -182,14 +182,14 @@
       "n": 3
     },
     {
-      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
-      "volume": 5500000000.0,
-      "n": 2
-    },
-    {
       "emissor_nome": "CLOUDWALK BELA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO",
       "volume": 5500000000.0,
       "n": 1
+    },
+    {
+      "emissor_nome": "SELLER 3 FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS SEGMENTO MEIOS DE PAGAMENTO DE RESP LIMITADA",
+      "volume": 5500000000.0,
+      "n": 2
     },
     {
       "emissor_nome": "JHSF CAPITAL DESENVOLVIMENTO IMOBILIÁRIO FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
