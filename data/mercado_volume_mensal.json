@@ -1629,7 +1629,7 @@
     {
       "mes": "2026-09",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 17748059933.909996,
+      "volume": 17419296717.47,
       "n": 51
     },
     {
@@ -1755,8 +1755,8 @@
     {
       "mes": "2026-11",
       "valor_mobiliario": "Certificados de Recebíveis Imobiliários",
-      "volume": 1033236216.3299999,
-      "n": 18
+      "volume": 1754803216.33,
+      "n": 24
     },
     {
       "mes": "2026-11",
@@ -1767,50 +1767,50 @@
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIAGRO",
-      "volume": 1681000000.0,
-      "n": 6
+      "volume": 1727500000.0,
+      "n": 9
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIDC",
-      "volume": 4842228693.57,
-      "n": 63
+      "volume": 5606478823.32,
+      "n": 81
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIF",
-      "volume": 907169999.97,
-      "n": 12
+      "volume": 1107169999.97,
+      "n": 14
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FII",
-      "volume": 3716230989.48,
-      "n": 28
+      "volume": 3783480989.48,
+      "n": 30
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Cotas de FIP",
-      "volume": 4077470077.5699997,
-      "n": 21
+      "volume": 4289927577.5699997,
+      "n": 23
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Debêntures",
-      "volume": 1665186000.0,
-      "n": 15
+      "volume": 2465186000.0,
+      "n": 17
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Notas Comerciais",
-      "volume": 346550000.0,
-      "n": 8
+      "volume": 3346550000.0,
+      "n": 12
     },
     {
       "mes": "2026-11",
       "valor_mobiliario": "Outros títulos de securitização",
       "volume": 1402284884.67,
-      "n": 6
+      "n": 7
     }
   ]
 }

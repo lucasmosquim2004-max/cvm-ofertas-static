@@ -4,7 +4,7 @@
       "ano": 2019,
       "tipo_fundo": "Cotas de FIDC",
       "n": 445,
-      "volume": 49239554668.95002,
+      "volume": 49239554668.95003,
       "ativas": 0
     },
     {
@@ -32,7 +32,7 @@
       "ano": 2020,
       "tipo_fundo": "Cotas de FII",
       "n": 249,
-      "volume": 25378991778.65001,
+      "volume": 25378991778.650013,
       "ativas": 0
     },
     {
@@ -53,7 +53,7 @@
       "ano": 2021,
       "tipo_fundo": "Cotas de FII",
       "n": 319,
-      "volume": 31531954371.88001,
+      "volume": 31531954371.880005,
       "ativas": 0
     },
     {
@@ -67,7 +67,7 @@
       "ano": 2022,
       "tipo_fundo": "Cotas de FIDC",
       "n": 1193,
-      "volume": 72751943967.06998,
+      "volume": 72751943967.06999,
       "ativas": 0
     },
     {
@@ -95,7 +95,7 @@
       "ano": 2023,
       "tipo_fundo": "Cotas de FII",
       "n": 247,
-      "volume": 43591365467.27001,
+      "volume": 43591365467.27002,
       "ativas": 19
     },
     {
@@ -123,7 +123,7 @@
       "ano": 2024,
       "tipo_fundo": "Cotas de FIP",
       "n": 311,
-      "volume": 39064762087.38,
+      "volume": 39064762087.380005,
       "ativas": 10
     },
     {
@@ -137,7 +137,7 @@
       "ano": 2025,
       "tipo_fundo": "Cotas de FII",
       "n": 425,
-      "volume": 113287314120.65002,
+      "volume": 113287314120.65004,
       "ativas": 15
     },
     {
@@ -150,35 +150,35 @@
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIDC",
-      "n": 1415,
-      "volume": 138264520599.42996,
-      "ativas": 665
+      "n": 1433,
+      "volume": 139028770729.18005,
+      "ativas": 659
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FII",
-      "n": 426,
-      "volume": 138831922279.62006,
-      "ativas": 145
+      "n": 428,
+      "volume": 138570409063.18005,
+      "ativas": 138
     },
     {
       "ano": 2026,
       "tipo_fundo": "Cotas de FIP",
-      "n": 208,
-      "volume": 36959151840.659996,
-      "ativas": 77
+      "n": 210,
+      "volume": 37171609340.65999,
+      "ativas": 78
     }
   ],
   "data_base": "11/2026",
   "kpis": {
-    "total_ano": 2049,
-    "volume_ano": 314055594719.71,
-    "ytd_atual_n": 2049,
-    "ytd_anterior_n": 2075,
-    "ytd_atual_vol": 314055594719.7098,
-    "ytd_anterior_vol": 231976195741.6301,
+    "total_ano": 2071,
+    "volume_ano": 314770789133.0201,
+    "ytd_atual_n": 2071,
+    "ytd_anterior_n": 2099,
+    "ytd_atual_vol": 314770789133.0198,
+    "ytd_anterior_vol": 236589008392.95007,
     "ytd_yoy_n": -1.3,
-    "ytd_yoy_vol": 35.4,
-    "ativas_total": 1093
+    "ytd_yoy_vol": 33.0,
+    "ativas_total": 1081
   }
 }
